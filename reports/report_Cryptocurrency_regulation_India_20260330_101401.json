@@ -1,0 +1,59 @@
+{
+  "topic": "Cryptocurrency regulation India",
+  "bias_score": 0.0,
+  "synthesis_report": "Balanced synthesis: Cryptocurrency regulation helps protect retail investors from scams. Strict crypto bans will destroy innovation in the fintech sector. ...",
+  "loaded_language_removed": [],
+  "key_agreements": [
+    "Both sides mention economic trade-offs."
+  ],
+  "key_disagreements": [
+    "Level of regulation and innovation impact."
+  ],
+  "source_citations": [
+    "NewsA",
+    "NewsB",
+    "NewsC"
+  ],
+  "hallucination_flags": [],
+  "agent_a": {
+    "arguments": [
+      "Cryptocurrency regulation helps protect retail investors from scams."
+    ],
+    "evidence": [
+      "Cryptocurrency regulation helps protect retail investors from scams."
+    ],
+    "key_sources": [
+      "NewsA"
+    ],
+    "confidence_score": 0.5
+  },
+  "agent_b": {
+    "counter_arguments": [
+      "Strict crypto bans will destroy innovation in the fintech sector."
+    ],
+    "evidence": [
+      "Strict crypto bans will destroy innovation in the fintech sector."
+    ],
+    "key_sources": [
+      "NewsB"
+    ],
+    "confidence_score": 0.5
+  },
+  "agent_c": {
+    "synthesis_report": "Balanced synthesis: Cryptocurrency regulation helps protect retail investors from scams. Strict crypto bans will destroy innovation in the fintech sector. ...",
+    "bias_score": 0.0,
+    "loaded_language_removed": [],
+    "key_agreements": [
+      "Both sides mention economic trade-offs."
+    ],
+    "key_disagreements": [
+      "Level of regulation and innovation impact."
+    ],
+    "source_citations": [
+      "NewsA",
+      "NewsB",
+      "NewsC"
+    ],
+    "hallucination_flags": []
+  }
+}

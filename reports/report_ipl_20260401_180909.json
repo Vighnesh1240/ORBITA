@@ -1,0 +1,136 @@
+{
+  "topic": "ipl",
+  "bias_score": 0.0,
+  "synthesis_report": "The Indian Premier League (IPL) is presented as a financially attractive investment, with franchise values considered significantly lower than those in American sports leagues like the NFL and NBA, offering high potential returns on investment. Indian conglomerates view IPL teams as 'trophy assets,' indicating a strategic long-term investment approach with expectations of substantial annual returns. The 2026 season is scheduled to run from March 28 to May 31, featuring a modified group stage format where teams will play opponents within their own group once and those in the opposing group twice. This season is also anticipated to showcase emerging talent, with 15-year-old Vaibhav Suryavanshi highlighted as a potential star for the Rajasthan Royals. Broadcast rights for the IPL 2026 are secured by various providers globally, including Willow TV in the US, Sky Sport in New Zealand, and SuperSport in South Africa, with options for streaming services and VPN usage to access content internationally. Despite these positive financial and structural aspects, a note of caution is introduced regarding the potential for expansion, suggesting that the much-anticipated growth might not have fully materialized, although the IPL remains the world's premier franchise cricket competition in its 19th season. Additionally, it's acknowledged that some streaming services may have policies that restrict the use of VPNs for accessing region-specific content, which could impact international viewership.",
+  "loaded_language_removed": [
+    "bargain buys",
+    "trophy assets",
+    "much-vaunted"
+  ],
+  "key_agreements": [
+    "The IPL remains the world's biggest franchise cricket competition.",
+    "The 2026 IPL season has a defined schedule.",
+    "There are international broadcast and streaming options for the IPL."
+  ],
+  "key_disagreements": [
+    "The extent to which IPL expansion has materialized.",
+    "The potential impact of streaming service VPN restrictions on viewership."
+  ],
+  "source_citations": [
+    "The Indian Express",
+    "The Times of India",
+    "CNET",
+    "TechRadar"
+  ],
+  "hallucination_flags": [
+    "The average franchise value in the NFL stands at $5.1 billion and in the NBA at $3.9 billion, according to The Conversation.",
+    "Indian conglomerates view IPL investments as 'trophy assets'.",
+    "A WPP Media report earlier this week revealed India’s sports economy crossed $2 billion in 2025.",
+    "Elsewhere, the new term brings a slight format change, with a modified group stage where teams now play opponents from their own group once and the opposite group twice.",
+    "15-year-old Vaibhav Suryavanshi widely tipped to shine for Rajasthan Royals.",
+    "“The way these guys look at it is they will hold on to it for five years, eight years… If I’m able to make a 30 per cent per annum sort of return, I’m going to sell and exit and make money,” Santosh said.",
+    "The Indian sports economy crossed $2 billion in 2025, with cricket dominating this market.",
+    "However, some streaming services may have policies that restrict VPN use to access region-specific content.",
+    "The 2026 Indian Premier League season will run from March 28 to May 31.",
+    "in its 19th season the IPL remains the world's biggest franchise cricket competition.",
+    "The 2026 Indian Premier League season will feature a modified group stage where teams play opponents from their own group once and the opposite group twice.",
+    "The 2026 Indian Premier League season runs from Saturday, March 28, until Sunday, May 31.",
+    "Vaibhav Suryavanshi, a 15-year-old, is expected to be a new cricketing superstar for Rajasthan Royals in the 2026 IPL.",
+    "IPL investments can provide a 30% per annum return, allowing for profitable exits within five to eight years.",
+    "The much-vaunted Indian Premier League expansion might not have materialized, but in its 19th season the IPL remains the world's biggest franchise cricket competition.",
+    "Cricket dominates with an 89",
+    "Some streaming services may have policies that restrict VPN use to access region-specific content.",
+    "IPL teams are considered bargain buys compared to NFL and NBA franchises, especially considering the potential for high returns on investment.",
+    "The much-vaunted Indian Premier League expansion might not have materialized.",
+    "The IPL remains the world's biggest franchise cricket competition in its 19th season."
+  ],
+  "agent_a": {
+    "arguments": [
+      "IPL teams are considered bargain buys compared to NFL and NBA franchises, especially considering the potential for high returns on investment.",
+      "Indian conglomerates view IPL investments as 'trophy assets'.",
+      "The 2026 Indian Premier League season will run from March 28 to May 31.",
+      "The 2026 Indian Premier League season will feature a modified group stage where teams play opponents from their own group once and the opposite group twice.",
+      "The IPL remains the world's biggest franchise cricket competition in its 19th season.",
+      "Vaibhav Suryavanshi, a 15-year-old, is expected to be a new cricketing superstar for Rajasthan Royals in the 2026 IPL.",
+      "IPL investments can provide a 30% per annum return, allowing for profitable exits within five to eight years.",
+      "The Indian sports economy crossed $2 billion in 2025, with cricket dominating this market."
+    ],
+    "evidence": [
+      "The average franchise value in the NFL stands at $5.1 billion and in the NBA at $3.9 billion, according to The Conversation.",
+      "A WPP Media report earlier this week revealed India’s sports economy crossed $2 billion in 2025.",
+      "“The way these guys look at it is they will hold on to it for five years, eight years… If I’m able to make a 30 per cent per annum sort of return, I’m going to sell and exit and make money,” Santosh said.",
+      "The 2026 Indian Premier League season runs from Saturday, March 28, until Sunday, May 31.",
+      "Elsewhere, the new term brings a slight format change, with a modified group stage where teams now play opponents from their own group once and the opposite group twice.",
+      "in its 19th season the IPL remains the world's biggest franchise cricket competition.",
+      "15-year-old Vaibhav Suryavanshi widely tipped to shine for Rajasthan Royals.",
+      "Cricket dominates with an 89"
+    ],
+    "key_sources": [
+      "The Indian Express",
+      "CNET",
+      "The Times of India"
+    ],
+    "confidence_score": 0.9
+  },
+  "agent_b": {
+    "counter_arguments": [
+      "Some streaming services may have policies that restrict VPN use to access region-specific content.",
+      "The much-vaunted Indian Premier League expansion might not have materialized."
+    ],
+    "evidence": [
+      "However, some streaming services may have policies that restrict VPN use to access region-specific content.",
+      "The much-vaunted Indian Premier League expansion might not have materialized, but in its 19th season the IPL remains the world's biggest franchise cricket competition."
+    ],
+    "key_sources": [
+      "CNET",
+      "TechRadar"
+    ],
+    "confidence_score": 0.6
+  },
+  "agent_c": {
+    "synthesis_report": "The Indian Premier League (IPL) is presented as a financially attractive investment, with franchise values considered significantly lower than those in American sports leagues like the NFL and NBA, offering high potential returns on investment. Indian conglomerates view IPL teams as 'trophy assets,' indicating a strategic long-term investment approach with expectations of substantial annual returns. The 2026 season is scheduled to run from March 28 to May 31, featuring a modified group stage format where teams will play opponents within their own group once and those in the opposing group twice. This season is also anticipated to showcase emerging talent, with 15-year-old Vaibhav Suryavanshi highlighted as a potential star for the Rajasthan Royals. Broadcast rights for the IPL 2026 are secured by various providers globally, including Willow TV in the US, Sky Sport in New Zealand, and SuperSport in South Africa, with options for streaming services and VPN usage to access content internationally. Despite these positive financial and structural aspects, a note of caution is introduced regarding the potential for expansion, suggesting that the much-anticipated growth might not have fully materialized, although the IPL remains the world's premier franchise cricket competition in its 19th season. Additionally, it's acknowledged that some streaming services may have policies that restrict the use of VPNs for accessing region-specific content, which could impact international viewership.",
+    "bias_score": 0.0,
+    "loaded_language_removed": [
+      "bargain buys",
+      "trophy assets",
+      "much-vaunted"
+    ],
+    "key_agreements": [
+      "The IPL remains the world's biggest franchise cricket competition.",
+      "The 2026 IPL season has a defined schedule.",
+      "There are international broadcast and streaming options for the IPL."
+    ],
+    "key_disagreements": [
+      "The extent to which IPL expansion has materialized.",
+      "The potential impact of streaming service VPN restrictions on viewership."
+    ],
+    "source_citations": [
+      "The Indian Express",
+      "The Times of India",
+      "CNET",
+      "TechRadar"
+    ],
+    "hallucination_flags": [
+      "The average franchise value in the NFL stands at $5.1 billion and in the NBA at $3.9 billion, according to The Conversation.",
+      "Indian conglomerates view IPL investments as 'trophy assets'.",
+      "A WPP Media report earlier this week revealed India’s sports economy crossed $2 billion in 2025.",
+      "Elsewhere, the new term brings a slight format change, with a modified group stage where teams now play opponents from their own group once and the opposite group twice.",
+      "15-year-old Vaibhav Suryavanshi widely tipped to shine for Rajasthan Royals.",
+      "“The way these guys look at it is they will hold on to it for five years, eight years… If I’m able to make a 30 per cent per annum sort of return, I’m going to sell and exit and make money,” Santosh said.",
+      "The Indian sports economy crossed $2 billion in 2025, with cricket dominating this market.",
+      "However, some streaming services may have policies that restrict VPN use to access region-specific content.",
+      "The 2026 Indian Premier League season will run from March 28 to May 31.",
+      "in its 19th season the IPL remains the world's biggest franchise cricket competition.",
+      "The 2026 Indian Premier League season will feature a modified group stage where teams play opponents from their own group once and the opposite group twice.",
+      "The 2026 Indian Premier League season runs from Saturday, March 28, until Sunday, May 31.",
+      "Vaibhav Suryavanshi, a 15-year-old, is expected to be a new cricketing superstar for Rajasthan Royals in the 2026 IPL.",
+      "IPL investments can provide a 30% per annum return, allowing for profitable exits within five to eight years.",
+      "The much-vaunted Indian Premier League expansion might not have materialized, but in its 19th season the IPL remains the world's biggest franchise cricket competition.",
+      "Cricket dominates with an 89",
+      "Some streaming services may have policies that restrict VPN use to access region-specific content.",
+      "IPL teams are considered bargain buys compared to NFL and NBA franchises, especially considering the potential for high returns on investment.",
+      "The much-vaunted Indian Premier League expansion might not have materialized.",
+      "The IPL remains the world's biggest franchise cricket competition in its 19th season."
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "topic": "Cryptocurrency regulation India",
+  "bias_score": 0.0,
+  "synthesis_report": "Agent C failed: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+  "loaded_language_removed": [],
+  "key_agreements": [],
+  "key_disagreements": [],
+  "source_citations": [],
+  "hallucination_flags": [],
+  "agent_a": {
+    "arguments": [],
+    "evidence": [],
+    "key_sources": [],
+    "confidence_score": 0.0,
+    "_error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+  },
+  "agent_b": {
+    "counter_arguments": [],
+    "evidence": [],
+    "key_sources": [],
+    "confidence_score": 0.0,
+    "_error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+  },
+  "agent_c": {
+    "synthesis_report": "Agent C failed: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "bias_score": 0.0,
+    "loaded_language_removed": [],
+    "key_agreements": [],
+    "key_disagreements": [],
+    "source_citations": [],
+    "hallucination_flags": [],
+    "_error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+  }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+    "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+    "source": "The Verge",
+    "description": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out. \"The Departmen…",
+    "stance": "Supportive",
+    "word_count": 1182
+  },
+  {
+    "url": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/",
+    "title": "The AI Industry Is Lying to You",
+    "source": "Wheresyoured.at",
+    "description": "Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5000 to 18,000 words, incl…",
+    "stance": "Supportive",
+    "word_count": 9469
+  },
+  {
+    "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+    "title": "Wikipedia bans AI-generated articles",
+    "source": "The Verge",
+    "description": "Wikipedia will no longer allow editors to write or rewrite articles using AI. The update, which was added to Wikipedia's guidelines late last week, cites the tendency for AI-written articles to violate \"several of Wikipedia's core content policies\" as the rea…",
+    "stance": "Neutral",
+    "word_count": 285
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+    "title": "TikTok’s policy for AI ads isn’t working",
+    "source": "The Verge",
+    "description": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual \"tells\" that something was synthetically generated, some…",
+    "stance": "Neutral",
+    "word_count": 955
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+    "title": "Webtoon is adding AI localization tools to its comics platform",
+    "source": "The Verge",
+    "description": "Canvas, Webtoon's platform for user-uploaded comics, is about to get a major overhaul that's designed to help creators make more money and share their art with a wider audience. Today, Webtoon announced its plans to roll out a number of new features for Canva…",
+    "stance": "Neutral",
+    "word_count": 629
+  },
+  {
+    "url": "https://www.aljazeera.com/economy/2026/3/25/anthropics-case-against-the-pentagon-could-open-space-for-ai-regulation",
+    "title": "Anthropic’s case against the Pentagon could open space for AI regulation",
+    "source": "Al Jazeera English",
+    "description": "A California judge says US DoD may be 'attempting to cripple Anthropic' for pushing for restrictions on AI weapons.",
+    "stance": "Neutral",
+    "word_count": 1598
+  },
+  {
+    "url": "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/",
+    "title": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
+    "source": "Wired",
+    "description": "From female fruit being fart-shamed or even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
+    "stance": "Supportive",
+    "word_count": 1447
+  }
+]

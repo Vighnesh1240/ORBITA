@@ -1,0 +1,73 @@
+{
+  "topic": "Rohit",
+  "bias_score": 0.0,
+  "synthesis_report": "Balanced synthesis: In Dhoni’s absence, CSK are likely to hand the wicket-keeping gloves to India opener Sanju Samson, who is considered the former India captain’s successor at the Panaji: Rohit Monserrate will continue as mayor, and Vasant Agshikar will be appointed as the next deputy mayor of the Corporation of the City of Panaji (CCP).  In Dhoni’s absence, CSK are likely to hand the wicket-keeping gloves to India opener Sanju Samson, who is considered the former India captain’s successor at the Panaji: Rohit Monserrate will continue as mayor, and Vasant Agshikar will be appointed as the next deputy mayor of the Corporation of the City of Panaji (CCP).  ...",
+  "loaded_language_removed": [],
+  "key_agreements": [
+    "Both sides mention economic trade-offs."
+  ],
+  "key_disagreements": [
+    "Level of regulation and innovation impact."
+  ],
+  "source_citations": [
+    "Help Net Security",
+    "The Indian Express",
+    "The Times of India"
+  ],
+  "hallucination_flags": [
+    "In Dhoni’s absence, CSK are likely to hand the wicket-keeping gloves to India opener Sanju Samson, who is considered the former India captain’s successor at the",
+    "Panaji: Rohit Monserrate will continue as mayor, and Vasant Agshikar will be appointed as the next deputy mayor of the Corporation of the City of Panaji (CCP). "
+  ],
+  "agent_a": {
+    "arguments": [
+      "In Dhoni’s absence, CSK are likely to hand the wicket-keeping gloves to India opener Sanju Samson, who is considered the former India captain’s successor at the",
+      "Panaji: Rohit Monserrate will continue as mayor, and Vasant Agshikar will be appointed as the next deputy mayor of the Corporation of the City of Panaji (CCP). "
+    ],
+    "evidence": [
+      "In Dhoni’s absence, CSK are likely to hand the wicket-keeping gloves to India opener Sanju Samson, who is considered the former India captain’s successor at the",
+      "Panaji: Rohit Monserrate will continue as mayor, and Vasant Agshikar will be appointed as the next deputy mayor of the Corporation of the City of Panaji (CCP). "
+    ],
+    "key_sources": [
+      "Help Net Security",
+      "The Indian Express",
+      "The Times of India"
+    ],
+    "confidence_score": 0.5
+  },
+  "agent_b": {
+    "counter_arguments": [
+      "In Dhoni’s absence, CSK are likely to hand the wicket-keeping gloves to India opener Sanju Samson, who is considered the former India captain’s successor at the",
+      "Panaji: Rohit Monserrate will continue as mayor, and Vasant Agshikar will be appointed as the next deputy mayor of the Corporation of the City of Panaji (CCP). "
+    ],
+    "evidence": [
+      "In Dhoni’s absence, CSK are likely to hand the wicket-keeping gloves to India opener Sanju Samson, who is considered the former India captain’s successor at the",
+      "Panaji: Rohit Monserrate will continue as mayor, and Vasant Agshikar will be appointed as the next deputy mayor of the Corporation of the City of Panaji (CCP). "
+    ],
+    "key_sources": [
+      "Help Net Security",
+      "The Indian Express",
+      "The Times of India"
+    ],
+    "confidence_score": 0.5
+  },
+  "agent_c": {
+    "synthesis_report": "Balanced synthesis: In Dhoni’s absence, CSK are likely to hand the wicket-keeping gloves to India opener Sanju Samson, who is considered the former India captain’s successor at the Panaji: Rohit Monserrate will continue as mayor, and Vasant Agshikar will be appointed as the next deputy mayor of the Corporation of the City of Panaji (CCP).  In Dhoni’s absence, CSK are likely to hand the wicket-keeping gloves to India opener Sanju Samson, who is considered the former India captain’s successor at the Panaji: Rohit Monserrate will continue as mayor, and Vasant Agshikar will be appointed as the next deputy mayor of the Corporation of the City of Panaji (CCP).  ...",
+    "bias_score": 0.0,
+    "loaded_language_removed": [],
+    "key_agreements": [
+      "Both sides mention economic trade-offs."
+    ],
+    "key_disagreements": [
+      "Level of regulation and innovation impact."
+    ],
+    "source_citations": [
+      "Help Net Security",
+      "The Indian Express",
+      "The Times of India"
+    ],
+    "hallucination_flags": [
+      "In Dhoni’s absence, CSK are likely to hand the wicket-keeping gloves to India opener Sanju Samson, who is considered the former India captain’s successor at the",
+      "Panaji: Rohit Monserrate will continue as mayor, and Vasant Agshikar will be appointed as the next deputy mayor of the Corporation of the City of Panaji (CCP). "
+    ]
+  }
+}
