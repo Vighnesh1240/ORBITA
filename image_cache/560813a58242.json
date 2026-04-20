@@ -1,0 +1,22 @@
+{
+  "emotional_tone": "negative",
+  "visual_framing": "threat",
+  "subjects_detected": [
+    "building",
+    "energy vortex",
+    "computer chips"
+  ],
+  "narrative_suggested": "A powerful, destructive force is breaking through a building, suggesting a technological disruption or invasion.",
+  "image_text_consistent": false,
+  "loaded_visual_elements": [
+    "shattering building",
+    "intense energy vortex",
+    "glowing computer chips"
+  ],
+  "visual_bias_score": 0.8,
+  "visual_bias_direction": "critical",
+  "confidence": 0.9,
+  "description": "A skyscraper is being shattered by a swirling vortex of colorful energy, which contains glowing computer chips and appears to be breaking through the building's facade.",
+  "image_url": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/03/deepseek-v4-chinese-ai-open-source-model-543-original.jpg",
+  "error": null
+}

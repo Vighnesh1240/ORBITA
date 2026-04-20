@@ -1,0 +1,18 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "car interior",
+    "door handle",
+    "control panel"
+  ],
+  "narrative_suggested": "The image shows a close-up of a car's interior, highlighting a door handle and control panel.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.9,
+  "description": "A close-up shot of the interior of a car, focusing on the door handle and a section of the control panel.",
+  "image_url": "https://paultan.org/image/2026/04/2026-Toyota-Urban-Cruiser-BEV-Launch-Malaysia-Int-25-108x108.jpg",
+  "error": null
+}

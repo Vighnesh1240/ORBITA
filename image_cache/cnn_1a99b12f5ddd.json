@@ -1,0 +1,24 @@
+{
+  "image_url": "https://static.hurriyetdailynews.com/images/placeholder-img.jpg",
+  "visual_bias_score": 0.1259,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.353,
+  "description": "Rising oil prices drive surge in electri \u2014 bright image, low contrast, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.3034,
+    0.353,
+    0.3436
+  ],
+  "cnn_confidence": 0.353,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.3596,
+  "brightness": 243.1,
+  "is_dark": false,
+  "contrast": 0.0458,
+  "edge_density": 0.0045,
+  "aspect_ratio": 1.3,
+  "image_size": "650x500",
+  "error": null
+}

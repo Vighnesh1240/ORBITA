@@ -1,0 +1,19 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "profile picture",
+    "text",
+    "logo",
+    "link"
+  ],
+  "narrative_suggested": "The image presents a tweet with a community note that disputes a claim made in the tweet, suggesting a factual correction or clarification is being offered.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.9,
+  "description": "The image shows a tweet from 'talmon joseph smith' which includes a reply from 'More Perfect Union'. A community note is displayed below the More Perfect Union tweet, indicating that the content is being reviewed for accuracy. The community note itself contains text and links that appear to be fact-checking or providing additional context.",
+  "image_url": "https://substackcdn.com/image/fetch/$s_!Ua1c!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00d78ce0-59aa-45a5-b0ef-ebd15f83c525_892x718.png",
+  "error": null
+}

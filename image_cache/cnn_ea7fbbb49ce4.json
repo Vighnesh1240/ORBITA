@@ -1,0 +1,24 @@
+{
+  "image_url": "https://media.nature.com/lw767/magazine-assets/d41586-026-00974-2/d41586-026-00974-2_52212788.jpg",
+  "visual_bias_score": 0.1281,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3477,
+  "description": "Inside the \u2018self-driving\u2019 lab revolution \u2014 moderate-light image, CNN: negative sentiment",
+  "cnn_class": "negative",
+  "cnn_probabilities": [
+    0.3439,
+    0.3084,
+    0.3477
+  ],
+  "cnn_confidence": 0.3477,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.2796,
+  "brightness": 122.0,
+  "is_dark": false,
+  "contrast": 0.352,
+  "edge_density": 0.114,
+  "aspect_ratio": 1.504,
+  "image_size": "767x510",
+  "error": null
+}

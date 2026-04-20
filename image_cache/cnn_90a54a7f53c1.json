@@ -1,0 +1,15 @@
+{
+  "image_url": "https://www.livemint.com/lm-img/img/static/mintPremium.png",
+  "visual_bias_score": 0.0,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.0,
+  "description": "Skipped: Image too small: 285x42",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.33,
+    0.34,
+    0.33
+  ],
+  "error": "Image too small: 285x42"
+}

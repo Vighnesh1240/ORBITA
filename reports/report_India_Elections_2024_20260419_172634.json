@@ -1,0 +1,459 @@
+{
+  "topic": "India Elections 2024",
+  "bias_score": -0.6152,
+  "bias_vector": {
+    "ideological_bias": -0.5061,
+    "emotional_bias": 0.1128,
+    "informational_bias": 0.0,
+    "source_diversity": 0.9764,
+    "stance_entropy": 0.5446,
+    "composite_score": -0.6152,
+    "confidence": 0.899,
+    "interpretation": "Strongly Supportive",
+    "dimension_labels": {
+      "ideological": "Moderately Supportive",
+      "emotional": "Low Emotional Bias",
+      "informational": "Mostly Factual",
+      "diversity": "High Source Diversity"
+    }
+  },
+  "synthesis_report": "India's electoral landscape is currently marked by significant political activity, with millions of voters participating in local elections across two states and a federally-governed territory. These contests are being closely watched as a barometer of public support for Prime Minister Narendra Modi and his Bharatiya Janata Party (BJP). In Assam, a BJP-led alliance is anticipated to maintain its hold on power, having governed the northeastern state for two consecutive terms. However, the electoral process is not without its controversies. In West Bengal, political tensions have escalated due to allegations of irregularities in the revision of electoral rolls. Specifically, concerns have been raised by opposition parties and Muslim groups that millions of voters, predominantly from the Muslim community, have been unfairly removed from voter lists during a \"Special Intensive Revision\" exercise, which they claim unfairly targets minority voters. This has led to heightened political friction in the state. Beyond these immediate electoral concerns, India's role in global manufacturing is also evolving, with the country steadily increasing its production of iPhones. The recent electoral outcomes in Tamil Nadu indicate a significant shift, with the INDIA bloc, led by the DMK, achieving a dominant performance, sweeping most parliamentary seats and marking a substantial improvement from previous elections. Conversely, the AIADMK has experienced a notable decline in its electoral fortunes compared to its 2021 Assembly poll performance.",
+  "loaded_language_removed": [],
+  "key_agreements": [
+    "Allegations of irregularities in electoral roll revisions have intensified political tensions in West Bengal.",
+    "Millions of voters, predominantly Muslims, have been deleted from voter rolls.",
+    "These elections are seen as a test of support for Prime Minister Narendra Modi and the BJP."
+  ],
+  "key_disagreements": [
+    "Agent A mentions the BJP is expected to retain power in Assam, while Agent B focuses on electoral roll irregularities in West Bengal and the AIADMK's decline in Tamil Nadu, without directly contradicting the Assam prediction."
+  ],
+  "source_citations": [
+    "[2]",
+    "[5]",
+    "[8]",
+    "[6]",
+    "[3]",
+    "[4]"
+  ],
+  "hallucination_flags": [
+    "India has been assembling iPhones for years, with Apple steadily increasing the number of models made in the country and the production volume.",
+    "A BJP-led alliance has ruled the northeastern state of Assam for two successive terms and is expected to retain power.",
+    "Apple did something remarkable with the iPhone 17 prices last year, not raising prices despite increases in manufacturing costs and overall inflation.",
+    "Millions of voters, most of them Muslims, have been deleted from voter rolls during the Special Intensive Revision, which opposition parties and Muslim groups claim targets minority Muslim voters.",
+    "Allegations of irregularities in a controversial revision of electoral rolls have intensified political tensions in West Bengal.",
+    "The AIADMK's 2024 showing marked a significant backward slide from its 2021 Assembly poll performance.",
+    "Allegations of irregularities in a controversial revision of electoral rolls have also intensified the political tensions in West Bengal.",
+    "Millions of voters – most of them Muslims – have been deleted from voter rolls during the exercise, called the Special Intensive Revision.",
+    "Voting was held on Thursday in Assam and Kerala, along with the Union Territory of Puducherry, while West Bengal and Tamil Nadu will vote late",
+    "Despite increases in manufacturing costs and overall inflation, Apple didn't raise iPhone prices.",
+    "Creative jobs are rarely supported in mainstream Indian households.",
+    "Volume increased from 36 million in 2024 to 55 million in 2025, as Apple has tried to reduce its reliance on China."
+  ],
+  "nlp_validation_note": "The manual NLP analysis indicates a predominantly positive sentiment, which aligns with the supportive tone of some of the provided source excerpts, particularly those from Al Jazeera English.",
+  "visual_context": "VISUAL ANALYSIS — 7 images [Method: CNN (ResNet-50) + Color Analysis]:\nVisual bias: +0.13 (neutral)\nDominant framing: neutral | Dominant tone: neutral\nImage descriptions:\n[Nature.com] Evolution of pandemic cholera at its glo — bright image, CNN (CNN: negative, conf=0.35, framing=critical)\n[Nature.com] Evolution of pandemic cholera at its glo — bright image, CNN (CNN: neutral, conf=0.34, framing=neutral)\n[The Verge] Congress can finally close a mass survei — moderate-light im (CNN: neutral, conf=0.35, framing=neutral)\n[The Indian Express] Daily Briefing: Energy a priority for In — dark/low-light im (CNN: neutral, conf=0.35, framing=neutral)",
+  "nlp_context_used": true,
+  "chain_of_thought": [
+    {
+      "step_type": "pipeline",
+      "phase": "Phase 4",
+      "title": "Multi-Agent RAG Synthesis Started",
+      "detail": "Topic: India Elections 2024\nVisual context: Yes\nNLP context: Yes",
+      "evidence": [
+        "Topic: India Elections 2024",
+        "Visual context available: True",
+        "NLP context available: True"
+      ],
+      "confidence": 1.0,
+      "score": null,
+      "timestamp": "17:26:19.061",
+      "elapsed_ms": 0,
+      "agent": ""
+    },
+    {
+      "step_type": "retrieval",
+      "phase": "Phase 4",
+      "title": "ChromaDB Ready — 69 chunks",
+      "detail": "Vector store verified.\nTotal chunks: 69\nStance breakdown: {'Supportive': 60, 'Critical': 0, 'Neutral': 9}",
+      "evidence": [
+        "Total chunks: 69",
+        "Supportive: 60",
+        "Critical:   0",
+        "Neutral:    9"
+      ],
+      "confidence": 1.0,
+      "score": null,
+      "timestamp": "17:26:19.089",
+      "elapsed_ms": 27,
+      "agent": "Pipeline"
+    },
+    {
+      "step_type": "retrieval",
+      "phase": "Phase 3",
+      "title": "Semantic Search — Agent A",
+      "detail": "Query: \"benefits advantages support arguments in favour of India Elections 2024\"\nRetrieved 12 relevant chunks from ChromaDB vector store. Filtered by stance: Supportive.",
+      "evidence": [
+        "Retrieved 12 chunks",
+        "Stance filter: Supportive",
+        "Sources: Al Jazeera English, Nature.com, BGR"
+      ],
+      "confidence": 1.0,
+      "score": null,
+      "timestamp": "17:26:20.235",
+      "elapsed_ms": 1146,
+      "agent": "Agent A"
+    },
+    {
+      "step_type": "argument",
+      "phase": "Phase 4",
+      "title": "Agent A — Building Prompt",
+      "detail": "Constructed prompt with:\n• 12 RAG chunks\n• Visual context: yes\n• NLP context: yes",
+      "evidence": [
+        "RAG chunks: 12",
+        "Prompt length: 6359 chars"
+      ],
+      "confidence": 0.9,
+      "score": null,
+      "timestamp": "17:26:20.235",
+      "elapsed_ms": 0,
+      "agent": "Agent A"
+    },
+    {
+      "step_type": "argument",
+      "phase": "Phase 4",
+      "title": "Agent A → 6 supporting arguments (conf: 1.00)",
+      "detail": "Agent A extracted 6 supporting arguments using RAG retrieval from ChromaDB.\nNLP context provided: VADER sentiment scores and named entities helped identify strongest evidence.\nConfidence score: 1.00",
+      "evidence": [
+        "Extracted 6 arguments",
+        "Agent confidence: 1.00",
+        "NLP context (VADER+spaCy) used",
+        "• Millions of Indians have voted in local elections in two states and a federally-",
+        "• Allegations of irregularities in a controversial revision of electoral rolls hav"
+      ],
+      "confidence": 0.998,
+      "score": null,
+      "timestamp": "17:26:25.621",
+      "elapsed_ms": 5385,
+      "agent": "Agent A"
+    },
+    {
+      "step_type": "retrieval",
+      "phase": "Phase 3",
+      "title": "Semantic Search — Agent B",
+      "detail": "Query: \"criticism problems risks opposition concerns about India Elections 2024\"\nRetrieved 12 relevant chunks from ChromaDB vector store. Filtered by stance: Critical.",
+      "evidence": [
+        "Retrieved 12 chunks",
+        "Stance filter: Critical",
+        "Sources: Al Jazeera English, The Indian Express"
+      ],
+      "confidence": 1.0,
+      "score": null,
+      "timestamp": "17:26:27.353",
+      "elapsed_ms": 1732,
+      "agent": "Agent B"
+    },
+    {
+      "step_type": "argument",
+      "phase": "Phase 4",
+      "title": "Agent B → 3 counter arguments (conf: 0.80)",
+      "detail": "Agent B extracted 3 counter arguments using RAG retrieval from ChromaDB.\nNLP context provided: VADER sentiment scores and named entities helped identify strongest evidence.\nConfidence score: 0.80",
+      "evidence": [
+        "Extracted 3 arguments",
+        "Agent confidence: 0.80",
+        "NLP context (VADER+spaCy) used",
+        "• Allegations of irregularities in a controversial revision of electoral rolls hav",
+        "• Millions of voters, most of them Muslims, have been deleted from voter rolls dur"
+      ],
+      "confidence": 0.8,
+      "score": null,
+      "timestamp": "17:26:30.832",
+      "elapsed_ms": 3478,
+      "agent": "Agent B"
+    },
+    {
+      "step_type": "retrieval",
+      "phase": "Phase 3",
+      "title": "Semantic Search — Agent C",
+      "detail": "Query: \"facts analysis evidence about India Elections 2024\"\nRetrieved 15 relevant chunks from ChromaDB vector store.",
+      "evidence": [
+        "Retrieved 15 chunks",
+        "Sources: The Indian Express, Al Jazeera English"
+      ],
+      "confidence": 1.0,
+      "score": null,
+      "timestamp": "17:26:32.063",
+      "elapsed_ms": 1231,
+      "agent": "Agent C"
+    },
+    {
+      "step_type": "validation",
+      "phase": "Phase 4",
+      "title": "Hallucination Check — 15 flags",
+      "detail": "Checked 24 claims against 21 source chunks.\nFlagged 15 potentially ungrounded claims.\nMethod: TF-IDF cosine similarity (threshold=0.35)",
+      "evidence": [
+        "Total claims checked: 24",
+        "Source chunks used: 21",
+        "Claims flagged: 15",
+        "Claims verified: 9"
+      ],
+      "confidence": 0.5,
+      "score": null,
+      "timestamp": "17:26:32.081",
+      "elapsed_ms": 17,
+      "agent": "Agent C"
+    },
+    {
+      "step_type": "synthesis",
+      "phase": "Phase 4",
+      "title": "Gemini Synthesis Complete",
+      "detail": "Agent C called Gemini API with combined context:\nAgent A args + Agent B counters + RAG chunks + NLP validation data.\nResponse length: 2581 chars",
+      "evidence": [
+        "Prompt length: 5839 chars",
+        "Response length: 2581 chars"
+      ],
+      "confidence": 0.85,
+      "score": null,
+      "timestamp": "17:26:34.627",
+      "elapsed_ms": 2545,
+      "agent": "Agent C"
+    },
+    {
+      "step_type": "decision",
+      "phase": "Phase 4",
+      "title": "Bias Vector Computed → -0.6152 (Strongly Supportive)",
+      "detail": "Multi-dimensional bias vector computed:\nIdeological: -0.5061\nEmotional:   0.1128\nDiversity:   0.9764\nComposite:   -0.6152",
+      "evidence": [
+        "Ideological: -0.5061",
+        "Emotional:   0.1128",
+        "Info:        0.0000",
+        "Diversity:   0.9764",
+        "Composite:   -0.6152"
+      ],
+      "confidence": 0.899,
+      "score": -0.6152,
+      "timestamp": "17:26:34.628",
+      "elapsed_ms": 1,
+      "agent": "Agent C"
+    },
+    {
+      "step_type": "synthesis",
+      "phase": "Phase 4",
+      "title": "Agent C Synthesis → 223 words, 12 flags",
+      "detail": "Agent C synthesized arguments from both sides into a 223-word neutral report.\nHallucination check: 12 claims flagged as potentially ungrounded.\nNLP validation: The manual NLP analysis indicates a predominantly positive sentiment, which aligns with the supportive tone of some of the provided source excerpts, particularly those from Al Jazeera English.",
+      "evidence": [
+        "Synthesis length: 223 words",
+        "Hallucination flags: 12",
+        "NLP note: The manual NLP analysis indicates a predominantly positive sentiment, which alig"
+      ],
+      "confidence": 0.5,
+      "score": null,
+      "timestamp": "17:26:34.628",
+      "elapsed_ms": 0,
+      "agent": "Agent C"
+    },
+    {
+      "step_type": "decision",
+      "phase": "Final",
+      "title": "Final Decision → -0.615 (Strongly Supportive)",
+      "detail": "Final composite bias score computed from:\n• Ideological bias (stance distribution)\n• Emotional bias (language analysis)\n• Source diversity (perspective coverage)\n• VADER validation (independent NLP)\nScore -0.6152 interpreted as: Strongly Supportive",
+      "evidence": [
+        "Final composite score: -0.6152",
+        "Interpretation: Strongly Supportive",
+        "Ideological: -0.5061",
+        "Emotional: 0.1128",
+        "Diversity: 0.9764",
+        "Entropy: 0.5446"
+      ],
+      "confidence": 0.9,
+      "score": -0.6152,
+      "timestamp": "17:26:34.628",
+      "elapsed_ms": 0,
+      "agent": "Agent C"
+    }
+  ],
+  "cot_summary": {
+    "topic": "India Elections 2024",
+    "total_steps": 13,
+    "total_elapsed": 15.58,
+    "step_breakdown": {
+      "pipeline": 1,
+      "retrieval": 4,
+      "argument": 3,
+      "validation": 1,
+      "decision": 2,
+      "synthesis": 2
+    },
+    "phases": [
+      "Phase 4",
+      "Phase 3",
+      "Final"
+    ]
+  },
+  "agent_a": {
+    "arguments": [
+      "Millions of Indians have voted in local elections in two states and a federally-governed territory, kicking off five key contests scheduled this month as a test of support for Prime Minister Narendra Modi and his right-wing Bharatiya Janata Party (BJP).",
+      "Allegations of irregularities in a controversial revision of electoral rolls have intensified political tensions in West Bengal, with millions of voters, mostly Muslims, being deleted from voter rolls.",
+      "A BJP-led alliance has ruled the northeastern state of Assam for two successive terms and is expected to retain power.",
+      "India has been assembling iPhones for years, with Apple steadily increasing the number of models made in the country and the production volume.",
+      "Apple did something remarkable with the iPhone 17 prices last year, not raising prices despite increases in manufacturing costs and overall inflation.",
+      "Creative jobs are rarely supported in mainstream Indian households."
+    ],
+    "evidence": [
+      "Millions of ‌Indians have voted in local elections in two states and a federally-governed territory, kicking ⁠off five key ⁠contests scheduled this month as a test of support for Prime Minister Narendra Modi and his right-wing Bharatiya Janata Party (BJP).",
+      "Voting was held on Thursday in Assam and Kerala, along with the Union Territory of Puducherry, while West Bengal and Tamil Nadu will vote late",
+      "Allegations of irregularities in a controversial revision of electoral rolls have also intensified the political tensions in West Bengal.",
+      "Millions of voters – most of them Muslims – have been deleted from voter rolls during the exercise, called the Special Intensive Revision.",
+      "A BJP-led alliance has ruled the northeastern state of Assam for two successive terms and is expected to retain power, according to public opinion platform Vote Vibe.",
+      "India has been assembling iPhones for years, with Apple steadily increasing the number of models made in the country and the production volume.",
+      "The most recent data shows that India assembles all iPhone 17 variants and the iPhone 16 models Apple still sells.",
+      "Volume increased from 36 million in 2024 to 55 million in 2025, as Apple has tried to reduce its reliance on China.",
+      "Apple did something remarkable with the iPhone 17 prices last year.",
+      "Despite increases in manufacturing costs and overall inflation, Apple didn't raise iPhone prices.",
+      "The standard iPhone 17 starts at $799, the same price as its predecessors, while featuring double the storage for the price point and specifications comparable to the iPhone 17 Pro.",
+      "Creative jobs are rarely supported in mainstream Indian households."
+    ],
+    "key_sources": [
+      "Al Jazeera English",
+      "BGR",
+      "Business Insider"
+    ],
+    "confidence_score": 0.998,
+    "nlp_validated_arguments": [
+      "Millions of Indians have voted in local elections in two states and a federally-governed territory, kicking off five key contests scheduled this month as a test of support for Prime Minister Narendra Modi and his right-wing Bharatiya Janata Party (BJP).",
+      "Allegations of irregularities in a controversial revision of electoral rolls have intensified political tensions in West Bengal, with millions of voters, mostly Muslims, being deleted from voter rolls.",
+      "A BJP-led alliance has ruled the northeastern state of Assam for two successive terms and is expected to retain power.",
+      "India has been assembling iPhones for years, with Apple steadily increasing the number of models made in the country and the production volume.",
+      "Apple did something remarkable with the iPhone 17 prices last year, not raising prices despite increases in manufacturing costs and overall inflation.",
+      "Creative jobs are rarely supported in mainstream Indian households."
+    ],
+    "top_entities_referenced": [
+      "India",
+      "Apple",
+      "BJP",
+      "iPhone",
+      "Muslims",
+      "Bangladesh"
+    ],
+    "argument_traces": [
+      {
+        "argument": "Millions of Indians have voted in local elections in two states and a federally-governed territory, kicking off five key contests scheduled this month as a test of support for Prime Minister Narendra Modi and his right-wing Bharatiya Janata Party (BJP).",
+        "evidence": "Millions of ‌Indians have voted in local elections in two states and a federally-governed territory, kicking ⁠off five key ⁠contests scheduled this month as a test of support for Prime Minister Narendra Modi and his right-wing Bharatiya Janata Party (BJP).",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/9/indias-assam-and-kerala-states-hold-legislative-assembly-elections"
+      },
+      {
+        "argument": "Allegations of irregularities in a controversial revision of electoral rolls have intensified political tensions in West Bengal, with millions of voters, mostly Muslims, being deleted from voter rolls.",
+        "evidence": "Allegations of irregularities in a controversial revision of electoral rolls have also intensified the political tensions in West Bengal.",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/9/indias-assam-and-kerala-states-hold-legislative-assembly-elections"
+      },
+      {
+        "argument": "A BJP-led alliance has ruled the northeastern state of Assam for two successive terms and is expected to retain power.",
+        "evidence": "A BJP-led alliance has ruled the northeastern state of Assam for two successive terms and is expected to retain power, according to public opinion platform Vote Vibe.",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/9/indias-assam-and-kerala-states-hold-legislative-assembly-elections"
+      },
+      {
+        "argument": "India has been assembling iPhones for years, with Apple steadily increasing the number of models made in the country and the production volume.",
+        "evidence": "India has been assembling iPhones for years, with Apple steadily increasing the number of models made in the country and the production volume.",
+        "source": "BGR",
+        "url": "https://www.bgr.com/2135529/iphones-more-expensive-in-india-compared-to-united-states/"
+      },
+      {
+        "argument": "Apple did something remarkable with the iPhone 17 prices last year, not raising prices despite increases in manufacturing costs and overall inflation.",
+        "evidence": "Apple did something remarkable with the iPhone 17 prices last year.",
+        "source": "BGR",
+        "url": "https://www.bgr.com/2135529/iphones-more-expensive-in-india-compared-to-united-states/"
+      },
+      {
+        "argument": "Creative jobs are rarely supported in mainstream Indian households.",
+        "evidence": "Creative jobs are rarely supported in mainstream Indian households.",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/gen-z-quit-kpmg-singapore-india-pursue-poetry-creative-writing-2026-3"
+      }
+    ],
+    "visual_context_used": true,
+    "nlp_context_used": true
+  },
+  "agent_b": {
+    "counter_arguments": [
+      "Allegations of irregularities in a controversial revision of electoral rolls have intensified political tensions in West Bengal.",
+      "Millions of voters, most of them Muslims, have been deleted from voter rolls during the Special Intensive Revision, which opposition parties and Muslim groups claim targets minority Muslim voters.",
+      "The AIADMK's 2024 showing marked a significant backward slide from its 2021 Assembly poll performance."
+    ],
+    "evidence": [
+      "Allegations of irregularities in a controversial revision of electoral rolls have also intensified the political tensions in West Bengal.",
+      "Millions of voters – most of them Muslims – have been deleted from voter rolls during the exercise, called the Special Intensive Revision. Opposition parties and Muslim groups say the exercise particularly targets the minority Muslim voters.",
+      "In fact, the AIADMK’s 2024 showing marked a significant backward slide from its 2021 Assembly poll performance, when it won 66 seats. In the 2024 Lok Sabha polls, in 62 of these segments, the AIADMK secured fewer votes than a rival party, losing out to the DMK in 36 segments, Congress in 9, Left parties in 11, and other allies in 5."
+    ],
+    "key_sources": [
+      "Al Jazeera English",
+      "The Indian Express"
+    ],
+    "confidence_score": 0.8,
+    "nlp_validated_counter_arguments": [
+      "Allegations of irregularities in a controversial revision of electoral rolls have intensified political tensions in West Bengal.",
+      "Millions of voters, most of them Muslims, have been deleted from voter rolls during the Special Intensive Revision, which opposition parties and Muslim groups claim targets minority Muslim voters."
+    ],
+    "top_critical_entities": [
+      "West Bengal",
+      "Muslims",
+      "AIADMK"
+    ],
+    "visual_context_used": true,
+    "nlp_context_used": true
+  },
+  "agent_c": {
+    "synthesis_report": "India's electoral landscape is currently marked by significant political activity, with millions of voters participating in local elections across two states and a federally-governed territory. These contests are being closely watched as a barometer of public support for Prime Minister Narendra Modi and his Bharatiya Janata Party (BJP). In Assam, a BJP-led alliance is anticipated to maintain its hold on power, having governed the northeastern state for two consecutive terms. However, the electoral process is not without its controversies. In West Bengal, political tensions have escalated due to allegations of irregularities in the revision of electoral rolls. Specifically, concerns have been raised by opposition parties and Muslim groups that millions of voters, predominantly from the Muslim community, have been unfairly removed from voter lists during a \"Special Intensive Revision\" exercise, which they claim unfairly targets minority voters. This has led to heightened political friction in the state. Beyond these immediate electoral concerns, India's role in global manufacturing is also evolving, with the country steadily increasing its production of iPhones. The recent electoral outcomes in Tamil Nadu indicate a significant shift, with the INDIA bloc, led by the DMK, achieving a dominant performance, sweeping most parliamentary seats and marking a substantial improvement from previous elections. Conversely, the AIADMK has experienced a notable decline in its electoral fortunes compared to its 2021 Assembly poll performance.",
+    "bias_score": -0.6152,
+    "loaded_language_removed": [],
+    "key_agreements": [
+      "Allegations of irregularities in electoral roll revisions have intensified political tensions in West Bengal.",
+      "Millions of voters, predominantly Muslims, have been deleted from voter rolls.",
+      "These elections are seen as a test of support for Prime Minister Narendra Modi and the BJP."
+    ],
+    "key_disagreements": [
+      "Agent A mentions the BJP is expected to retain power in Assam, while Agent B focuses on electoral roll irregularities in West Bengal and the AIADMK's decline in Tamil Nadu, without directly contradicting the Assam prediction."
+    ],
+    "source_citations": [
+      "[2]",
+      "[5]",
+      "[8]",
+      "[6]",
+      "[3]",
+      "[4]"
+    ],
+    "hallucination_flags": [
+      "India has been assembling iPhones for years, with Apple steadily increasing the number of models made in the country and the production volume.",
+      "A BJP-led alliance has ruled the northeastern state of Assam for two successive terms and is expected to retain power.",
+      "Apple did something remarkable with the iPhone 17 prices last year, not raising prices despite increases in manufacturing costs and overall inflation.",
+      "Millions of voters, most of them Muslims, have been deleted from voter rolls during the Special Intensive Revision, which opposition parties and Muslim groups claim targets minority Muslim voters.",
+      "Allegations of irregularities in a controversial revision of electoral rolls have intensified political tensions in West Bengal.",
+      "The AIADMK's 2024 showing marked a significant backward slide from its 2021 Assembly poll performance.",
+      "Allegations of irregularities in a controversial revision of electoral rolls have also intensified the political tensions in West Bengal.",
+      "Millions of voters – most of them Muslims – have been deleted from voter rolls during the exercise, called the Special Intensive Revision.",
+      "Voting was held on Thursday in Assam and Kerala, along with the Union Territory of Puducherry, while West Bengal and Tamil Nadu will vote late",
+      "Despite increases in manufacturing costs and overall inflation, Apple didn't raise iPhone prices.",
+      "Creative jobs are rarely supported in mainstream Indian households.",
+      "Volume increased from 36 million in 2024 to 55 million in 2025, as Apple has tried to reduce its reliance on China."
+    ],
+    "nlp_validation_note": "The manual NLP analysis indicates a predominantly positive sentiment, which aligns with the supportive tone of some of the provided source excerpts, particularly those from Al Jazeera English.",
+    "bias_vector": {
+      "ideological_bias": -0.5061,
+      "emotional_bias": 0.1128,
+      "informational_bias": 0.0,
+      "source_diversity": 0.9764,
+      "stance_entropy": 0.5446,
+      "composite_score": -0.6152,
+      "confidence": 0.899,
+      "interpretation": "Strongly Supportive",
+      "dimension_labels": {
+        "ideological": "Moderately Supportive",
+        "emotional": "Low Emotional Bias",
+        "informational": "Mostly Factual",
+        "diversity": "High Source Diversity"
+      }
+    },
+    "visual_context_used": true,
+    "nlp_context_used": true
+  }
+}

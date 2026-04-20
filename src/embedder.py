@@ -32,6 +32,24 @@ except ImportError:
 client = genai.Client(api_key=GEMINI_API_KEY)
 
 
+def _normalize_embedding_dim(vector: list[float], target_dim: int = EMBEDDING_DIM) -> list[float]:
+    """Pad/trim a single embedding vector to the configured dimension."""
+    if vector is None:
+        return [0.0] * target_dim
+
+    try:
+        normalized = [float(v) for v in vector]
+    except Exception:
+        return [0.0] * target_dim
+
+    if len(normalized) < target_dim:
+        normalized.extend([0.0] * (target_dim - len(normalized)))
+    elif len(normalized) > target_dim:
+        normalized = normalized[:target_dim]
+
+    return normalized
+
+
 def _fallback_embeddings(texts: list[str]) -> list[list[float]]:
     """Create deterministic pseudo-embeddings when API access is unavailable."""
     if not texts:
@@ -84,9 +102,9 @@ def _embed_batch(texts: list[str]) -> list[list[float]]:
         # Normalise: always return list of lists
         if embeddings and isinstance(embeddings[0], float):
             # Single text was passed — wrap in outer list
-            return [embeddings]
+            embeddings = [embeddings]
 
-        return embeddings
+        return [_normalize_embedding_dim(v) for v in embeddings]
 
     except Exception as e:
         print(f"[embedder] Warning: embedding API error: {e}")

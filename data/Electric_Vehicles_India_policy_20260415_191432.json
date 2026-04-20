@@ -1,0 +1,66 @@
+[
+  {
+    "url": "https://cleantechnica.com/2026/03/16/lets-not-pour-cold-water-on-the-eu-car-industrys-ev-momentum/",
+    "title": "Let’s Not Pour Cold Water on the EU Car Industry’s EV Momentum",
+    "source": "CleanTechnica",
+    "stance": "Supportive",
+    "word_count": 836,
+    "fact_density": 0.24489795918367346
+  },
+  {
+    "url": "https://www.hurriyetdailynews.com/rising-oil-prices-drive-surge-in-electric-vehicle-demand-220440",
+    "title": "Rising oil prices drive surge in electric vehicle demand",
+    "source": "Hurriyet Daily News",
+    "stance": "Supportive",
+    "word_count": 435,
+    "fact_density": 0.2692307692307692
+  },
+  {
+    "url": "https://m.economictimes.com/mf/analysis/these-top-10-equity-mutual-funds-offer-over-38-return-in-fy26-check-details/monthly-investment-growth/slideshow/129876216.cms",
+    "title": "These top 10 equity mutual funds offer over 38% return in FY26. Check details",
+    "source": "Economictimes.com",
+    "stance": "Supportive",
+    "word_count": 85,
+    "fact_density": 0.7142857142857143
+  },
+  {
+    "url": "https://www.thehindubusinessline.com/companies/vinfast-extends-free-ev-charging-program-in-india-the-philippines-and-indonesia/article70754643.ece",
+    "title": "VinFast extends free EV charging program in India, The Philippines and Indonesia",
+    "source": "BusinessLine",
+    "stance": "Neutral",
+    "word_count": 223,
+    "fact_density": 0.5714285714285714
+  },
+  {
+    "url": "https://www.thehindubusinessline.com/news/karnataka-ends-ev-tax-holiday-links-levies-to-vehicle-cost-in-policy-shift/article70807371.ece",
+    "title": "Karnataka ends EV tax holiday, links levies to vehicle cost in policy shift",
+    "source": "BusinessLine",
+    "stance": "Neutral",
+    "word_count": 281,
+    "fact_density": 0.38461538461538464
+  },
+  {
+    "url": "https://libertystreeteconomics.newyorkfed.org/2026/03/chinas-electric-trade/",
+    "title": "China’s Electric Trade",
+    "source": "Newyorkfed.org",
+    "stance": "Neutral",
+    "word_count": 1056,
+    "fact_density": 0.4423076923076923
+  },
+  {
+    "url": "https://www.aljazeera.com/news/2026/4/5/nepal-announces-two-day-weekends-as-fuel-crisis-caused-by-iran-war-deepens",
+    "title": "Nepal announces two-day weekends as fuel crisis caused by Iran war deepens",
+    "source": "Al Jazeera English",
+    "stance": "Neutral",
+    "word_count": 342,
+    "fact_density": 0.23076923076923078
+  },
+  {
+    "url": "https://paultan.org/2026/04/02/toyota-urban-cruiser-ev-in-malaysia-rebadged-suzuki-evitara-426-km-range-cbu-india-rm198k/",
+    "title": "Toyota Urban Cruiser EV in Malaysia – rebadged Suzuki eVitara, 426 km range, CBU India, RM198k",
+    "source": "Paul Tan's Automotive News",
+    "stance": "Supportive",
+    "word_count": 718,
+    "fact_density": 0.6216216216216216
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://indianexpress.com/article/india/vande-mataram-row-intensifies-in-madhya-pradesh-as-police-book-2-congress-councillors-10638915/",
+    "title": "Vande Mataram row intensifies in Madhya Pradesh as police book 2 Congress councillors",
+    "source": "The Indian Express",
+    "stance": "Supportive",
+    "word_count": 320,
+    "fact_density": 0.045454545454545456
+  },
+  {
+    "url": "https://indianexpress.com/article/political-pulse/bjp-shadow-congress-fate-which-way-will-the-muslim-vote-swing-in-kerala-10603397/",
+    "title": "BJP shadow, Congress fate: Which way will the Muslim vote swing in Kerala?",
+    "source": "The Indian Express",
+    "stance": "Supportive",
+    "word_count": 712,
+    "fact_density": 0.1724137931034483
+  },
+  {
+    "url": "https://indianexpress.com/article/political-pulse/in-puducherry-dmk-congress-alliance-agrees-to-fight-together-and-each-other-10603423/",
+    "title": "In Puducherry, DMK-Congress alliance agrees to fight together — and each other",
+    "source": "The Indian Express",
+    "stance": "Supportive",
+    "word_count": 772,
+    "fact_density": 0.3157894736842105
+  },
+  {
+    "url": "https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-april-14-1986-europe-asks-us-not-to-hit-libya-10634780/",
+    "title": "40 years ago April 14, 1986: Europe asks US not to hit Libya",
+    "source": "The Indian Express",
+    "stance": "Neutral",
+    "word_count": 186,
+    "fact_density": 0.16666666666666666
+  },
+  {
+    "url": "https://www.dw.com/en/india-news-modi-slams-congress-over-womens-quota-vote/live-76840035",
+    "title": "India news: Modi slams Congress over women's quota vote",
+    "source": "DW (English)",
+    "stance": "Neutral",
+    "word_count": 2546,
+    "fact_density": 0.2932330827067669
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/india/congress-gets-notice-to-move-out-of-lutyens-address/articleshow/129787346.cms",
+    "title": "Congress gets notice to move out of Lutyens address",
+    "source": "The Times of India",
+    "stance": "Supportive",
+    "word_count": 282,
+    "fact_density": 0.35714285714285715
+  }
+]

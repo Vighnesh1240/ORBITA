@@ -1,0 +1,21 @@
+{
+  "emotional_tone": "positive",
+  "visual_framing": "hero",
+  "subjects_detected": [
+    "Narendra Modi",
+    "mountains",
+    "highway"
+  ],
+  "narrative_suggested": "The image suggests a narrative of progress and development in India, with Prime Minister Modi at the forefront of this advancement, symbolized by the expansive highway and majestic mountains.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [
+    "Prime Minister Modi is positioned prominently in the foreground, looking towards the viewer with a confident expression. The background features a vast, well-constructed highway leading towards a scenic mountain range, implying progress and a bright future. The text overlay reinforces this positive message by highlighting increased infrastructure spending.",
+    "The use of a wide-angle shot and the positioning of Modi in the foreground can be interpreted as an attempt to portray him as a strong and visionary leader overseeing significant national development."
+  ],
+  "visual_bias_score": -0.7,
+  "visual_bias_direction": "supportive",
+  "confidence": 0.9,
+  "description": "The image shows Prime Minister Narendra Modi in the foreground, with a large, modern highway stretching into the background towards a mountain range. Text overlay states 'INDIA'S INFRA SPEND GROWS 6X SINCE 2014: PM MODI'.",
+  "image_url": "https://economictimes.indiatimes.com/thumb/width-152,height-114,resizemode-75,imgsize-95818,msid-130282096/infra-spend-grew-six-fold-to-12-lakh-crore-pm-modi.jpg",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "smartphone",
+    "charging pad",
+    "android figurine",
+    "remote control"
+  ],
+  "narrative_suggested": "The image displays various tech gadgets, suggesting a focus on technology and digital services.",
+  "image_text_consistent": false,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.8,
+  "description": "A smartphone displaying a Spotify interface, a white oval charging pad, a green Android figurine, and a white remote control are arranged on a wooden surface.",
+  "image_url": "https://cdn.mos.cms.futurecdn.net/jsDYcqZLCWSnU7viYCGFYP.jpg",
+  "error": null
+}

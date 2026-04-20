@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://abcnews.com/video/132084067/",
+    "title": "WATCH: JD Vance heckled during Turning Point event",
+    "source": "Abcnews.com",
+    "stance": "Supportive",
+    "word_count": 41,
+    "fact_density": 0.0
+  },
+  {
+    "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/jimmy-kimmel-stephen-colbert-jd-vance-rough-week-trump-1235548104/",
+    "title": "Jimmy Kimmel, Stephen Colbert Take Aim at JD Vance’s ‘Rough Week’",
+    "source": "Rolling Stone",
+    "stance": "Supportive",
+    "word_count": 401,
+    "fact_density": 0.044444444444444446
+  },
+  {
+    "url": "https://www.niemanlab.org/2026/04/journalists-champion-wayback-machine-after-news-publishers-limit-article-archiving/",
+    "title": "Journalists champion Wayback Machine after news publishers limit article archiving",
+    "source": "Niemanlab.org",
+    "stance": "Supportive",
+    "word_count": 564,
+    "fact_density": 0.10714285714285714
+  },
+  {
+    "url": "https://abcnews.com/video/132083888/",
+    "title": "WATCH: Woman fatally shot by officers after slashing boy outside Walmart: Police",
+    "source": "Abcnews.com",
+    "stance": "Neutral",
+    "word_count": 42,
+    "fact_density": 0.5
+  },
+  {
+    "url": "https://news.slashdot.org/story/26/04/05/2119210/will-ai-assisted-journalists-bring-errors-and-retractions",
+    "title": "Will 'AI-Assisted' Journalists Bring Errors and Retractions?",
+    "source": "Slashdot.org",
+    "stance": "Neutral",
+    "word_count": 852,
+    "fact_density": 0.10144927536231885
+  },
+  {
+    "url": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/",
+    "title": "AI-Assisted Cognition Endangers Human Development",
+    "source": "Heidenstedt.org",
+    "stance": "Supportive",
+    "word_count": 1743,
+    "fact_density": 0.11864406779661017
+  },
+  {
+    "url": "https://www.schneier.com/blog/archives/2026/04/upcoming-speaking-engagements-55.html",
+    "title": "Upcoming Speaking Engagements",
+    "source": "Schneier.com",
+    "stance": "Supportive",
+    "word_count": 224,
+    "fact_density": 0.7692307692307693
+  }
+]

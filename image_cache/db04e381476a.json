@@ -1,0 +1,18 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "politicians",
+    "government officials",
+    "parliamentarians"
+  ],
+  "narrative_suggested": "The image depicts a formal legislative session, suggesting a focus on governance and policy-making.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.9,
+  "description": "An interior view of a legislative assembly hall, with many parliamentarians seated at desks equipped with screens. Several individuals are visible on a raised platform at the front, including some standing and one seated. The walls are decorated with a textured pattern.",
+  "image_url": "https://images.indianexpress.com/2026/04/IE-Image-70.jpg?w=1600",
+  "error": null
+}

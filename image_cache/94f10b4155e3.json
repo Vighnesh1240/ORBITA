@@ -1,0 +1,17 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "man",
+    "crowd"
+  ],
+  "narrative_suggested": "The image shows a man being escorted by a group of people, suggesting a public figure or someone of importance.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.8,
+  "description": "A man in a floral shirt is being guided by several people, some of whom are wearing white shirts. The man is looking down and to his left, with his right hand extended towards a vehicle. The background is blurred and shows a crowd of people.",
+  "image_url": "https://img.etimg.com/thumb/width-100,height-75,imgsize-225898,msid-130186513/news/politics-and-nation/west-bengal-ed-raid-at-residence-of-former-education-minister-partha-chatterjee.jpg",
+  "error": null
+}

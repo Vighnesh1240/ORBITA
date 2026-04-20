@@ -1,0 +1,24 @@
+{
+  "image_url": "https://www.livemint.com/lm-img/img/2026/03/26/600x338/With-abundant-ethanol-availability-in-India--the-a_1685951429548_1774503502030.jpg",
+  "visual_bias_score": 0.015,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.374,
+  "description": "Mint Explainer | West Asia war is a leg- \u2014 moderate-light image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.3111,
+    0.374,
+    0.3149
+  ],
+  "cnn_confidence": 0.374,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.0429,
+  "brightness": 139.1,
+  "is_dark": false,
+  "contrast": 0.4699,
+  "edge_density": 0.138,
+  "aspect_ratio": 1.78,
+  "image_size": "600x337",
+  "error": null
+}

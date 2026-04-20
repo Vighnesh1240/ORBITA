@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://www.theverge.com/tech/898511/elon-musk-twitter-lawsuit",
+    "title": "Jury finds Elon Musk’s ‘stupid tweets’ caused Twitter investors’ losses",
+    "source": "The Verge",
+    "stance": "Supportive",
+    "word_count": 79,
+    "fact_density": 0.0
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c62j3yl842eo",
+    "title": "Elon Musk misled Twitter investors, jury finds",
+    "source": "BBC News",
+    "stance": "Supportive",
+    "word_count": 388,
+    "fact_density": 0.35294117647058826
+  },
+  {
+    "url": "https://www.businessinsider.com/elon-musk-x-twitter-trolls-nikita-bier-product-pause-2026-3",
+    "title": "Elon Musk's X had a plan to stop feeding the trolls. Then Musk stepped in.",
+    "source": "Business Insider",
+    "stance": "Neutral",
+    "word_count": 671,
+    "fact_density": 0.06896551724137931
+  },
+  {
+    "url": "https://www.npr.org/2026/03/20/g-s1-114660/elon-musk-misled-investors-twitter-purchase",
+    "title": "Jury finds Elon Musk misled investors during Twitter purchase",
+    "source": "NPR",
+    "stance": "Supportive",
+    "word_count": 848,
+    "fact_density": 0.3235294117647059
+  },
+  {
+    "url": "https://www.businessinsider.com/elon-musk-misled-twitter-investors-prior-to-purchase-jury-finds-2026-3",
+    "title": "Elon Musk misled Twitter investors in an effort to try to lower its purchase price, a jury finds",
+    "source": "Business Insider",
+    "stance": "Supportive",
+    "word_count": 248,
+    "fact_density": 0.38461538461538464
+  },
+  {
+    "url": "https://www.businessinsider.com/elon-musk-delaware-judge-recusal-linkedin-heart-tesla-shareholders-2026-3",
+    "title": "Elon Musk asks judge to recuse herself in Tesla shareholder case, saying she hearted post about him losing a lawsuit",
+    "source": "Business Insider",
+    "stance": "Supportive",
+    "word_count": 641,
+    "fact_density": 0.14705882352941177
+  },
+  {
+    "url": "https://reason.com/volokh/2026/03/20/elon-musk-wins-defamation-lawsuit-brought-by-someone-musk-allegedly-misidentified-in-x-post/",
+    "title": "Elon Musk Wins Defamation Lawsuit Brought by Someone Musk Allegedly Misidentified in X Post",
+    "source": "Reason",
+    "stance": "Supportive",
+    "word_count": 1583,
+    "fact_density": 0.34328358208955223
+  }
+]

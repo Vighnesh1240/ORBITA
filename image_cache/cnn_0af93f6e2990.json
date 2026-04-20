@@ -1,0 +1,24 @@
+{
+  "image_url": "https://images.indianexpress.com/2026/04/blank-white-background-design-1.jpg",
+  "visual_bias_score": -0.1129,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3671,
+  "description": "The digital decades by Subimal Bhattacha \u2014 bright image, CNN: positive sentiment",
+  "cnn_class": "positive",
+  "cnn_probabilities": [
+    0.3671,
+    0.3239,
+    0.309
+  ],
+  "cnn_confidence": 0.3671,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.3592,
+  "brightness": 190.6,
+  "is_dark": false,
+  "contrast": 0.5037,
+  "edge_density": 0.0526,
+  "aspect_ratio": 1.778,
+  "image_size": "1600x900",
+  "error": null
+}

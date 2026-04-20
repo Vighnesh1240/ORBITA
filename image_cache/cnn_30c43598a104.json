@@ -1,0 +1,24 @@
+{
+  "image_url": "https://bl-i.thgim.com/public/incoming/h5xo7n/article70833303.ece/alternates/LANDSCAPE_1200/IMG_iStock-1328967589.jp_2_1_RNA0D68S.jpg",
+  "visual_bias_score": -0.1057,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3454,
+  "description": "India's digital payments account for 93% \u2014 moderate-light image, CNN: positive sentiment",
+  "cnn_class": "positive",
+  "cnn_probabilities": [
+    0.3454,
+    0.3355,
+    0.3191
+  ],
+  "cnn_confidence": 0.3454,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.3395,
+  "brightness": 164.3,
+  "is_dark": false,
+  "contrast": 0.3387,
+  "edge_density": 0.093,
+  "aspect_ratio": 1.778,
+  "image_size": "1200x675",
+  "error": null
+}

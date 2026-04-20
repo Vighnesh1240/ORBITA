@@ -1,0 +1,24 @@
+{
+  "image_url": "https://www.niemanlab.org/images/300funston-scaled-1-700x504.jpg",
+  "visual_bias_score": -0.2467,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3718,
+  "description": "Journalists champion Wayback Machine aft \u2014 moderate-light image, high contrast, CNN: positive sentiment",
+  "cnn_class": "positive",
+  "cnn_probabilities": [
+    0.3718,
+    0.3105,
+    0.3177
+  ],
+  "cnn_confidence": 0.3718,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.0143,
+  "brightness": 123.4,
+  "is_dark": false,
+  "contrast": 0.601,
+  "edge_density": 0.1742,
+  "aspect_ratio": 1.389,
+  "image_size": "700x504",
+  "error": null
+}

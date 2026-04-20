@@ -1,0 +1,23 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "Demis Hassabis",
+    "Sundar Pichai",
+    "Elon Musk",
+    "Larry Page",
+    "Sergey Brin"
+  ],
+  "narrative_suggested": "The image suggests a narrative about the leaders of major tech companies involved in artificial intelligence, with a focus on DeepMind.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [
+    "glitch art effect",
+    "red and black color scheme"
+  ],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.8,
+  "description": "The image is a collage featuring portraits of prominent figures in the tech industry, including Demis Hassabis, Sundar Pichai, Elon Musk, Larry Page, and Sergey Brin. The portraits are overlaid with abstract red and black graphic elements, including pixelated patterns and brush strokes, creating a glitch art aesthetic.",
+  "image_url": "https://colossus.com/wp-content/uploads/2026/03/Mallaby-preview-card_SMALL.jpg",
+  "error": null
+}

@@ -1,0 +1,20 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "kitchenware",
+    "induction cooktops",
+    "boxes"
+  ],
+  "narrative_suggested": "The image displays a retail setting with various kitchen appliances, suggesting a focus on domestic technology or consumer goods.",
+  "image_text_consistent": false,
+  "loaded_visual_elements": [
+    "UPSC Key logo"
+  ],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.9,
+  "description": "The image shows a display of kitchenware, including pressure cookers and frying pans, arranged on induction cooktops in what appears to be a retail store. In the background, shelves are stocked with various products, and a few people are visible. A logo for 'UPSC Key' is overlaid on the top right corner of the image.",
+  "image_url": "https://images.indianexpress.com/2026/03/UPSC-Key-23rd-March-2026.jpg?w=1600",
+  "error": null
+}

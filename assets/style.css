@@ -369,7 +369,9 @@ hr {
   border-radius: 14px;
   padding: 2rem 2.2rem;
   position: relative;
-  overflow: hidden;
+  max-height: 420px;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 .orb-synthesis::before {
   content: '"';
@@ -388,6 +390,10 @@ hr {
   color: var(--text-1);
   position: relative;
   z-index: 1;
+  white-space: normal;
+  word-break: normal;
+  overflow-wrap: anywhere;
+  padding-right: 0.5rem;
 }
 
 /* Bias score display */
@@ -660,4 +666,157 @@ hr {
   letter-spacing: 1.5px;
   color: var(--text-3);
   text-transform: uppercase;
+}
+/* ── Animations ──────────────────────────────────────────── */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0);    }
+}
+
+@keyframes fadeInLeft {
+  from { opacity: 0; transform: translateX(-16px); }
+  to   { opacity: 1; transform: translateX(0);     }
+}
+
+@keyframes pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(201,168,76,0.4); }
+  50%       { box-shadow: 0 0 0 8px rgba(201,168,76,0); }
+}
+
+@keyframes shimmer {
+  0%   { background-position: -200% center; }
+  100% { background-position:  200% center; }
+}
+
+@keyframes scoreReveal {
+  from { transform: scale(0.5); opacity: 0; }
+  to   { transform: scale(1);   opacity: 1; }
+}
+
+/* ── Animated bias score ─────────────────────────────────── */
+.orb-bias-num {
+  animation: scoreReveal 0.6s cubic-bezier(0.34,1.56,0.64,1) both;
+}
+
+/* ── Animated argument cards ─────────────────────────────── */
+.orb-arg {
+  animation: fadeInLeft 0.4s ease both;
+}
+.orb-arg:nth-child(1) { animation-delay: 0.05s; }
+.orb-arg:nth-child(2) { animation-delay: 0.10s; }
+.orb-arg:nth-child(3) { animation-delay: 0.15s; }
+.orb-arg:nth-child(4) { animation-delay: 0.20s; }
+.orb-arg:nth-child(5) { animation-delay: 0.25s; }
+
+/* ── Gold shimmer on metric values ───────────────────────── */
+.orb-metric-val {
+  background: linear-gradient(
+    90deg,
+    var(--gold)       0%,
+    var(--gold-light) 50%,
+    var(--gold)       100%
+  );
+  background-size:     200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: shimmer 3s linear infinite;
+}
+
+/* ── Glowing bias block ──────────────────────────────────── */
+.orb-bias-block {
+  transition: box-shadow 0.3s ease;
+}
+.orb-bias-block:hover {
+  box-shadow: 0 0 24px rgba(201,168,76,0.15);
+}
+
+/* ── Source card hover ───────────────────────────────────── */
+.orb-source {
+  transition: all 0.2s ease;
+}
+.orb-source:hover {
+  background:  var(--navy-3) !important;
+  border-color: var(--gold)  !important;
+  transform:    translateX(4px);
+}
+
+/* ── Synthesis quote mark ────────────────────────────────── */
+.orb-synthesis::before {
+  animation: fadeInUp 0.8s ease;
+}
+
+/* ── Section titles ──────────────────────────────────────── */
+.orb-section {
+  animation: fadeInUp 0.3s ease;
+}
+
+/* ── Chip hover ──────────────────────────────────────────── */
+.orb-chip {
+  transition: all 0.15s ease;
+  cursor: pointer;
+}
+.orb-chip:hover {
+  border-color: var(--gold)    !important;
+  color:        var(--gold)    !important;
+  background:   var(--gold-dim)!important;
+  transform:    translateY(-1px);
+}
+
+/* ── Plotly chart containers ──────────────────────────────── */
+.js-plotly-plot .plotly {
+  border-radius: 12px !important;
+}
+
+/* ── Scrollbar thin ──────────────────────────────────────── */
+::-webkit-scrollbar       { width: 3px; height: 3px; }
+::-webkit-scrollbar-track { background: var(--navy-2); }
+::-webkit-scrollbar-thumb {
+  background:    var(--gold);
+  border-radius: 2px;
+}
+
+/* ── NLP Section Cards ───────────────────────────────────── */
+.nlp-metric-card {
+  background:    var(--navy-card);
+  border:        1px solid var(--border-dim);
+  border-radius: 10px;
+  padding:       0.8rem 1rem;
+  text-align:    center;
+  animation:     fadeInUp 0.4s ease both;
+  transition:    border-color 0.2s, transform 0.2s;
+}
+.nlp-metric-card:hover {
+  border-color: var(--border);
+  transform:    translateY(-2px);
+}
+
+/* ── CoT Timeline ────────────────────────────────────────── */
+.cot-step-card {
+  background:    rgba(20,28,46,0.7);
+  border-left:   2px solid var(--gold);
+  border-radius: 0 8px 8px 0;
+  padding:       0.5rem 0.7rem;
+  margin-bottom: 0.4rem;
+  animation:     fadeInLeft 0.3s ease both;
+  transition:    background 0.15s;
+}
+.cot-step-card:hover {
+  background: rgba(201,168,76,0.05);
+}
+
+/* ── Reasoning trail cards ───────────────────────────────── */
+.reasoning-card {
+  background:    var(--navy-card);
+  border:        1px solid var(--border-dim);
+  border-top:    3px solid var(--gold);
+  border-radius: 10px;
+  padding:       1rem 0.9rem;
+  transition:    all 0.2s ease;
+  animation:     fadeInUp 0.4s ease both;
+}
+.reasoning-card:hover {
+  border-color: var(--border);
+  transform:    translateY(-2px);
+  box-shadow:   0 4px 20px rgba(0,0,0,0.3);
 }

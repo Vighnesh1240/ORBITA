@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://www.aljazeera.com/news/2026/4/8/were-new-miyas-will-bjp-naming-some-assamese-muslims-indigenous-work",
+    "title": "‘We’re new miyas’: Will BJP naming some Assamese Muslims ‘Indigenous’ work?",
+    "source": "Al Jazeera English",
+    "stance": "Supportive",
+    "word_count": 1338,
+    "fact_density": 0.36363636363636365
+  },
+  {
+    "url": "https://indianexpress.com/article/political-pulse/tmcs-southern-fortress-for-bjp-its-path-to-power-in-bengal-runs-through-111-presidency-seats-10640582/",
+    "title": "TMC’s southern fortress: For BJP, its path to power in Bengal runs through 111 Presidency seats",
+    "source": "The Indian Express",
+    "stance": "Supportive",
+    "word_count": 744,
+    "fact_density": 0.5365853658536586
+  },
+  {
+    "url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-confidential-ex-bjp-mla-in-congress-10636854/",
+    "title": "Gujarat Confidential: Ex-BJP MLA in Congress",
+    "source": "The Indian Express",
+    "stance": "Supportive",
+    "word_count": 92,
+    "fact_density": 0.0
+  },
+  {
+    "url": "https://www.aljazeera.com/news/2026/4/16/india-plans-more-seats-for-women-in-parliament-links-it-to-delimitation",
+    "title": "India plans more seats for women in parliament, links it to ‘delimitation’",
+    "source": "Al Jazeera English",
+    "stance": "Neutral",
+    "word_count": 789,
+    "fact_density": 0.25
+  },
+  {
+    "url": "https://indianexpress.com/article/political-pulse/swapan-dasgupta-bengal-election-bjp-tmc-10638456/",
+    "title": "Swapan Dasgupta: ‘TMC treats South Kolkata as its fief. Will ensure entitlement is short-lived… No SIR effect in Rashbehari’",
+    "source": "The Indian Express",
+    "stance": "Neutral",
+    "word_count": 951,
+    "fact_density": 0.18867924528301888
+  },
+  {
+    "url": "https://www.aljazeera.com/news/2026/4/6/cocktail-of-hindutva-and-welfarism-how-modis-bjp-is-wooing-assam-voters",
+    "title": "‘Cocktail of Hindutva and welfarism’: How Modi’s BJP is wooing Assam voters",
+    "source": "Al Jazeera English",
+    "stance": "Neutral",
+    "word_count": 2038,
+    "fact_density": 0.32926829268292684
+  },
+  {
+    "url": "https://indianexpress.com/article/india/jharkhand-treasury-scam-hazaribagh-bokaro-police-salary-fraud-bjp-jmm-10631420/",
+    "title": "Jharkhand treasury row escalates: BJP demands CBI probe, JMM calls scam a BJP-era legacy; Rs 33 cr flagged",
+    "source": "The Indian Express",
+    "stance": "Neutral",
+    "word_count": 530,
+    "fact_density": 0.19047619047619047
+  },
+  {
+    "url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-civic-polls-congress-releases-243-candidates-10621242/",
+    "title": "Gujarat civic polls: Congress releases first list of 243 candidates",
+    "source": "The Indian Express",
+    "stance": "Supportive",
+    "word_count": 165,
+    "fact_density": 0.6
+  },
+  {
+    "url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-local-body-polls-bjp-suspends-rebel-candidates-surat-navsari-vadodara-internal-revolt-10644304/",
+    "title": "April 26 Gujarat local body polls | Facing rebel trouble in several seats, BJP suspends them for six years",
+    "source": "The Indian Express",
+    "stance": "Supportive",
+    "word_count": 639,
+    "fact_density": 0.1935483870967742
+  },
+  {
+    "url": "https://indianexpress.com/article/cities/lucknow/taking-the-fight-to-rahul-bastion-bjp-to-unveil-ambedkar-statue-in-raebareli-today-10633156/",
+    "title": "Taking the fight to Rahul bastion, BJP to unveil Ambedkar statue in Raebareli today",
+    "source": "The Indian Express",
+    "stance": "Supportive",
+    "word_count": 306,
+    "fact_density": 0.36363636363636365
+  }
+]

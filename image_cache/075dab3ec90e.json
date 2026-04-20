@@ -1,0 +1,18 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "money",
+    "smartphone",
+    "hand"
+  ],
+  "narrative_suggested": "The image depicts the transfer of money between two smartphones, suggesting a digital transaction or payment system.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.9,
+  "description": "An illustration showing a dollar bill with arrows pointing from it towards two smartphones held by hands. The dollar bill is green with a dollar sign. The smartphones are black with white screens. The background is a solid teal color.",
+  "image_url": "https://www.medianama.com/wp-content/uploads/2019/02/banking-cc0-1.jpg-1-300x212.jpg",
+  "error": null
+}

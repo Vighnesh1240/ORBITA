@@ -1,0 +1,24 @@
+{
+  "image_url": "https://s.yimg.com/os/en/benzinga_79/d431ef777576538d6961125a7e67aac9",
+  "visual_bias_score": -0.0351,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3575,
+  "description": "Dogecoin, Ethereum, Gold Trades On Your  \u2014 bright image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.3182,
+    0.3575,
+    0.3242
+  ],
+  "cnn_confidence": 0.3575,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.1004,
+  "brightness": 217.4,
+  "is_dark": false,
+  "contrast": 0.2556,
+  "edge_density": 0.0391,
+  "aspect_ratio": 1.499,
+  "image_size": "1024x683",
+  "error": null
+}

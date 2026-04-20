@@ -1,0 +1,24 @@
+{
+  "image_url": "https://foreignpolicy.com/wp-content/uploads/2021/09/Ones-and-Tooze-podcast-foreign-policy-logo-3000x3000-1.jpg?w=150&quality=90",
+  "visual_bias_score": 0.0727,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3409,
+  "description": "Russia\u2019s Sanctions-Busting Cryptocurrenc \u2014 moderate-light image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.3318,
+    0.3409,
+    0.3273
+  ],
+  "cnn_confidence": 0.3409,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.2076,
+  "brightness": 113.2,
+  "is_dark": false,
+  "contrast": 0.3999,
+  "edge_density": 0.1329,
+  "aspect_ratio": 1.0,
+  "image_size": "150x150",
+  "error": null
+}

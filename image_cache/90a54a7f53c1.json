@@ -1,0 +1,16 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "text"
+  ],
+  "narrative_suggested": "The image displays the brand name 'mint Premium', suggesting a focus on premium financial services or content.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 1.0,
+  "description": "The image contains the text 'mint Premium' in orange and white colors. The 'mint' part is in a bold, orange font with a small orange circle above the 'i', while 'Premium' is in a lighter, sans-serif font.",
+  "image_url": "https://www.livemint.com/lm-img/img/static/mintPremium.png",
+  "error": null
+}

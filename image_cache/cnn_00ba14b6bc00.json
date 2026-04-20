@@ -1,0 +1,24 @@
+{
+  "image_url": "https://theintercept.com/wp-content/uploads/2026/04/GettyImages-2198970159-e1776453136636.jpg?fit=3890%2C1945&w=1200&h=800",
+  "visual_bias_score": -0.3102,
+  "visual_framing": "supportive",
+  "emotional_tone": "positive",
+  "confidence": 0.3564,
+  "description": "Crypto Critic Maxine Waters\u2019s New Primar \u2014 moderate-light image, CNN: positive sentiment",
+  "cnn_class": "positive",
+  "cnn_probabilities": [
+    0.3564,
+    0.3261,
+    0.3176
+  ],
+  "cnn_confidence": 0.3564,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.2243,
+  "brightness": 81.4,
+  "is_dark": false,
+  "contrast": 0.2231,
+  "edge_density": 0.0695,
+  "aspect_ratio": 2.0,
+  "image_size": "1200x600",
+  "error": null
+}

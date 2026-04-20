@@ -1,0 +1,23 @@
+{
+  "emotional_tone": "negative",
+  "visual_framing": "threat",
+  "subjects_detected": [
+    "hand in glove",
+    "credit card",
+    "wallet",
+    "laptop"
+  ],
+  "narrative_suggested": "A gloved hand emerging from a broken laptop screen is stealing a credit card from a wallet, symbolizing digital fraud and cybercrime.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [
+    "hand in glove",
+    "broken laptop screen",
+    "credit card theft"
+  ],
+  "visual_bias_score": 0.8,
+  "visual_bias_direction": "critical",
+  "confidence": 0.9,
+  "description": "A black gloved hand emerges from a shattered laptop screen, reaching out to take a yellow credit card from an open black wallet on a wooden desk.",
+  "image_url": "https://www.livemint.com/lm-img/img/2026/04/13/600x338/iStock-480137882_Web_1776103471839_1776103486748.jpg",
+  "error": null
+}

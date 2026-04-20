@@ -1,0 +1,19 @@
+{
+  "emotional_tone": "positive",
+  "visual_framing": "hero",
+  "subjects_detected": [
+    "oil pump jack",
+    "upward trending arrows"
+  ],
+  "narrative_suggested": "The image suggests a positive outlook for the oil industry, with rising trends and success.",
+  "image_text_consistent": false,
+  "loaded_visual_elements": [
+    "green upward trending arrows"
+  ],
+  "visual_bias_score": -0.8,
+  "visual_bias_direction": "supportive",
+  "confidence": 0.9,
+  "description": "A 3D rendering of a dark blue oil pump jack is positioned on the left side of the image. To the right of the pump jack, three large, bright green arrows are shown pointing upwards and to the right, indicating a positive trend or growth.",
+  "image_url": "https://bl-i.thgim.com/public/incoming/s63b64/article70760545.ece/alternates/LANDSCAPE_1200/PO30_Oil_pump.jpg",
+  "error": null
+}

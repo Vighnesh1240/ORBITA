@@ -1,0 +1,24 @@
+{
+  "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-842558,resizemode-75,msid-130067344/tech/startups/us-prediction-market-players-make-a-play-for-indian-ipl-fans.jpg",
+  "visual_bias_score": -0.0764,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3585,
+  "description": "US prediction market players make a play \u2014 moderate-light image, CNN: positive sentiment",
+  "cnn_class": "positive",
+  "cnn_probabilities": [
+    0.3585,
+    0.2959,
+    0.3457
+  ],
+  "cnn_confidence": 0.3585,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.4475,
+  "brightness": 136.1,
+  "is_dark": false,
+  "contrast": 0.3756,
+  "edge_density": 0.1311,
+  "aspect_ratio": 1.335,
+  "image_size": "1200x899",
+  "error": null
+}

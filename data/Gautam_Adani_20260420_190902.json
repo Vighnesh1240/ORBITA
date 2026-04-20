@@ -1,0 +1,66 @@
+[
+  {
+    "url": "https://finance.yahoo.com/markets/stocks/articles/gautam-adani-seek-dismiss-us-161607897.html",
+    "title": "Gautam Adani will seek to dismiss US SEC fraud case",
+    "source": "Yahoo Entertainment",
+    "stance": "Supportive",
+    "word_count": 194,
+    "fact_density": 0.2727272727272727
+  },
+  {
+    "url": "https://www.thehindubusinessline.com/companies/adani-ports-to-handle-one-billion-tonnes-of-cargo-by-2030-gautam-adani/article70820154.ece",
+    "title": "Adani Ports to handle one billion tonnes of cargo by 2030: Gautam Adani",
+    "source": "BusinessLine",
+    "stance": "Supportive",
+    "word_count": 354,
+    "fact_density": 0.3125
+  },
+  {
+    "url": "https://www.thehindubusinessline.com/news/national/gautam-adani-meets-yogi-adityanath-backs-uttar-pradeshs-1-trillion-economy-goal/article70818708.ece",
+    "title": "Gautam Adani meets Yogi Adityanath, backs Uttar Pradesh’s $1 trillion economy goal",
+    "source": "BusinessLine",
+    "stance": "Supportive",
+    "word_count": 198,
+    "fact_density": 0.3076923076923077
+  },
+  {
+    "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/gautam-adani-and-group-companies-get-clean-chit-from-cci-in-bribery-allegations-seci-tender-case-solar-enerfy-adani-enterprises-share-price-green-energy/articleshow/130311270.cms",
+    "title": "Gautam Adani & cos get CCI clean chit in US bribery allegations in SECI tender case",
+    "source": "The Times of India",
+    "stance": "Neutral",
+    "word_count": 629,
+    "fact_density": 0.4090909090909091
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/business/india-business/sec-adanis-jointly-seek-extension-propose-new-briefing-schedule-in-us-case/articleshow/130353828.cms",
+    "title": "SEC, Adanis jointly seek extension; propose new briefing schedule in US case",
+    "source": "The Times of India",
+    "stance": "Supportive",
+    "word_count": 401,
+    "fact_density": 0.6428571428571429
+  },
+  {
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-green-adani-enterprises-adani-ports-shares-rally-up-to-13-here-are-3-reasons-behind-rs-1-lakh-crore-surge/articleshow/130104718.cms",
+    "title": "Adani Green, Adani Enterprises, Adani Ports shares rally up to 13%. Here are 3 reasons behind Rs 1 lakh crore surge",
+    "source": "The Times of India",
+    "stance": "Supportive",
+    "word_count": 848,
+    "fact_density": 0.42
+  },
+  {
+    "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/adani-bags-top-spot-in-richest-asians-club/articleshow/130345547.cms",
+    "title": "Adani bags top spot in richest Asians’ club",
+    "source": "The Times of India",
+    "stance": "Supportive",
+    "word_count": 97,
+    "fact_density": 0.42857142857142855
+  },
+  {
+    "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/gautam-adani-sagar-adani-to-seek-us-sec-fraud-case-dismissal-by-april-30/articleshow/130107642.cms",
+    "title": "Gautam Adani, Sagar Adani to seek US SEC fraud case dismissal by April 30",
+    "source": "The Times of India",
+    "stance": "Supportive",
+    "word_count": 549,
+    "fact_density": 0.5333333333333333
+  }
+]

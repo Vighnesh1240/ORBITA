@@ -1,0 +1,24 @@
+{
+  "image_url": "https://theintercept.com/wp-content/uploads/2024/11/cropped-cropped-bw_granger-sledge-headshot-1-180x180.jpg",
+  "visual_bias_score": -0.2077,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3499,
+  "description": "Crypto Critic Maxine Waters\u2019s New Primar \u2014 moderate-light image, CNN: positive sentiment",
+  "cnn_class": "positive",
+  "cnn_probabilities": [
+    0.3499,
+    0.3181,
+    0.3321
+  ],
+  "cnn_confidence": 0.3499,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.0565,
+  "brightness": 146.1,
+  "is_dark": false,
+  "contrast": 0.3909,
+  "edge_density": 0.0601,
+  "aspect_ratio": 1.0,
+  "image_size": "180x180",
+  "error": null
+}

@@ -1,0 +1,258 @@
+{
+  "topic": "UPI Digital Payments india",
+  "bias_score": -0.6029,
+  "synthesis_report": "The Unified Payments Interface (UPI) in India has established itself as a dominant force in digital payments, demonstrating significant growth and widespread adoption. Agent A highlights that integrating UPI payment gateways offers businesses substantial benefits, including access to a larger customer base, increased conversion rates, and higher revenue due to faster transaction times and reduced cart abandonment. The evidence points to UPI's expansive merchant network, with over 65 million active merchants in India by 2025, underscoring its rapid integration into the business landscape. Furthermore, UPI payment gateways are noted for their robust security features, such as SSL encryption and tokenization, which protect both consumers and businesses. The system's efficiency is further enhanced by instant settlements, improving cash flow management for businesses. Source excerpts corroborate this, detailing strong year-on-year growth in transaction counts and values, with UPI processing billions of transactions in 2025 and becoming a global leader in real-time payment volumes. It is described as the backbone of India's digital economy and a key component of the country's retail payments architecture.\n\nConversely, Agent B introduces critical concerns regarding regulatory actions and potential liabilities within the digital payments sector. Specifically, there has been an escalated crackdown on Payout API-related transactions, particularly in the now-banned real-money gaming sector. An instance cited is the arrest of a Payments Bank CEO under the GST Act concerning online betting. The Reserve Bank of India (RBI) is also reportedly considering a shared responsibility framework for unauthorized digital payment transactions, which would distribute liability between the remitter's and beneficiary's banks. While Agent A focuses on the benefits and widespread adoption of UPI for businesses, Agent B brings attention to the regulatory scrutiny and potential risks associated with certain types of digital transactions and the evolving liability landscape.",
+  "loaded_language_removed": [],
+  "key_agreements": [
+    "UPI is a significant and growing digital payment system in India.",
+    "UPI has seen substantial transaction volume and value growth."
+  ],
+  "key_disagreements": [
+    "Agent A emphasizes the benefits and widespread business adoption of UPI, while Agent B highlights regulatory crackdowns and potential liabilities in specific sectors of digital payments."
+  ],
+  "source_citations": [
+    "Agent A Evidence: With millions of active UPI users, adopting a UPI payment gateway can help your business reach a larger audience and increase conversions, leading to higher revenue. | In 2025, India had over 65 million active merchants accepting Unified Payments Interface (UPI) payments, making it the world’s largest merchant acceptance network.",
+    "Agent B Evidence: The regulator has escalated its crackdown on Payout API-related transactions in the now-banned real-money gaming sector. | In February, Fino Payments Bank CEO Rishi Gupta was arrested under the provisions of the GST Act in a matter related to online betting.",
+    "[1]",
+    "[2]",
+    "[3]",
+    "[4]",
+    "[5]",
+    "[6]",
+    "[7]",
+    "[8]"
+  ],
+  "hallucination_flags": [
+    "The government’s policy push, regulatory support and interoperability framework have helped UPI emerge as the world’s largest real-time payments system, fundamentally altering how consumers and merchants transact.",
+    "UPI is on the brink of revolutionizing cross-border money transfers by enhancing the speed, affordability, and clarity of international transactions, thereby elevating trade and remittances and reinforcing India's global economic stature.",
+    "India's triumph with UPI in digital payments is on the brink of revolutionizing cross-border money transfers.",
+    "India's ambition, aligned with the G20 roadmap, is to make cross-border transactions faster, cheaper, more transparent, and more accessible, which is crucial for competitiveness given India's position as the world's largest recipient of remittances.",
+    "The Unified Payments Interface (UPI) processed a staggering 228.5 billion transactions in 2025, marking a 33% year-on-year increase and solidifying its position as the default payment method for everyday commerce in India.",
+    "UPI has evolved into the backbone of India's digital economy, experiencing exponential growth in scale and scope, processing 218.98 billion transactions totaling nearly ₹285 lakh crore in FY26.",
+    "Adopting a UPI payment gateway can help businesses reach a larger audience, increase conversions, and lead to higher revenue by enabling access to millions of UPI users and reducing cart abandonment through faster payments.",
+    "Globally interoperable standards for UPI will become increasingly critical as India deepens trade ties and explores international linkages for UPI, enabling efficient reuse of existing cross-border infrastructure to accelerate progress.",
+    "Government policy, regulatory support, and an interoperability framework have propelled UPI to become the world's largest real-time payments system, fundamentally altering consumer and merchant transactions.",
+    "UPI has become the world's largest merchant acceptance network with over 65 million active merchants in India in 2025, reflecting rapid business adoption of digital transactions to meet customer expectations.",
+    "In February, Fino Payments Bank CEO Rishi Gupta was arrested under the provisions of the GST Act in a matter related to online betting.",
+    "Secure Sockets Layer (SSL) encryption, Tokenisation, Fraud protection: Real-time fraud detection tools",
+    "The regulator has escalated its crackdown on Payout API-related transactions in the now-banned real-money gaming sector.",
+    "In 2025, India had over 65 million active merchants accepting Unified Payments Interface (UPI) payments, making it the world’s largest merchant acceptance network.",
+    "Integrating a UPI payment gateway can significantly streamline payment processes, offering enhanced security and efficiency, with benefits including a higher success rate and instant settlements that improve cash flow management.",
+    "As India deepens trade ties, negotiates digital economy partnerships and explores international linkages for UPI, globally interoperable standards will become even more critical.",
+    "UPI payment gateways offer enhanced security through features like SSL encryption, tokenization, and real-time fraud detection, safeguarding both businesses and customers."
+  ],
+  "agent_a": {
+    "arguments": [
+      "Adopting a UPI payment gateway can help businesses reach a larger audience, increase conversions, and lead to higher revenue by enabling access to millions of UPI users and reducing cart abandonment through faster payments.",
+      "UPI has become the world's largest merchant acceptance network with over 65 million active merchants in India in 2025, reflecting rapid business adoption of digital transactions to meet customer expectations.",
+      "UPI payment gateways offer enhanced security through features like SSL encryption, tokenization, and real-time fraud detection, safeguarding both businesses and customers.",
+      "Integrating a UPI payment gateway can significantly streamline payment processes, offering enhanced security and efficiency, with benefits including a higher success rate and instant settlements that improve cash flow management.",
+      "Investing in a UPI payment gateway equips businesses to adapt to future payment trends and remain competitive in the evolving digital sector.",
+      "UPI has evolved into the backbone of India's digital economy, experiencing exponential growth in scale and scope, processing 218.98 billion transactions totaling nearly ₹285 lakh crore in FY26.",
+      "Government policy, regulatory support, and an interoperability framework have propelled UPI to become the world's largest real-time payments system, fundamentally altering consumer and merchant transactions.",
+      "UPI is on the brink of revolutionizing cross-border money transfers by enhancing the speed, affordability, and clarity of international transactions, thereby elevating trade and remittances and reinforcing India's global economic stature.",
+      "India's ambition, aligned with the G20 roadmap, is to make cross-border transactions faster, cheaper, more transparent, and more accessible, which is crucial for competitiveness given India's position as the world's largest recipient of remittances.",
+      "The Unified Payments Interface (UPI) processed a staggering 228.5 billion transactions in 2025, marking a 33% year-on-year increase and solidifying its position as the default payment method for everyday commerce in India.",
+      "Globally interoperable standards for UPI will become increasingly critical as India deepens trade ties and explores international linkages for UPI, enabling efficient reuse of existing cross-border infrastructure to accelerate progress."
+    ],
+    "evidence": [
+      "With millions of active UPI users, adopting a UPI payment gateway can help your business reach a larger audience and increase conversions, leading to higher revenue.",
+      "In 2025, India had over 65 million active merchants accepting Unified Payments Interface (UPI) payments, making it the world’s largest merchant acceptance network.",
+      "Secure Sockets Layer (SSL) encryption, Tokenisation, Fraud protection: Real-time fraud detection tools",
+      "Integrating a UPI payment gateway can significantly streamline your payment processes while offering enhanced security and efficiency.",
+      "Investing in a UPI payment gateway ensures your business is equipped to adapt to future payment trends, staying competitive in an evolving digital sector.",
+      "From just 17.86 million transactions worth ₹6,952 crore in FY17, UPI has surged to 218.98 billion transactions totalling nearly ₹285 lakh crore in FY26, according to Tracxn data.",
+      "The government’s policy push, regulatory support and interoperability framework have helped UPI emerge as the world’s largest real-time payments system, fundamentally altering how consumers and merchants transact.",
+      "India's triumph with UPI in digital payments is on the brink of revolutionizing cross-border money transfers.",
+      "In Payments Vision 2025, RBI articulated an ambition aligned with G20 roadmap: make cross-border transactions faster (75% of payments to be credited within 1 hr), cheaper (average remittance costs reduced to 3% or below), more transparent and more accessible.",
+      "The Unified Payments Interface (UPI) processing a staggering 228.5 billion transactions in 2025, marking a 33% year-on-year increase, according to a report by Worldline.",
+      "As India deepens trade ties, negotiates digital economy partnerships and explores international linkages for UPI, globally interoperable standards will become even more critical."
+    ],
+    "key_sources": [
+      "We-heart.com",
+      "BusinessLine",
+      "The Times of India"
+    ],
+    "confidence_score": 0.996,
+    "nlp_validated_arguments": [
+      "Adopting a UPI payment gateway can help businesses reach a larger audience, increase conversions, and lead to higher revenue by enabling access to millions of UPI users and reducing cart abandonment through faster payments.",
+      "UPI has become the world's largest merchant acceptance network with over 65 million active merchants in India in 2025, reflecting rapid business adoption of digital transactions to meet customer expectations.",
+      "UPI payment gateways offer enhanced security through features like SSL encryption, tokenization, and real-time fraud detection, safeguarding both businesses and customers.",
+      "Integrating a UPI payment gateway can significantly streamline payment processes, offering enhanced security and efficiency, with benefits including a higher success rate and instant settlements that improve cash flow management.",
+      "Investing in a UPI payment gateway equips businesses to adapt to future payment trends and remain competitive in the evolving digital sector.",
+      "UPI has evolved into the backbone of India's digital economy, experiencing exponential growth in scale and scope, processing 218.98 billion transactions totaling nearly ₹285 lakh crore in FY26.",
+      "Government policy, regulatory support, and an interoperability framework have propelled UPI to become the world's largest real-time payments system, fundamentally altering consumer and merchant transactions.",
+      "UPI is on the brink of revolutionizing cross-border money transfers by enhancing the speed, affordability, and clarity of international transactions, thereby elevating trade and remittances and reinforcing India's global economic stature.",
+      "India's ambition, aligned with the G20 roadmap, is to make cross-border transactions faster, cheaper, more transparent, and more accessible, which is crucial for competitiveness given India's position as the world's largest recipient of remittances.",
+      "The Unified Payments Interface (UPI) processed a staggering 228.5 billion transactions in 2025, marking a 33% year-on-year increase and solidifying its position as the default payment method for everyday commerce in India.",
+      "Globally interoperable standards for UPI will become increasingly critical as India deepens trade ties and explores international linkages for UPI, enabling efficient reuse of existing cross-border infrastructure to accelerate progress."
+    ],
+    "top_entities_referenced": [
+      "UPI",
+      "India",
+      "RBI",
+      "NPCI"
+    ],
+    "argument_traces": [
+      {
+        "argument": "Adopting a UPI payment gateway can help businesses reach a larger audience, increase conversions, and lead to higher revenue by enabling access to millions of UPI users and reducing cart abandonment through faster payments.",
+        "evidence": "With millions of active UPI users, adopting a UPI payment gateway can help your business reach a larger audience and increase conversions, leading to higher revenue.",
+        "source": "We-heart.com",
+        "url": "https://www.we-heart.com/2026/04/08/why-should-business-invest-in-upi-payment-gateway/"
+      },
+      {
+        "argument": "UPI has become the world's largest merchant acceptance network with over 65 million active merchants in India in 2025, reflecting rapid business adoption of digital transactions to meet customer expectations.",
+        "evidence": "In 2025, India had over 65 million active merchants accepting Unified Payments Interface (UPI) payments, making it the world’s largest merchant acceptance network.",
+        "source": "We-heart.com",
+        "url": "https://www.we-heart.com/2026/04/08/why-should-business-invest-in-upi-payment-gateway/"
+      },
+      {
+        "argument": "UPI payment gateways offer enhanced security through features like SSL encryption, tokenization, and real-time fraud detection, safeguarding both businesses and customers.",
+        "evidence": "Secure Sockets Layer (SSL) encryption, Tokenisation, Fraud protection: Real-time fraud detection tools",
+        "source": "We-heart.com",
+        "url": "https://www.we-heart.com/2026/04/08/why-should-business-invest-in-upi-payment-gateway/"
+      },
+      {
+        "argument": "Integrating a UPI payment gateway can significantly streamline payment processes, offering enhanced security and efficiency, with benefits including a higher success rate and instant settlements that improve cash flow management.",
+        "evidence": "Integrating a UPI payment gateway can significantly streamline your payment processes while offering enhanced security and efficiency.",
+        "source": "We-heart.com",
+        "url": "https://www.we-heart.com/2026/04/08/why-should-business-invest-in-upi-payment-gateway/"
+      },
+      {
+        "argument": "Investing in a UPI payment gateway equips businesses to adapt to future payment trends and remain competitive in the evolving digital sector.",
+        "evidence": "Investing in a UPI payment gateway ensures your business is equipped to adapt to future payment trends, staying competitive in an evolving digital sector.",
+        "source": "We-heart.com",
+        "url": "https://www.we-heart.com/2026/04/08/why-should-business-invest-in-upi-payment-gateway/"
+      },
+      {
+        "argument": "UPI has evolved into the backbone of India's digital economy, experiencing exponential growth in scale and scope, processing 218.98 billion transactions totaling nearly ₹285 lakh crore in FY26.",
+        "evidence": "From just 17.86 million transactions worth ₹6,952 crore in FY17, UPI has surged to 218.98 billion transactions totalling nearly ₹285 lakh crore in FY26, according to Tracxn data.",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/money-and-banking/upi-at-10-from-payments-pipe-to-backbone-of-indias-digital-financial-ecosystem/article70851341.ece"
+      },
+      {
+        "argument": "Government policy, regulatory support, and an interoperability framework have propelled UPI to become the world's largest real-time payments system, fundamentally altering consumer and merchant transactions.",
+        "evidence": "The government’s policy push, regulatory support and interoperability framework have helped UPI emerge as the world’s largest real-time payments system, fundamentally altering how consumers and merchants transact.",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/money-and-banking/upi-at-10-from-payments-pipe-to-backbone-of-indias-digital-financial-ecosystem/article70851341.ece"
+      },
+      {
+        "argument": "UPI is on the brink of revolutionizing cross-border money transfers by enhancing the speed, affordability, and clarity of international transactions, thereby elevating trade and remittances and reinforcing India's global economic stature.",
+        "evidence": "India's triumph with UPI in digital payments is on the brink of revolutionizing cross-border money transfers.",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/how-upi-can-make-india-an-architect-of-global-financial-connectivity/articleshow/130093914.cms"
+      },
+      {
+        "argument": "India's ambition, aligned with the G20 roadmap, is to make cross-border transactions faster, cheaper, more transparent, and more accessible, which is crucial for competitiveness given India's position as the world's largest recipient of remittances.",
+        "evidence": "In Payments Vision 2025, RBI articulated an ambition aligned with G20 roadmap: make cross-border transactions faster (75% of payments to be credited within 1 hr), cheaper (average remittance costs reduced to 3% or below), more transparent and more accessible.",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/how-upi-can-make-india-an-architect-of-global-financial-connectivity/articleshow/130093914.cms"
+      },
+      {
+        "argument": "The Unified Payments Interface (UPI) processed a staggering 228.5 billion transactions in 2025, marking a 33% year-on-year increase and solidifying its position as the default payment method for everyday commerce in India.",
+        "evidence": "The Unified Payments Interface (UPI) processing a staggering 228.5 billion transactions in 2025, marking a 33% year-on-year increase, according to a report by Worldline.",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/money-and-banking/upi-processes-2285-billion-transactions-in-2025-reshaping-indias-payments-landscape/article70860946.ece"
+      },
+      {
+        "argument": "Globally interoperable standards for UPI will become increasingly critical as India deepens trade ties and explores international linkages for UPI, enabling efficient reuse of existing cross-border infrastructure to accelerate progress.",
+        "evidence": "As India deepens trade ties, negotiates digital economy partnerships and explores international linkages for UPI, globally interoperable standards will become even more critical.",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/how-upi-can-make-india-an-architect-of-global-financial-connectivity/articleshow/130093914.cms"
+      }
+    ],
+    "visual_context_used": true,
+    "nlp_context_used": true
+  },
+  "agent_b": {
+    "counter_arguments": [
+      "The regulator has escalated its crackdown on Payout API-related transactions in the now-banned real-money gaming sector.",
+      "In February, Fino Payments Bank CEO Rishi Gupta was arrested under the provisions of the GST Act in a matter related to online betting.",
+      "The RBI is considering a shared responsibility framework for unauthorised digital payment transactions, where liability would be jointly borne by the remitter’s bank and the beneficiary’s bank."
+    ],
+    "evidence": [
+      "The regulator has escalated its crackdown on Payout API-related transactions in the now-banned real-money gaming sector.",
+      "In February, Fino Payments Bank CEO Rishi Gupta was arrested under the provisions of the GST Act in a matter related to online betting.",
+      "The regulator also said it is considering a shared responsibility framework for unauthorised digital payment transactions. Under this approach, liability would be jointly borne by the remitter’s bank and the beneficiary’s bank."
+    ],
+    "key_sources": [
+      "MediaNama.com",
+      "Electronicpaymentsinternational.com"
+    ],
+    "confidence_score": 0.75,
+    "nlp_validated_counter_arguments": [
+      "The regulator has escalated its crackdown on Payout API-related transactions in the now-banned real-money gaming sector.",
+      "In February, Fino Payments Bank CEO Rishi Gupta was arrested under the provisions of the GST Act in a matter related to online betting.",
+      "The regulator also said it is considering a shared responsibility framework for unauthorised digital payment transactions. Under this approach, liability would be jointly borne by the remitter’s bank and the beneficiary’s bank."
+    ],
+    "top_critical_entities": [
+      "RBI",
+      "Fino Payments Bank",
+      "NPCI"
+    ],
+    "visual_context_used": true,
+    "nlp_context_used": true
+  },
+  "agent_c": {
+    "synthesis_report": "The Unified Payments Interface (UPI) in India has established itself as a dominant force in digital payments, demonstrating significant growth and widespread adoption. Agent A highlights that integrating UPI payment gateways offers businesses substantial benefits, including access to a larger customer base, increased conversion rates, and higher revenue due to faster transaction times and reduced cart abandonment. The evidence points to UPI's expansive merchant network, with over 65 million active merchants in India by 2025, underscoring its rapid integration into the business landscape. Furthermore, UPI payment gateways are noted for their robust security features, such as SSL encryption and tokenization, which protect both consumers and businesses. The system's efficiency is further enhanced by instant settlements, improving cash flow management for businesses. Source excerpts corroborate this, detailing strong year-on-year growth in transaction counts and values, with UPI processing billions of transactions in 2025 and becoming a global leader in real-time payment volumes. It is described as the backbone of India's digital economy and a key component of the country's retail payments architecture.\n\nConversely, Agent B introduces critical concerns regarding regulatory actions and potential liabilities within the digital payments sector. Specifically, there has been an escalated crackdown on Payout API-related transactions, particularly in the now-banned real-money gaming sector. An instance cited is the arrest of a Payments Bank CEO under the GST Act concerning online betting. The Reserve Bank of India (RBI) is also reportedly considering a shared responsibility framework for unauthorized digital payment transactions, which would distribute liability between the remitter's and beneficiary's banks. While Agent A focuses on the benefits and widespread adoption of UPI for businesses, Agent B brings attention to the regulatory scrutiny and potential risks associated with certain types of digital transactions and the evolving liability landscape.",
+    "bias_score": -0.6029,
+    "loaded_language_removed": [],
+    "key_agreements": [
+      "UPI is a significant and growing digital payment system in India.",
+      "UPI has seen substantial transaction volume and value growth."
+    ],
+    "key_disagreements": [
+      "Agent A emphasizes the benefits and widespread business adoption of UPI, while Agent B highlights regulatory crackdowns and potential liabilities in specific sectors of digital payments."
+    ],
+    "source_citations": [
+      "Agent A Evidence: With millions of active UPI users, adopting a UPI payment gateway can help your business reach a larger audience and increase conversions, leading to higher revenue. | In 2025, India had over 65 million active merchants accepting Unified Payments Interface (UPI) payments, making it the world’s largest merchant acceptance network.",
+      "Agent B Evidence: The regulator has escalated its crackdown on Payout API-related transactions in the now-banned real-money gaming sector. | In February, Fino Payments Bank CEO Rishi Gupta was arrested under the provisions of the GST Act in a matter related to online betting.",
+      "[1]",
+      "[2]",
+      "[3]",
+      "[4]",
+      "[5]",
+      "[6]",
+      "[7]",
+      "[8]"
+    ],
+    "hallucination_flags": [
+      "The government’s policy push, regulatory support and interoperability framework have helped UPI emerge as the world’s largest real-time payments system, fundamentally altering how consumers and merchants transact.",
+      "UPI is on the brink of revolutionizing cross-border money transfers by enhancing the speed, affordability, and clarity of international transactions, thereby elevating trade and remittances and reinforcing India's global economic stature.",
+      "India's triumph with UPI in digital payments is on the brink of revolutionizing cross-border money transfers.",
+      "India's ambition, aligned with the G20 roadmap, is to make cross-border transactions faster, cheaper, more transparent, and more accessible, which is crucial for competitiveness given India's position as the world's largest recipient of remittances.",
+      "The Unified Payments Interface (UPI) processed a staggering 228.5 billion transactions in 2025, marking a 33% year-on-year increase and solidifying its position as the default payment method for everyday commerce in India.",
+      "UPI has evolved into the backbone of India's digital economy, experiencing exponential growth in scale and scope, processing 218.98 billion transactions totaling nearly ₹285 lakh crore in FY26.",
+      "Adopting a UPI payment gateway can help businesses reach a larger audience, increase conversions, and lead to higher revenue by enabling access to millions of UPI users and reducing cart abandonment through faster payments.",
+      "Globally interoperable standards for UPI will become increasingly critical as India deepens trade ties and explores international linkages for UPI, enabling efficient reuse of existing cross-border infrastructure to accelerate progress.",
+      "Government policy, regulatory support, and an interoperability framework have propelled UPI to become the world's largest real-time payments system, fundamentally altering consumer and merchant transactions.",
+      "UPI has become the world's largest merchant acceptance network with over 65 million active merchants in India in 2025, reflecting rapid business adoption of digital transactions to meet customer expectations.",
+      "In February, Fino Payments Bank CEO Rishi Gupta was arrested under the provisions of the GST Act in a matter related to online betting.",
+      "Secure Sockets Layer (SSL) encryption, Tokenisation, Fraud protection: Real-time fraud detection tools",
+      "The regulator has escalated its crackdown on Payout API-related transactions in the now-banned real-money gaming sector.",
+      "In 2025, India had over 65 million active merchants accepting Unified Payments Interface (UPI) payments, making it the world’s largest merchant acceptance network.",
+      "Integrating a UPI payment gateway can significantly streamline payment processes, offering enhanced security and efficiency, with benefits including a higher success rate and instant settlements that improve cash flow management.",
+      "As India deepens trade ties, negotiates digital economy partnerships and explores international linkages for UPI, globally interoperable standards will become even more critical.",
+      "UPI payment gateways offer enhanced security through features like SSL encryption, tokenization, and real-time fraud detection, safeguarding both businesses and customers."
+    ],
+    "nlp_validation_note": "The manual NLP analysis indicates a predominantly positive sentiment across the provided sources, aligning with the overall positive framing of UPI's growth and benefits presented by Agent A, while Agent B's counter-arguments introduce a negative aspect that is not as extensively covered in the provided source excerpts.",
+    "bias_vector": {
+      "ideological_bias": -0.4959,
+      "emotional_bias": 0.1883,
+      "informational_bias": 0.0,
+      "source_diversity": 0.8837,
+      "stance_entropy": 0.6022,
+      "composite_score": -0.6029,
+      "confidence": 0.873,
+      "interpretation": "Strongly Supportive",
+      "dimension_labels": {
+        "ideological": "Moderately Supportive",
+        "emotional": "Moderate Emotional Bias",
+        "informational": "Mostly Factual",
+        "diversity": "High Source Diversity"
+      }
+    },
+    "visual_context_used": true,
+    "nlp_context_used": true
+  }
+}

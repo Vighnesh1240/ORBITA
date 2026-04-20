@@ -1,0 +1,18 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "hand",
+    "smartphone",
+    "QR code"
+  ],
+  "narrative_suggested": "The image suggests a technological interaction, likely involving a digital payment or information retrieval via a QR code on a smartphone.",
+  "image_text_consistent": false,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.9,
+  "description": "A hand holds a smartphone displaying a QR code on its screen. The background is a wooden surface.",
+  "image_url": "https://www.medianama.com/wp-content/uploads/2024/07/UPI-300x200.jpg",
+  "error": null
+}

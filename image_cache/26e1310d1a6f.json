@@ -1,0 +1,14 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [],
+  "narrative_suggested": "Analysis unavailable",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.0,
+  "description": "Gemini Vision API unavailable",
+  "image_url": "https://img.etimg.com/thumb/msid-130138140,imgsize-41898,width-138,height-104/prime/consumer/natural-diamonds-lose-sheen-globally-in-india-theyre-still-forever.jpg",
+  "error": "API unavailable"
+}

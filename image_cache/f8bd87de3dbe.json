@@ -1,0 +1,17 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "Alice",
+    "Queen of Hearts"
+  ],
+  "narrative_suggested": "A young girl encounters a regal, imposing figure in a forest setting.",
+  "image_text_consistent": false,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.9,
+  "description": "An illustration from Alice in Wonderland depicts Alice, in her blue dress and white apron, facing the Queen of Hearts, who is wearing a red crown and dress and holding a scepter. They are in a forest with trees and greenery.",
+  "image_url": "https://colossus.com/wp-content/uploads/2026/03/2WH6FCH-scaled.jpg",
+  "error": null
+}

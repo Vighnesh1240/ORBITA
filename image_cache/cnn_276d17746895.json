@@ -1,0 +1,24 @@
+{
+  "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-45336,resizemode-75,msid-130093914/opinion/et-commentary/how-upi-can-make-india-an-architect-of-global-financial-connectivity.jpg",
+  "visual_bias_score": 0.0555,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3641,
+  "description": "How UPI can make India an architect of g \u2014 moderate-light image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.2766,
+    0.3641,
+    0.3593
+  ],
+  "cnn_confidence": 0.3641,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.1585,
+  "brightness": 137.6,
+  "is_dark": false,
+  "contrast": 0.4942,
+  "edge_density": 0.0861,
+  "aspect_ratio": 1.333,
+  "image_size": "1200x900",
+  "error": null
+}

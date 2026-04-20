@@ -38,6 +38,24 @@ import google.genai as genai
 client = genai.Client(api_key=GEMINI_API_KEY)
 
 
+def _normalize_embedding_dim(vector: list[float], target_dim: int = EMBEDDING_DIM) -> list[float] | None:
+    """Pad/trim one embedding vector to a consistent size for Chroma."""
+    if vector is None:
+        return None
+
+    try:
+        normalized = [float(v) for v in vector]
+    except Exception:
+        return None
+
+    if len(normalized) < target_dim:
+        normalized.extend([0.0] * (target_dim - len(normalized)))
+    elif len(normalized) > target_dim:
+        normalized = normalized[:target_dim]
+
+    return normalized
+
+
 def _get_client() -> chromadb.PersistentClient:
     """
     Get a persistent ChromaDB client.
@@ -100,12 +118,19 @@ def store_chunks(chunks: list[dict], reset: bool = True) -> chromadb.Collection:
     documents   = []
     metadatas   = []
 
+    skipped_invalid = 0
+
     for chunk in chunks:
         if "embedding" not in chunk:
             continue  # skip chunks that failed embedding
 
+        normalized_embedding = _normalize_embedding_dim(chunk.get("embedding"))
+        if normalized_embedding is None:
+            skipped_invalid += 1
+            continue
+
         ids.append(chunk["chunk_id"])
-        embeddings.append(chunk["embedding"])
+        embeddings.append(normalized_embedding)
         documents.append(chunk["text"])
         metadatas.append({
             "url":         chunk.get("url", ""),
@@ -117,6 +142,9 @@ def store_chunks(chunks: list[dict], reset: bool = True) -> chromadb.Collection:
 
     if not ids:
         raise RuntimeError("No valid chunks to store — all failed embedding.")
+
+    if skipped_invalid:
+        print(f"  [vector_store] Skipped {skipped_invalid} chunk(s) with invalid embeddings")
 
     # ChromaDB can handle large upserts but we batch for safety
     BATCH_SIZE = 50
@@ -185,7 +213,11 @@ def embed_query(query_text: str) -> list[float]:
             contents = [query_text],
             config   = {"task_type": "RETRIEVAL_QUERY"},
         )
-        return result.embeddings[0].values
+
+        normalized = _normalize_embedding_dim(result.embeddings[0].values)
+        if normalized is None:
+            return _fallback_query_embedding(query_text)
+        return normalized
 
     except Exception as e:
         print(f"[vector_store] Warning: embedding API error: {e}")

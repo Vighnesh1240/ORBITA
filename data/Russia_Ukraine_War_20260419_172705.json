@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://www.businessinsider.com/drones-not-won-war-ukraine-west-must-keep-mind-russia-2026-3",
+    "title": "Drones haven't won the fight in Ukraine. That matters as the West learns new ways of war.",
+    "source": "Business Insider",
+    "stance": "Supportive",
+    "word_count": 957,
+    "fact_density": 0.044444444444444446
+  },
+  {
+    "url": "https://www.businessinsider.com/army-soldiers-training-trench-war-russia-2026-3",
+    "title": "How US Army soldiers in Europe are readying for a possible trench war with Russia",
+    "source": "Business Insider",
+    "stance": "Supportive",
+    "word_count": 65,
+    "fact_density": 0.25
+  },
+  {
+    "url": "https://ca.news.yahoo.com/russia-warns-drone-plans-ukraine-183123127.html",
+    "title": "Russia warns drone plans for Ukraine are pulling Europe deeper into war",
+    "source": "Yahoo Entertainment",
+    "stance": "Supportive",
+    "word_count": 255,
+    "fact_density": 0.1
+  },
+  {
+    "url": "https://www.businessinsider.com/nato-ignored-drone-threat-now-scrambling-learning-new-war-admiral-2026-4",
+    "title": "NATO ignored the drone threat, and now it's scrambling to learn new ways of war, top commander says",
+    "source": "Business Insider",
+    "stance": "Critical",
+    "word_count": 595,
+    "fact_density": 0.16129032258064516
+  },
+  {
+    "url": "https://www.theregister.com/2026/03/23/nato_air_defenses/",
+    "title": "The drone swarm is coming, and NATO air defenses are too expensive to cope",
+    "source": "Theregister.com",
+    "stance": "Critical",
+    "word_count": 1011,
+    "fact_density": 0.2647058823529412
+  },
+  {
+    "url": "https://www.macrumors.com/2026/04/02/apple-turns-off-payments-in-russia/",
+    "title": "Apple Turns Off Payments in Russia",
+    "source": "MacRumors",
+    "stance": "Supportive",
+    "word_count": 202,
+    "fact_density": 0.14285714285714285
+  },
+  {
+    "url": "https://www.businessinsider.com/russia-turned-molniya-strike-drones-into-recon-tools-2026-3",
+    "title": "Russia loaded its cheap 'Molniya' strike drones with extra batteries and high-def cameras, turning them into recon tools",
+    "source": "Business Insider",
+    "stance": "Supportive",
+    "word_count": 433,
+    "fact_density": 0.25
+  }
+]

@@ -1,0 +1,411 @@
+{
+  "topic": "Mukesh Ambani",
+  "bias_score": -0.4068,
+  "bias_vector": {
+    "ideological_bias": -0.3071,
+    "emotional_bias": 0.1098,
+    "informational_bias": 0.0,
+    "source_diversity": 0.9299,
+    "stance_entropy": 0.6216,
+    "composite_score": -0.4068,
+    "confidence": 0.75,
+    "interpretation": "Moderately Supportive",
+    "dimension_labels": {
+      "ideological": "Moderately Supportive",
+      "emotional": "Low Emotional Bias",
+      "informational": "Mostly Factual",
+      "diversity": "High Source Diversity"
+    }
+  },
+  "synthesis_report": "Mukesh Ambani, the chairman and managing director of Reliance Industries Limited, has recently been in the news regarding his financial standing and legal matters. Gautam Adani has surpassed Ambani to become Asia's wealthiest individual, with a net worth reported at $92.6 billion as of April 16th. This shift in wealth ranking is attributed to the significant surge in Adani Group's stock prices, while Ambani's fortune has seen a decline, though Reliance Industries shares experienced a marginal increase on a particular trading day.  In a legal development, the Bombay High Court dismissed a petition that sought a Central Bureau of Investigation (CBI) probe against Reliance Industries and Ambani concerning allegations of unlawful natural gas extraction from ONGC's fields in the Krishna-Godavari basin.  Furthermore, Reliance Industries is reportedly considering filing draft IPO paperwork for Jio Platforms in May, a move that was postponed from March due to prevailing market downturns, with the aim of presenting a more favorable financial picture to investors. The Nita Mukesh Ambani Cultural Centre also marked its third anniversary with a notable event in Mumbai.",
+  "loaded_language_removed": [],
+  "key_agreements": [
+    "Gautam Adani has overtaken Mukesh Ambani as Asia's wealthiest individual.",
+    "The Bombay High Court dismissed a petition seeking a CBI probe against Reliance Industries Limited and Mukesh Ambani for alleged unlawful extraction of natural gas from ONGC’s Krishna-Godavari basin fields."
+  ],
+  "key_disagreements": [
+    "Agent A mentions the Nita Mukesh Ambani Cultural Centre's anniversary, which is not directly addressed by Agent B."
+  ],
+  "source_citations": [
+    "[1]",
+    "[2]",
+    "[3]",
+    "[5]",
+    "[6]",
+    "[7]"
+  ],
+  "hallucination_flags": [
+    "The Nita Mukesh Ambani Cultural Centre celebrated its third anniversary with a grand event in Mumbai attended by Bollywood celebrities.",
+    "Gautam Adani has overtaken Mukesh Ambani to become Asia's richest person, with Ambani's fortune seeing a decline.",
+    "Gautam Adani has overtaken Mukesh Ambani as Asia's wealthiest individual with a net worth of $92.6 billion as of April 16.",
+    "Ambani's fortune has seen a decline.",
+    "Reliance Industries is reportedly planning to file draft IPO paperwork for Jio Platforms in May, pushing back the timeline from March due to market downturns."
+  ],
+  "nlp_validation_note": "The manual NLP analysis indicates a predominantly positive sentiment across the provided sources, aligning with the generally neutral tone of the synthesis report which focuses on factual reporting of events and financial shifts.",
+  "visual_context": "",
+  "nlp_context_used": true,
+  "chain_of_thought": [
+    {
+      "step_type": "pipeline",
+      "phase": "Phase 4",
+      "title": "Multi-Agent RAG Synthesis Started",
+      "detail": "Topic: Mukesh Ambani\nVisual context: No\nNLP context: Yes",
+      "evidence": [
+        "Topic: Mukesh Ambani",
+        "Visual context available: False",
+        "NLP context available: True"
+      ],
+      "confidence": 1.0,
+      "score": null,
+      "timestamp": "19:08:27.153",
+      "elapsed_ms": 0,
+      "agent": ""
+    },
+    {
+      "step_type": "retrieval",
+      "phase": "Phase 4",
+      "title": "ChromaDB Ready — 15 chunks",
+      "detail": "Vector store verified.\nTotal chunks: 15\nStance breakdown: {'Supportive': 3, 'Critical': 0, 'Neutral': 12}",
+      "evidence": [
+        "Total chunks: 15",
+        "Supportive: 3",
+        "Critical:   0",
+        "Neutral:    12"
+      ],
+      "confidence": 1.0,
+      "score": null,
+      "timestamp": "19:08:27.179",
+      "elapsed_ms": 26,
+      "agent": "Pipeline"
+    },
+    {
+      "step_type": "retrieval",
+      "phase": "Phase 3",
+      "title": "Semantic Search — Agent A",
+      "detail": "Query: \"benefits advantages support arguments in favour of Mukesh Ambani\"\nRetrieved 3 relevant chunks from ChromaDB vector store. Filtered by stance: Supportive.",
+      "evidence": [
+        "Retrieved 3 chunks",
+        "Stance filter: Supportive",
+        "Sources: The Times of India, BusinessLine, Rediff.com"
+      ],
+      "confidence": 0.3,
+      "score": null,
+      "timestamp": "19:08:28.449",
+      "elapsed_ms": 1269,
+      "agent": "Agent A"
+    },
+    {
+      "step_type": "argument",
+      "phase": "Phase 4",
+      "title": "Agent A — Building Prompt",
+      "detail": "Constructed prompt with:\n• 3 RAG chunks\n• Visual context: no\n• NLP context: yes",
+      "evidence": [
+        "RAG chunks: 3",
+        "Prompt length: 2440 chars"
+      ],
+      "confidence": 0.9,
+      "score": null,
+      "timestamp": "19:08:28.449",
+      "elapsed_ms": 0,
+      "agent": "Agent A"
+    },
+    {
+      "step_type": "argument",
+      "phase": "Phase 4",
+      "title": "Agent A → 3 supporting arguments (conf: 0.90)",
+      "detail": "Agent A extracted 3 supporting arguments using RAG retrieval from ChromaDB.\nNLP context provided: VADER sentiment scores and named entities helped identify strongest evidence.\nConfidence score: 0.90",
+      "evidence": [
+        "Extracted 3 arguments",
+        "Agent confidence: 0.90",
+        "NLP context (VADER+spaCy) used",
+        "• Gautam Adani has overtaken Mukesh Ambani as Asia's wealthiest individual with a ",
+        "• The Bombay High Court dismissed a petition seeking a CBI probe against Reliance "
+      ],
+      "confidence": 0.9,
+      "score": null,
+      "timestamp": "19:08:31.323",
+      "elapsed_ms": 2874,
+      "agent": "Agent A"
+    },
+    {
+      "step_type": "retrieval",
+      "phase": "Phase 3",
+      "title": "Semantic Search — Agent B",
+      "detail": "Query: \"criticism problems risks opposition concerns about Mukesh Ambani\"\nRetrieved 12 relevant chunks from ChromaDB vector store. Filtered by stance: Critical.",
+      "evidence": [
+        "Retrieved 12 chunks",
+        "Stance filter: Critical",
+        "Sources: The Times of India, BusinessLine"
+      ],
+      "confidence": 1.0,
+      "score": null,
+      "timestamp": "19:08:33.364",
+      "elapsed_ms": 2040,
+      "agent": "Agent B"
+    },
+    {
+      "step_type": "argument",
+      "phase": "Phase 4",
+      "title": "Agent B → 3 counter arguments (conf: 0.60)",
+      "detail": "Agent B extracted 3 counter arguments using RAG retrieval from ChromaDB.\nNLP context provided: VADER sentiment scores and named entities helped identify strongest evidence.\nConfidence score: 0.60",
+      "evidence": [
+        "Extracted 3 arguments",
+        "Agent confidence: 0.60",
+        "NLP context (VADER+spaCy) used",
+        "• The Bombay High Court dismissed a petition seeking a CBI probe against Reliance ",
+        "• Gautam Adani has overtaken Mukesh Ambani to become Asia's richest person, with A"
+      ],
+      "confidence": 0.6,
+      "score": null,
+      "timestamp": "19:08:35.856",
+      "elapsed_ms": 2491,
+      "agent": "Agent B"
+    },
+    {
+      "step_type": "retrieval",
+      "phase": "Phase 3",
+      "title": "Semantic Search — Agent C",
+      "detail": "Query: \"facts analysis evidence about Mukesh Ambani\"\nRetrieved 15 relevant chunks from ChromaDB vector store.",
+      "evidence": [
+        "Retrieved 15 chunks",
+        "Sources: BusinessLine, The Times of India"
+      ],
+      "confidence": 1.0,
+      "score": null,
+      "timestamp": "19:08:36.926",
+      "elapsed_ms": 1069,
+      "agent": "Agent C"
+    },
+    {
+      "step_type": "validation",
+      "phase": "Phase 4",
+      "title": "Hallucination Check — 5 flags",
+      "detail": "Checked 13 claims against 15 source chunks.\nFlagged 5 potentially ungrounded claims.\nMethod: TF-IDF cosine similarity (threshold=0.35)",
+      "evidence": [
+        "Total claims checked: 13",
+        "Source chunks used: 15",
+        "Claims flagged: 5",
+        "Claims verified: 8"
+      ],
+      "confidence": 0.75,
+      "score": null,
+      "timestamp": "19:08:36.938",
+      "elapsed_ms": 11,
+      "agent": "Agent C"
+    },
+    {
+      "step_type": "synthesis",
+      "phase": "Phase 4",
+      "title": "Gemini Synthesis Complete",
+      "detail": "Agent C called Gemini API with combined context:\nAgent A args + Agent B counters + RAG chunks + NLP validation data.\nResponse length: 2122 chars",
+      "evidence": [
+        "Prompt length: 5198 chars",
+        "Response length: 2122 chars"
+      ],
+      "confidence": 0.85,
+      "score": null,
+      "timestamp": "19:08:40.019",
+      "elapsed_ms": 3080,
+      "agent": "Agent C"
+    },
+    {
+      "step_type": "decision",
+      "phase": "Phase 4",
+      "title": "Bias Vector Computed → -0.4068 (Moderately Supportive)",
+      "detail": "Multi-dimensional bias vector computed:\nIdeological: -0.3071\nEmotional:   0.1098\nDiversity:   0.9299\nComposite:   -0.4068",
+      "evidence": [
+        "Ideological: -0.3071",
+        "Emotional:   0.1098",
+        "Info:        0.0000",
+        "Diversity:   0.9299",
+        "Composite:   -0.4068"
+      ],
+      "confidence": 0.75,
+      "score": -0.4068,
+      "timestamp": "19:08:40.027",
+      "elapsed_ms": 7,
+      "agent": "Agent C"
+    },
+    {
+      "step_type": "synthesis",
+      "phase": "Phase 4",
+      "title": "Agent C Synthesis → 177 words, 5 flags",
+      "detail": "Agent C synthesized arguments from both sides into a 177-word neutral report.\nHallucination check: 5 claims flagged as potentially ungrounded.\nNLP validation: The manual NLP analysis indicates a predominantly positive sentiment across the provided sources, aligning with the generally neutral tone of the synthesis report which focuses on factual reporting of events and financial shifts.",
+      "evidence": [
+        "Synthesis length: 177 words",
+        "Hallucination flags: 5",
+        "NLP note: The manual NLP analysis indicates a predominantly positive sentiment across the "
+      ],
+      "confidence": 0.75,
+      "score": null,
+      "timestamp": "19:08:40.027",
+      "elapsed_ms": 0,
+      "agent": "Agent C"
+    },
+    {
+      "step_type": "decision",
+      "phase": "Final",
+      "title": "Final Decision → -0.407 (Moderately Supportive)",
+      "detail": "Final composite bias score computed from:\n• Ideological bias (stance distribution)\n• Emotional bias (language analysis)\n• Source diversity (perspective coverage)\n• VADER validation (independent NLP)\nScore -0.4068 interpreted as: Moderately Supportive",
+      "evidence": [
+        "Final composite score: -0.4068",
+        "Interpretation: Moderately Supportive",
+        "Ideological: -0.3071",
+        "Emotional: 0.1098",
+        "Diversity: 0.9299",
+        "Entropy: 0.6216"
+      ],
+      "confidence": 0.9,
+      "score": -0.4068,
+      "timestamp": "19:08:40.027",
+      "elapsed_ms": 0,
+      "agent": "Agent C"
+    }
+  ],
+  "cot_summary": {
+    "topic": "Mukesh Ambani",
+    "total_steps": 13,
+    "total_elapsed": 12.88,
+    "step_breakdown": {
+      "pipeline": 1,
+      "retrieval": 4,
+      "argument": 3,
+      "validation": 1,
+      "decision": 2,
+      "synthesis": 2
+    },
+    "phases": [
+      "Phase 4",
+      "Phase 3",
+      "Final"
+    ]
+  },
+  "agent_a": {
+    "arguments": [
+      "Gautam Adani has overtaken Mukesh Ambani as Asia's wealthiest individual with a net worth of $92.6 billion as of April 16.",
+      "The Bombay High Court dismissed a petition seeking a CBI probe against Reliance Industries Limited and its chairman and managing director Mukesh Ambani for alleged unlawful extraction of natural gas from ONGC’s Krishna-Godavari basin fields.",
+      "The Nita Mukesh Ambani Cultural Centre celebrated its third anniversary with a grand event in Mumbai attended by Bollywood celebrities."
+    ],
+    "evidence": [
+      "Gautam Adani has officially claimed the title of Asia's wealthiest individual, overtaking Mukesh Ambani with a net worth of $92.6 billion as of April 16.",
+      "The Bombay High Court on Friday dismissed a petition seeking a CBI probe against Reliance Industries Limited and its chairman and managing director Mukesh Ambani for alleged unlawful extraction of natural gas from ONGC’s Krishna-Godavari basin fields.",
+      "The Nita Mukesh Ambani Cultural Centre marked its third anniversary with a grand celebration in Mumbai, drawing a host of Bollywood luminaries."
+    ],
+    "key_sources": [
+      "The Times of India",
+      "BusinessLine",
+      "Rediff.com"
+    ],
+    "confidence_score": 0.9,
+    "nlp_validated_arguments": [
+      "Gautam Adani has overtaken Mukesh Ambani as Asia's wealthiest individual with a net worth of $92.6 billion as of April 16.",
+      "The Bombay High Court dismissed a petition seeking a CBI probe against Reliance Industries Limited and its chairman and managing director Mukesh Ambani for alleged unlawful extraction of natural gas from ONGC’s Krishna-Godavari basin fields.",
+      "The Nita Mukesh Ambani Cultural Centre celebrated its third anniversary with a grand event in Mumbai attended by Bollywood celebrities."
+    ],
+    "top_entities_referenced": [
+      "Mukesh Ambani",
+      "Gautam Adani",
+      "Reliance Industries Limited",
+      "Nita Mukesh Ambani Cultural Centre",
+      "ONGC"
+    ],
+    "argument_traces": [
+      {
+        "argument": "Gautam Adani has overtaken Mukesh Ambani as Asia's wealthiest individual with a net worth of $92.6 billion as of April 16.",
+        "evidence": "Gautam Adani has officially claimed the title of Asia's wealthiest individual, overtaking Mukesh Ambani with a net worth of $92.6 billion as of April 16.",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/adani-bags-top-spot-in-richest-asians-club/articleshow/130345547.cms"
+      },
+      {
+        "argument": "The Bombay High Court dismissed a petition seeking a CBI probe against Reliance Industries Limited and its chairman and managing director Mukesh Ambani for alleged unlawful extraction of natural gas from ONGC’s Krishna-Godavari basin fields.",
+        "evidence": "The Bombay High Court on Friday dismissed a petition seeking a CBI probe against Reliance Industries Limited and its chairman and managing director Mukesh Ambani for alleged unlawful extraction of natural gas from ONGC’s Krishna-Godavari basin fields.",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/hc-junks-plea-seeking-cbi-probe-against-mukesh-ambani-ril-over-illegal-gas-extraction/article70791788.ece"
+      },
+      {
+        "argument": "The Nita Mukesh Ambani Cultural Centre celebrated its third anniversary with a grand event in Mumbai attended by Bollywood celebrities.",
+        "evidence": "The Nita Mukesh Ambani Cultural Centre marked its third anniversary with a grand celebration in Mumbai, drawing a host of Bollywood luminaries.",
+        "source": "Rediff.com",
+        "url": "https://www.rediff.com/movies/report/kiara-advani-sidharth-malhotra-at-nmaccs-3rd-anniversary/20260404.htm"
+      }
+    ],
+    "visual_context_used": false,
+    "nlp_context_used": true
+  },
+  "agent_b": {
+    "counter_arguments": [
+      "The Bombay High Court dismissed a petition seeking a CBI probe against Reliance Industries Limited and its chairman and managing director Mukesh Ambani for alleged unlawful extraction of natural gas from ONGC’s Krishna-Godavari basin fields.",
+      "Gautam Adani has overtaken Mukesh Ambani to become Asia's richest person, with Ambani's fortune seeing a decline.",
+      "Reliance Industries is reportedly planning to file draft IPO paperwork for Jio Platforms in May, pushing back the timeline from March due to market downturns."
+    ],
+    "evidence": [
+      "The Bombay High Court on Friday dismissed a petition seeking a CBI probe against Reliance Industries Limited and its chairman and managing director Mukesh Ambani for alleged unlawful extraction of natural gas from ONGC’s Krishna-Godavari basin fields.",
+      "Gautam Adani has officially claimed the title of Asia's wealthiest individual, overtaking Mukesh Ambani with a net worth of $92.6 billion as of April 16.",
+      "Ambani's fortune has seen a decline.",
+      "Reliance Industries is reportedly planning to file draft IPO paperwork for Jio Platforms in May, incorporating full fiscal year earnings. This revised timeline, pushed back from March due to market downturns, aims to present a more favorable investor picture."
+    ],
+    "key_sources": [
+      "BusinessLine",
+      "The Times of India"
+    ],
+    "confidence_score": 0.6,
+    "nlp_validated_counter_arguments": [
+      "Gautam Adani has overtaken Mukesh Ambani to become Asia's richest person, with Ambani's fortune seeing a decline."
+    ],
+    "top_critical_entities": [
+      "Mukesh Ambani",
+      "Reliance Industries Limited",
+      "Gautam Adani",
+      "Jio Platforms",
+      "ONGC"
+    ],
+    "visual_context_used": false,
+    "nlp_context_used": true
+  },
+  "agent_c": {
+    "synthesis_report": "Mukesh Ambani, the chairman and managing director of Reliance Industries Limited, has recently been in the news regarding his financial standing and legal matters. Gautam Adani has surpassed Ambani to become Asia's wealthiest individual, with a net worth reported at $92.6 billion as of April 16th. This shift in wealth ranking is attributed to the significant surge in Adani Group's stock prices, while Ambani's fortune has seen a decline, though Reliance Industries shares experienced a marginal increase on a particular trading day.  In a legal development, the Bombay High Court dismissed a petition that sought a Central Bureau of Investigation (CBI) probe against Reliance Industries and Ambani concerning allegations of unlawful natural gas extraction from ONGC's fields in the Krishna-Godavari basin.  Furthermore, Reliance Industries is reportedly considering filing draft IPO paperwork for Jio Platforms in May, a move that was postponed from March due to prevailing market downturns, with the aim of presenting a more favorable financial picture to investors. The Nita Mukesh Ambani Cultural Centre also marked its third anniversary with a notable event in Mumbai.",
+    "bias_score": -0.4068,
+    "loaded_language_removed": [],
+    "key_agreements": [
+      "Gautam Adani has overtaken Mukesh Ambani as Asia's wealthiest individual.",
+      "The Bombay High Court dismissed a petition seeking a CBI probe against Reliance Industries Limited and Mukesh Ambani for alleged unlawful extraction of natural gas from ONGC’s Krishna-Godavari basin fields."
+    ],
+    "key_disagreements": [
+      "Agent A mentions the Nita Mukesh Ambani Cultural Centre's anniversary, which is not directly addressed by Agent B."
+    ],
+    "source_citations": [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[5]",
+      "[6]",
+      "[7]"
+    ],
+    "hallucination_flags": [
+      "The Nita Mukesh Ambani Cultural Centre celebrated its third anniversary with a grand event in Mumbai attended by Bollywood celebrities.",
+      "Gautam Adani has overtaken Mukesh Ambani to become Asia's richest person, with Ambani's fortune seeing a decline.",
+      "Gautam Adani has overtaken Mukesh Ambani as Asia's wealthiest individual with a net worth of $92.6 billion as of April 16.",
+      "Ambani's fortune has seen a decline.",
+      "Reliance Industries is reportedly planning to file draft IPO paperwork for Jio Platforms in May, pushing back the timeline from March due to market downturns."
+    ],
+    "nlp_validation_note": "The manual NLP analysis indicates a predominantly positive sentiment across the provided sources, aligning with the generally neutral tone of the synthesis report which focuses on factual reporting of events and financial shifts.",
+    "bias_vector": {
+      "ideological_bias": -0.3071,
+      "emotional_bias": 0.1098,
+      "informational_bias": 0.0,
+      "source_diversity": 0.9299,
+      "stance_entropy": 0.6216,
+      "composite_score": -0.4068,
+      "confidence": 0.75,
+      "interpretation": "Moderately Supportive",
+      "dimension_labels": {
+        "ideological": "Moderately Supportive",
+        "emotional": "Low Emotional Bias",
+        "informational": "Mostly Factual",
+        "diversity": "High Source Diversity"
+      }
+    },
+    "visual_context_used": false,
+    "nlp_context_used": true
+  }
+}

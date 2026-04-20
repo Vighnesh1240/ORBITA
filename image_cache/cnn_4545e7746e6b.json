@@ -1,0 +1,24 @@
+{
+  "image_url": "https://www.pymnts.com/wp-content/uploads/2026/04/Blockchain-risks-1.jpg?w=768",
+  "visual_bias_score": -0.2951,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3903,
+  "description": "IMF Warns Crypto Risks Could Trigger Fin \u2014 dark/low-light image, CNN: positive sentiment",
+  "cnn_class": "positive",
+  "cnn_probabilities": [
+    0.3903,
+    0.2871,
+    0.3226
+  ],
+  "cnn_confidence": 0.3903,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.1182,
+  "brightness": 42.6,
+  "is_dark": true,
+  "contrast": 0.3217,
+  "edge_density": 0.111,
+  "aspect_ratio": 1.67,
+  "image_size": "768x460",
+  "error": null
+}

@@ -1,0 +1,17 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "eagle",
+    "text"
+  ],
+  "narrative_suggested": "The image suggests a formal or official context related to finance or government.",
+  "image_text_consistent": false,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.9,
+  "description": "The image is a close-up of a seal featuring an eagle and text that reads 'FEDERAL RESERVE BANK OF NEW YORK'.",
+  "image_url": "https://www.newyorkfed.org/medialibrary/media/v4/images/Fed-seal.png",
+  "error": null
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/04/emergent-ventures-india-16th-cohort.html",
+    "title": "Emergent Ventures India, 16th cohort",
+    "source": "Marginalrevolution.com",
+    "stance": "Supportive",
+    "word_count": 677,
+    "fact_density": 0.34375
+  },
+  {
+    "url": "https://wordpress.org/news/2026/04/wcasia-2026-sessions/",
+    "title": "From AI to Open Source at WordCamp Asia 2026",
+    "source": "Wordpress.org",
+    "stance": "Supportive",
+    "word_count": 692,
+    "fact_density": 0.16129032258064516
+  },
+  {
+    "url": "https://www.androidauthority.com/samsung-one-ui-8-5-beta-expansion-2-3656950/",
+    "title": "Samsung One UI 8.5 beta now arriving for these older Galaxy phones",
+    "source": "Android Authority",
+    "stance": "Supportive",
+    "word_count": 635,
+    "fact_density": 0.675
+  },
+  {
+    "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsungs-ai-call-screening-may-hit-the-galaxy-s25-but-theres-more-you-should-know",
+    "title": "Samsung's Call Screening may hit the Galaxy S25, but there's more you should know",
+    "source": "Android Central",
+    "stance": "Neutral",
+    "word_count": 538,
+    "fact_density": 0.5666666666666667
+  },
+  {
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/india-talent-adoption-stanford-ai-index-2026-key-findings-10636268/",
+    "title": "India has 50K-strong AI talent pool but leads world in net outflows: Stanford University report",
+    "source": "The Indian Express",
+    "stance": "Neutral",
+    "word_count": 885,
+    "fact_density": 0.72
+  },
+  {
+    "url": "https://www.searchenginejournal.com/seo-pulse-core-update-done-gsc-bug-fixed-mueller-on-gurus/571626/",
+    "title": "Core Update Done, GSC Bug Fixed, Mueller On Gurus – SEO Pulse via @sejournal, @MattGSouthern",
+    "source": "Search Engine Journal",
+    "stance": "Neutral",
+    "word_count": 1314,
+    "fact_density": 0.1791044776119403
+  },
+  {
+    "url": "https://colossus.com/article/project-mario-demis-hassabis-deepmind-mallaby/",
+    "title": "Project Mario: the inside story of DeepMind",
+    "source": "Colossus.com",
+    "stance": "Supportive",
+    "word_count": 8957,
+    "fact_density": 0.10163339382940109
+  },
+  {
+    "url": "https://www.naturalnews.com/2026-04-16-experts-warn-layoffs-power-struggles-ai-advancements.html",
+    "title": "Experts Warn of Widespread Job Losses and Global Power Struggles Amid AI Advancements",
+    "source": "Naturalnews.com",
+    "stance": "Neutral",
+    "word_count": 857,
+    "fact_density": 0.4772727272727273
+  },
+  {
+    "url": "https://www.medianama.com/2026/04/223-reading-list-it-rules-future-online-speech-in-india-april-23/",
+    "title": "Reading List: IT Rules and the future of online speech in India, April 23, Delhi #NAMA",
+    "source": "MediaNama.com",
+    "stance": "Supportive",
+    "word_count": 1315,
+    "fact_density": 0.36
+  }
+]

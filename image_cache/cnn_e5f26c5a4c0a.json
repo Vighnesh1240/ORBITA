@@ -1,0 +1,24 @@
+{
+  "image_url": "https://regmedia.co.uk/2018/04/06/shutterstock_drone_army.jpg",
+  "visual_bias_score": -0.0397,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3449,
+  "description": "The drone swarm is coming, and NATO air  \u2014 dark/low-light image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.3305,
+    0.3449,
+    0.3245
+  ],
+  "cnn_confidence": 0.3449,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.1133,
+  "brightness": 58.5,
+  "is_dark": true,
+  "contrast": 0.2592,
+  "edge_density": 0.1046,
+  "aspect_ratio": 1.776,
+  "image_size": "799x450",
+  "error": null
+}

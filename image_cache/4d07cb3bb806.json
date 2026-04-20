@@ -1,0 +1,17 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "hands typing on a laptop",
+    "computer screen with Chat GPT interface"
+  ],
+  "narrative_suggested": "The image depicts someone interacting with a Chat GPT interface on a laptop, suggesting a focus on technology and AI.",
+  "image_text_consistent": false,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.9,
+  "description": "A close-up shot of hands typing on a laptop keyboard, with a transparent overlay of a Chat GPT interface showing a user icon and text input field.",
+  "image_url": "https://cdn.mos.cms.futurecdn.net/jXz3eDDYfNvUM7GViGYyDf.jpg",
+  "error": null
+}

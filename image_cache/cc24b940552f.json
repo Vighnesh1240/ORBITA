@@ -1,0 +1,14 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [],
+  "narrative_suggested": "The image suggests a loading or processing state, indicating that content is being prepared or is about to be displayed.",
+  "image_text_consistent": false,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 1.0,
+  "description": "A black background with a circular loading animation composed of white and gray dashes radiating outwards from the center.",
+  "image_url": "https://order-order.com/wp-content/plugins/cf7-submissions/assets/img/loader.gif",
+  "error": null
+}

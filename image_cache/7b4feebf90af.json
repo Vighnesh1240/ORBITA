@@ -1,0 +1,17 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "Donald Trump",
+    "Tim Cook"
+  ],
+  "narrative_suggested": "Two prominent figures, one a politician and the other a tech CEO, are shown in a formal setting, possibly discussing business or policy.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.8,
+  "description": "Donald Trump stands at a podium with the Presidential Seal, speaking into a microphone. To his right, Tim Cook stands next to a display board with Apple branding and text about jobs and investments. The setting appears to be the White House.",
+  "image_url": "https://regmedia.co.uk/2025/08/06/trump-cook-press-conference.jpg",
+  "error": null
+}

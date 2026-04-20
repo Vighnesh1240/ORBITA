@@ -1,0 +1,18 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "chart",
+    "data visualization",
+    "text"
+  ],
+  "narrative_suggested": "The image presents a comparative analysis of different AI dimensions, showing their performance scores.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.9,
+  "description": "The image is a bar chart displaying scores for various AI dimensions such as Coding, Content Writing, Image Creation, Factual Accuracy, Agentic AI, Reasoning, Multimodal, Speed, User Base, and Safety & Trust. Each dimension has a visual representation of its score out of 10, along with the numerical score displayed.",
+  "image_url": "https://www.jeffbullas.com/wp-content/uploads/2026/03/image-69-700x278.png",
+  "error": null
+}

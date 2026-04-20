@@ -1,0 +1,24 @@
+{
+  "image_url": "https://i.insider.com/69c3018b5b58f1f0f9336d04?width=850&format=jpeg&auto=webp",
+  "visual_bias_score": -0.0364,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3434,
+  "description": "Russia loaded its cheap 'Molniya' strike \u2014 moderate-light image, high contrast, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.3318,
+    0.3434,
+    0.3248
+  ],
+  "cnn_confidence": 0.3434,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.1039,
+  "brightness": 110.1,
+  "is_dark": false,
+  "contrast": 0.6592,
+  "edge_density": 0.1626,
+  "aspect_ratio": 1.778,
+  "image_size": "850x478",
+  "error": null
+}

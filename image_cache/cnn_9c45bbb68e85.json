@@ -1,0 +1,24 @@
+{
+  "image_url": "https://www.newyorkfed.org/medialibrary/media/images/v4/about_the_fed/the-teller-window-mm-b-280x176.png",
+  "visual_bias_score": -0.0029,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3414,
+  "description": "China\u2019s Electric Trade \u2014 bright image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.3191,
+    0.3414,
+    0.3395
+  ],
+  "cnn_confidence": 0.3414,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.0083,
+  "brightness": 193.1,
+  "is_dark": false,
+  "contrast": 0.4017,
+  "edge_density": 0.1129,
+  "aspect_ratio": 1.591,
+  "image_size": "280x176",
+  "error": null
+}

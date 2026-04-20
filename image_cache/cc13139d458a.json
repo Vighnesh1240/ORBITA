@@ -1,0 +1,14 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [],
+  "narrative_suggested": "Analysis unavailable",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.0,
+  "description": "Gemini Vision API unavailable",
+  "image_url": "https://photos.brighteon.com/file/brighteon-thumbnails/thumbnail/e687b309-24e3-433c-8e72-c15750f59930",
+  "error": "API unavailable"
+}

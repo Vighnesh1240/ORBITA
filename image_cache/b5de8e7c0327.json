@@ -1,0 +1,19 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "soldiers",
+    "bus"
+  ],
+  "narrative_suggested": "The image shows soldiers boarding a bus, suggesting a routine operation or deployment.",
+  "image_text_consistent": false,
+  "loaded_visual_elements": [
+    "UPSC Key logo"
+  ],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.8,
+  "description": "The image depicts several soldiers in camouflage uniforms boarding a bus. One soldier is in the foreground, stepping onto the bus, while others are visible behind him. A logo for 'UPSC Key' is superimposed on the right side of the image.",
+  "image_url": "https://images.indianexpress.com/2026/03/UPSC-Key-26th-March-2026.jpg",
+  "error": null
+}

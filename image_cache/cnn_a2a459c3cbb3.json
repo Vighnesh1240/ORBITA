@@ -1,0 +1,24 @@
+{
+  "image_url": "https://i.insider.com/6964ba6004eda4732f2ee041?width=700",
+  "visual_bias_score": 0.2042,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3456,
+  "description": "I quit my job at KPMG and moved to India \u2014 dark/low-light image, CNN: negative sentiment",
+  "cnn_class": "negative",
+  "cnn_probabilities": [
+    0.3196,
+    0.3348,
+    0.3456
+  ],
+  "cnn_confidence": 0.3456,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.0585,
+  "brightness": 66.9,
+  "is_dark": true,
+  "contrast": 0.3406,
+  "edge_density": 0.0748,
+  "aspect_ratio": 1.333,
+  "image_size": "700x525",
+  "error": null
+}

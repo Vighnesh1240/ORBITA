@@ -1,0 +1,24 @@
+{
+  "image_url": "https://libertystreeteconomics.newyorkfed.org/wp-content/uploads/sites/2/2026/02/LSE_China-electric_klitgaard-_460.jpg",
+  "visual_bias_score": 0.0658,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3592,
+  "description": "China\u2019s Electric Trade \u2014 moderate-light image, CNN: negative sentiment",
+  "cnn_class": "negative",
+  "cnn_probabilities": [
+    0.2851,
+    0.3557,
+    0.3592
+  ],
+  "cnn_confidence": 0.3592,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.4792,
+  "brightness": 85.5,
+  "is_dark": false,
+  "contrast": 0.3272,
+  "edge_density": 0.051,
+  "aspect_ratio": 1.597,
+  "image_size": "920x576",
+  "error": null
+}

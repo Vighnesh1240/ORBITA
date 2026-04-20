@@ -1,0 +1,24 @@
+{
+  "image_url": "https://colossus.com/wp-content/uploads/2026/03/Mallaby-preview-card_SMALL.jpg",
+  "visual_bias_score": -0.0509,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3584,
+  "description": "Project Mario: the inside story of DeepM \u2014 moderate-light image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.3024,
+    0.3584,
+    0.3392
+  ],
+  "cnn_confidence": 0.3584,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.1453,
+  "brightness": 108.7,
+  "is_dark": false,
+  "contrast": 0.5976,
+  "edge_density": 0.1861,
+  "aspect_ratio": 1.903,
+  "image_size": "900x473",
+  "error": null
+}

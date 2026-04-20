@@ -1,0 +1,24 @@
+{
+  "image_url": "https://bl-i.thgim.com/public/incoming/3rebra/article70865486.ece/alternates/LANDSCAPE_1200/BL1104_Auto_ANCHOR%202.jpg",
+  "visual_bias_score": 0.3411,
+  "visual_framing": "critical",
+  "emotional_tone": "negative",
+  "confidence": 0.3634,
+  "description": "Any subsidy from government will help ea \u2014 moderate-light image, high contrast, CNN: negative sentiment",
+  "cnn_class": "negative",
+  "cnn_probabilities": [
+    0.3375,
+    0.2991,
+    0.3634
+  ],
+  "cnn_confidence": 0.3634,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.2997,
+  "brightness": 154.8,
+  "is_dark": false,
+  "contrast": 0.6001,
+  "edge_density": 0.0746,
+  "aspect_ratio": 1.778,
+  "image_size": "1200x675",
+  "error": null
+}

@@ -1,0 +1,24 @@
+{
+  "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/c344e96535fc5b6afbd13a1245861a08a36bc293-2459x1383.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+  "visual_bias_score": 0.0599,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3532,
+  "description": "DeFi yields are crashing so hard that th \u2014 moderate-light image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.3232,
+    0.3532,
+    0.3236
+  ],
+  "cnn_confidence": 0.3532,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.1712,
+  "brightness": 123.6,
+  "is_dark": false,
+  "contrast": 0.547,
+  "edge_density": 0.137,
+  "aspect_ratio": 1.778,
+  "image_size": "960x540",
+  "error": null
+}

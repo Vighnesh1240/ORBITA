@@ -1,0 +1,17 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "RBI logo",
+    "gate"
+  ],
+  "narrative_suggested": "The image suggests a formal and established institution, the Reserve Bank of India, is involved in official business.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.9,
+  "description": "A close-up shot of the Reserve Bank of India (RBI) logo, which features a tiger and palm trees, mounted on a metal gate. The gate appears to be part of a building's entrance.",
+  "image_url": "https://www.medianama.com/wp-content/uploads/2022/07/RBI-India-recurring-payments-1000x600-1-300x180.jpeg",
+  "error": null
+}

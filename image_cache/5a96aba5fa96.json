@@ -1,0 +1,18 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "website screenshot",
+    "FinCEN logo",
+    "browser window"
+  ],
+  "narrative_suggested": "The image shows a screenshot of the FinCEN website, suggesting a focus on financial regulation or enforcement.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.9,
+  "description": "A screenshot of a web browser displaying the FinCEN (Financial Crimes Enforcement Network) website. The FinCEN logo and the website's navigation bar are visible.",
+  "image_url": "https://www.pymnts.com/wp-content/uploads/2025/06/FinCEN-1.jpg?w=258",
+  "error": null
+}

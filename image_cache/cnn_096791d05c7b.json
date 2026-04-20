@@ -1,0 +1,24 @@
+{
+  "image_url": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/03/charlesrotter_pikes_peak_37cmidjourney.webp?fit=1024%2C512&quality=75&ssl=1",
+  "visual_bias_score": 0.2446,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3553,
+  "description": "Weekly Climate and Energy News Roundup # \u2014 moderate-light image, CNN: negative sentiment",
+  "cnn_class": "negative",
+  "cnn_probabilities": [
+    0.3513,
+    0.2935,
+    0.3553
+  ],
+  "cnn_confidence": 0.3553,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.0391,
+  "brightness": 80.8,
+  "is_dark": false,
+  "contrast": 0.3457,
+  "edge_density": 0.0653,
+  "aspect_ratio": 2.0,
+  "image_size": "1024x512",
+  "error": null
+}

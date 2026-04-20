@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.theverge.com/tech/912286/our-new-favorite-budget-phones",
+    "title": "Our new favorite budget phones",
+    "source": "The Verge",
+    "stance": "Supportive",
+    "word_count": 65,
+    "fact_density": 0.3333333333333333
+  },
+  {
+    "url": "https://www.wired.com/story/book-excerpt-mutiny-noam-scheiber-apple-vision-pro/",
+    "title": "How the Vision Pro Rollout Inflamed Tensions at Apple",
+    "source": "Wired",
+    "stance": "Supportive",
+    "word_count": 3230,
+    "fact_density": 0.17419354838709677
+  },
+  {
+    "url": "https://www.theverge.com/tech/899330/nuki-keypad-2-nfc-aliro-apple-homekey-launch",
+    "title": "Nuki adds Apple Home Key to its smart lock",
+    "source": "The Verge",
+    "stance": "Supportive",
+    "word_count": 79,
+    "fact_density": 0.3333333333333333
+  },
+  {
+    "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-quick-share-airdrop-support-hands-on",
+    "title": "This Samsung Galaxy S26 update makes it ultra-easy to share files with an iPhone",
+    "source": "Android Central",
+    "stance": "Neutral",
+    "word_count": 899,
+    "fact_density": 0.4264705882352941
+  },
+  {
+    "url": "https://www.theverge.com/tech/899053/apple-maps-advertising-rumor",
+    "title": "Apple could put ads in Maps as soon as this summer",
+    "source": "The Verge",
+    "stance": "Neutral",
+    "word_count": 205,
+    "fact_density": 0.25
+  },
+  {
+    "url": "https://www.cnet.com/tech/mobile/iphone-18-pro-dark-cherry-rumor/",
+    "title": "One Rumored Color for the iPhone 18 Pro? A Rich Dark Cherry Red",
+    "source": "CNET",
+    "stance": "Supportive",
+    "word_count": 400,
+    "fact_density": 0.47619047619047616
+  },
+  {
+    "url": "https://www.cnet.com/tech/mobile/could-your-next-phone-be-a-foldable-new-tech-and-a-possible-apple-model-makes-it-more-likely/",
+    "title": "Could Your Next Phone Be a Foldable? New Tech and a Possible Apple Model Makes It More Likely",
+    "source": "CNET",
+    "stance": "Supportive",
+    "word_count": 1893,
+    "fact_density": 0.43564356435643564
+  },
+  {
+    "url": "https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products",
+    "title": "Rank the 50 best Apple products",
+    "source": "The Verge",
+    "stance": "Supportive",
+    "word_count": 178,
+    "fact_density": 0.2222222222222222
+  },
+  {
+    "url": "https://www.theverge.com/tech/897520/apple-without-steve-jobs-90s",
+    "title": "Between Jobs",
+    "source": "The Verge",
+    "stance": "Supportive",
+    "word_count": 1924,
+    "fact_density": 0.3048780487804878
+  }
+]

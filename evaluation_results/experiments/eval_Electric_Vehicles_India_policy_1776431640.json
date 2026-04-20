@@ -1,0 +1,106 @@
+{
+  "topic": "Electric Vehicles India policy",
+  "timestamp": "2026-04-17T18:44:00",
+  "bias_accuracy": {
+    "predicted_bias": -0.452,
+    "expected_bias": 0.0,
+    "ground_truth_type": "source_level",
+    "mae": 0.452,
+    "directional_correct": false,
+    "sources_matched": 3,
+    "sources_total": 7,
+    "source_coverage": 0.4286,
+    "matched_sources": [
+      {
+        "source": "BusinessLine",
+        "bias": 0.1
+      },
+      {
+        "source": "BusinessLine",
+        "bias": 0.1
+      },
+      {
+        "source": "Al Jazeera English",
+        "bias": -0.2
+      }
+    ],
+    "topic_ground_truth": {
+      "expected_score": -0.15,
+      "expected_direction": "balanced",
+      "confidence": "medium",
+      "domain": "indian_technology",
+      "notes": "Mixed coverage — positive on growth/environment, critical on infrastructure gaps and subsidies.",
+      "matched_key": "electric vehicles india",
+      "match_type": "partial",
+      "match_overlap": 3
+    }
+  },
+  "synthesis_quality": {
+    "word_count": 231,
+    "sentence_count": 11,
+    "covers_both_sides": true,
+    "hallucination_rate": 1.9167,
+    "hallucination_count": 23,
+    "rouge_scores": {
+      "rouge_1": {
+        "precision": 0.1688,
+        "recall": 0.3714,
+        "f1": 0.2321
+      },
+      "rouge_2": {
+        "precision": 0.0174,
+        "recall": 0.0385,
+        "f1": 0.024
+      },
+      "rouge_l": {
+        "precision": 0.0823,
+        "recall": 0.181,
+        "f1": 0.1131
+      }
+    },
+    "synthesis_preview": "The Indian electric vehicle (EV) market is experiencing a dual influence of external economic factors and domestic policy. Agent A highlights that geo..."
+  },
+  "coverage_diversity": {
+    "n_articles": 7,
+    "stance_counts": {
+      "Supportive": 3,
+      "Critical": 0,
+      "Neutral": 4
+    },
+    "stance_entropy": 0.6216,
+    "unique_sources": 6,
+    "source_diversity": 0.9375,
+    "full_stance_coverage": false,
+    "total_chunks": 17
+  },
+  "argument_quality": {
+    "n_supporting_args": 8,
+    "n_counter_args": 4,
+    "total_arguments": 12,
+    "argument_balance": 0.6667,
+    "agent_a_confidence": 0.994,
+    "agent_b_confidence": 0.75,
+    "mean_confidence": 0.872,
+    "loaded_lang_removed": 0,
+    "hallucination_flags": 23,
+    "key_agreements": 2,
+    "key_disagreements": 1
+  },
+  "performance": {
+    "elapsed_seconds": 60.54,
+    "n_articles": 7,
+    "total_chunks": 17,
+    "throughput_articles_per_sec": 0.116
+  },
+  "overall_score": {
+    "score": 0.4889,
+    "grade": "D (Needs Improvement)",
+    "components": {
+      "bias_accuracy": 0.548,
+      "synthesis_quality": 0.0702,
+      "coverage_diversity": 0.748,
+      "argument_quality": 0.7693
+    },
+    "notes": "Directional error — got wrong side of bias; High hallucination rate (192%)"
+  }
+}

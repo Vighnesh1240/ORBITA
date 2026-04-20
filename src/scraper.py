@@ -1,4 +1,5 @@
 # src/scraper.py
+# MODIFY the existing _scrape_single function to also extract images
 
 import time
 from newspaper import Article
@@ -9,10 +10,15 @@ except ImportError:
     from config import SCRAPE_TIMEOUT, MIN_ARTICLE_CHARS
 
 
-def _scrape_single(url: str) -> str | None:
+def _scrape_single(url: str) -> dict:
     """
     Download and parse a single article URL using newspaper4k.
-    Returns full text string, or None if scraping fails.
+
+    MODIFIED: Now returns a dict with both text AND image URLs,
+    instead of just returning the text string.
+
+    Returns:
+        dict with 'text', 'images', 'top_image', or None if failed
     """
     try:
         article = Article(url, request_timeout=SCRAPE_TIMEOUT)
@@ -22,27 +28,39 @@ def _scrape_single(url: str) -> str | None:
         text = article.text.strip()
 
         if len(text) < MIN_ARTICLE_CHARS:
-            return None  # Too short — likely a paywall or JS-rendered page
+            return None
 
-        return text
+        # Extract image URLs from newspaper4k
+        images = []
+        try:
+            if hasattr(article, "images") and article.images:
+                images = list(article.images)
+        except Exception:
+            images = []
+
+        top_image = ""
+        try:
+            if hasattr(article, "top_image") and article.top_image:
+                top_image = article.top_image
+        except Exception:
+            top_image = ""
+
+        return {
+            "text":      text,
+            "images":    images,
+            "top_image": top_image,
+        }
 
     except Exception:
-        # newspaper4k raises many different exceptions for failed pages
-        # (paywalls, 403s, JS-only pages, timeouts) — catch all silently
         return None
 
 
 def scrape_articles(articles: list[dict]) -> list[dict]:
     """
-    Main function. Attempts to scrape full text for each article.
-    Articles that fail scraping are removed from the list.
+    Main function. Attempts to scrape full text AND images.
 
-    Args:
-        articles: list of article dicts (must have 'url' field)
-
-    Returns:
-        list of articles that were successfully scraped,
-        each with 'full_text' field populated
+    MODIFIED: Now also populates 'image_urls' and 'top_image'
+    fields on each article dict.
     """
     print(f"\n[scraper] Scraping full text for {len(articles)} articles...")
 
@@ -55,20 +73,25 @@ def scrape_articles(articles: list[dict]) -> list[dict]:
 
         print(f"  [{i+1}/{len(articles)}] {title}...")
 
-        full_text = _scrape_single(url)
+        scraped = _scrape_single(url)
 
-        if full_text:
-            article["full_text"] = full_text
+        if scraped:
+            article["full_text"]  = scraped["text"]
+            article["image_urls"] = scraped["images"]    # NEW
+            article["top_image"]  = scraped["top_image"] # NEW
+
             successful.append(article)
-            word_count = len(full_text.split())
-            print(f"    OK — {word_count} words scraped")
+            word_count  = len(scraped["text"].split())
+            image_count = len(scraped["images"])
+            print(f"    OK — {word_count} words, "
+                  f"{image_count} images found")
         else:
             failed += 1
             print(f"    SKIPPED — paywall, JS page, or too short")
 
-        # Small delay between requests — be polite to servers
         if i < len(articles) - 1:
             time.sleep(0.3)
 
-    print(f"\n[scraper] Done. {len(successful)} scraped, {failed} failed/skipped.")
+    print(f"\n[scraper] Done. {len(successful)} scraped, "
+          f"{failed} failed/skipped.")
     return successful

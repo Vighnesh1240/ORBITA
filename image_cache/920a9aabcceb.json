@@ -1,0 +1,16 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "abstract shape"
+  ],
+  "narrative_suggested": "The image is an abstract graphic that does not suggest a narrative on its own.",
+  "image_text_consistent": false,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.9,
+  "description": "An abstract image with a large orange circle in the center, partially outlined by a blue and white arc. A dark shadow is cast on the lower right side of the circle, with a teal shape beneath it.",
+  "image_url": "https://substackcdn.com/image/fetch/$s_!ia-O!,w_32,h_32,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fecfd6a97-3158-4595-8e1f-7fb4de0d1132_144x144.png",
+  "error": null
+}

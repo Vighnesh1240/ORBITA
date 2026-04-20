@@ -1,0 +1,20 @@
+{
+  "emotional_tone": "positive",
+  "visual_framing": "hero",
+  "subjects_detected": [
+    "Narendra Modi",
+    "expressway"
+  ],
+  "narrative_suggested": "The image suggests a narrative of progress and development, highlighting a new infrastructure project and featuring a prominent political leader.",
+  "image_text_consistent": false,
+  "loaded_visual_elements": [
+    "Narendra Modi pointing upwards, a gesture often associated with leadership and vision",
+    "The expressway is brightly lit and appears modern and well-maintained, suggesting efficiency and advancement"
+  ],
+  "visual_bias_score": -0.7,
+  "visual_bias_direction": "supportive",
+  "confidence": 0.9,
+  "description": "The image shows a brightly lit, multi-lane expressway at night, with cars visible on the road. In the foreground, a man resembling Narendra Modi is pointing upwards. Text overlays indicate 'DELHI-DEHRADUN 6-LANE EXPRESSWAY OPENS'.",
+  "image_url": "https://economictimes.indiatimes.com/thumb/width-152,height-114,resizemode-75,imgsize-111120,msid-130256152/delhi-to-dehradun-in-2-5-hours.jpg",
+  "error": null
+}

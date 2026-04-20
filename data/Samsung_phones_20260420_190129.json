@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://www.wired.com/review/lg-sound-suite-2026/",
+    "title": "LG Sound Suite Review: Big Sound for Larger Rooms",
+    "source": "Wired",
+    "stance": "Supportive",
+    "word_count": 868,
+    "fact_density": 0.3333333333333333
+  },
+  {
+    "url": "https://www.androidcentral.com/accessories/earbuds/i-found-the-best-samsung-galaxy-buds-4-features-you-probably-arent-using",
+    "title": "I found the 5 best Samsung Galaxy Buds 4 features you probably aren't using",
+    "source": "Android Central",
+    "stance": "Supportive",
+    "word_count": 918,
+    "fact_density": 0.4375
+  },
+  {
+    "url": "https://www.androidcentral.com/phones/samsung-galaxy/reddit-users-grill-samsung-exec-on-overwhelming-galaxy-ai-and-compact-phones",
+    "title": "Reddit users grill Samsung exec on overwhelming Galaxy AI and compact phones",
+    "source": "Android Central",
+    "stance": "Supportive",
+    "word_count": 648,
+    "fact_density": 0.2
+  },
+  {
+    "url": "https://www.androidcentral.com/phones/samsung-galaxy/this-ones-for-you-galaxy-s24-samsung-drops-its-one-ui-8-5-beta-older-phones",
+    "title": "This one's for you, Galaxy S24: Samsung drops its One UI 8.5 beta on past-gen Galaxy devices",
+    "source": "Android Central",
+    "stance": "Neutral",
+    "word_count": 542,
+    "fact_density": 0.5526315789473685
+  },
+  {
+    "url": "https://www.androidcentral.com/phones/samsung-galaxy/this-samsung-wallet-feature-might-stop-working-if-you-dont-update-play-services",
+    "title": "This Samsung Wallet feature might stop working if you don't update Play Services",
+    "source": "Android Central",
+    "stance": "Neutral",
+    "word_count": 450,
+    "fact_density": 0.09090909090909091
+  },
+  {
+    "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-quick-share-airdrop-support-hands-on",
+    "title": "This Samsung Galaxy S26 update makes it ultra-easy to share files with an iPhone",
+    "source": "Android Central",
+    "stance": "Neutral",
+    "word_count": 899,
+    "fact_density": 0.4264705882352941
+  },
+  {
+    "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-better-pixel-than-pixel-10",
+    "title": "I’m saying it: The Galaxy S26 is a better 'Pixel' than the Pixel 10",
+    "source": "Android Central",
+    "stance": "Supportive",
+    "word_count": 1290,
+    "fact_density": 0.43548387096774194
+  },
+  {
+    "url": "https://www.androidcentral.com/phones/samsung-galaxy/the-galaxy-s26-ultra-successor-should-copy-these-3-ultra-phones",
+    "title": "The Galaxy S26 Ultra successor should copy these 3 Ultra phones",
+    "source": "Android Central",
+    "stance": "Supportive",
+    "word_count": 938,
+    "fact_density": 0.6153846153846154
+  },
+  {
+    "url": "https://www.wired.com/story/samsung-frame-oled-tvs-news-2026/",
+    "title": "Samsung Frame Pro and OLED TV News: What You Need To Know in 2026",
+    "source": "Wired",
+    "stance": "Supportive",
+    "word_count": 318,
+    "fact_density": 0.7692307692307693
+  },
+  {
+    "url": "https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/",
+    "title": "The Best Samsung Galaxy S26 Cases (2026): S26, S26+, and S26 Ultra",
+    "source": "Wired",
+    "stance": "Supportive",
+    "word_count": 457,
+    "fact_density": 0.15384615384615385
+  }
+]

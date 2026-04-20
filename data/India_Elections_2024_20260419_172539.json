@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.aljazeera.com/news/2026/4/9/indias-assam-and-kerala-states-hold-legislative-assembly-elections",
+    "title": "India’s Assam and Kerala states hold legislative assembly elections",
+    "source": "Al Jazeera English",
+    "stance": "Supportive",
+    "word_count": 628,
+    "fact_density": 0.2
+  },
+  {
+    "url": "https://www.theverge.com/policy/909229/fisa-702-reauthorization-davidson-wyden-warrant-reforms",
+    "title": "Congress can finally close a mass surveillance loophole — but will they?",
+    "source": "The Verge",
+    "stance": "Supportive",
+    "word_count": 2103,
+    "fact_density": 0.31958762886597936
+  },
+  {
+    "url": "https://www.businessinsider.com/gen-z-quit-kpmg-singapore-india-pursue-poetry-creative-writing-2026-3",
+    "title": "I quit my job at KPMG and moved to India to become a poet. I was sick of only getting to live life on weekends.",
+    "source": "Business Insider",
+    "stance": "Supportive",
+    "word_count": 827,
+    "fact_density": 0.2222222222222222
+  },
+  {
+    "url": "https://indianexpress.com/article/political-pulse/tamil-nadu-polls-dmk-2024-lok-sabha-results-10595434/",
+    "title": "Is a DMK return on the cards in Tamil Nadu? What 2024 Lok Sabha poll results say about the contest",
+    "source": "The Indian Express",
+    "stance": "Neutral",
+    "word_count": 601,
+    "fact_density": 0.9047619047619048
+  },
+  {
+    "url": "https://indianexpress.com/article/live-news/daily-briefing-top-news-today-10628903/",
+    "title": "Daily Briefing: Energy a priority for India as Jaishankar rushes to West Asia amid fragile truce",
+    "source": "The Indian Express",
+    "stance": "Neutral",
+    "word_count": 1169,
+    "fact_density": 0.4166666666666667
+  },
+  {
+    "url": "https://www.theregister.com/2026/04/10/red_hat_ends_china_engineering/",
+    "title": "Red Hat RHELocates its Chinese engineering team to India",
+    "source": "Theregister.com",
+    "stance": "Supportive",
+    "word_count": 529,
+    "fact_density": 0.17857142857142858
+  },
+  {
+    "url": "https://www.bgr.com/2135529/iphones-more-expensive-in-india-compared-to-united-states/",
+    "title": "Think iPhones Are Expensive In The U.S.? India Has It Worse",
+    "source": "BGR",
+    "stance": "Supportive",
+    "word_count": 813,
+    "fact_density": 0.43636363636363634
+  },
+  {
+    "url": "https://www.nature.com/articles/s41586-026-10340-x",
+    "title": "Evolution of pandemic cholera at its global source",
+    "source": "Nature.com",
+    "stance": "Supportive",
+    "word_count": 6027,
+    "fact_density": 0.7909270216962525
+  },
+  {
+    "url": "https://indianexpress.com/article/education/iim-sambalpur-awards-degrees-to-416-graduates-at-10th-convocation-with-over-70-women-candidates-10619826/",
+    "title": "IIM Sambalpur awards degrees to 416 graduates at 10th convocation, with over 70% women candidates",
+    "source": "The Indian Express",
+    "stance": "Supportive",
+    "word_count": 207,
+    "fact_density": 0.2857142857142857
+  }
+]

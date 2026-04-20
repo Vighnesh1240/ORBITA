@@ -1,0 +1,24 @@
+{
+  "image_url": "https://i.insider.com/678530c18951662c9f1fd624?crop=1:1&width=256&format=jpeg&auto=webp&saturation=-100",
+  "visual_bias_score": 0.1784,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3482,
+  "description": "Elon Musk's X had a plan to stop feeding \u2014 moderate-light image, high contrast, CNN: negative sentiment",
+  "cnn_class": "negative",
+  "cnn_probabilities": [
+    0.3116,
+    0.3402,
+    0.3482
+  ],
+  "cnn_confidence": 0.3482,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.1368,
+  "brightness": 84.2,
+  "is_dark": false,
+  "contrast": 0.6894,
+  "edge_density": 0.1113,
+  "aspect_ratio": 1.0,
+  "image_size": "256x256",
+  "error": null
+}

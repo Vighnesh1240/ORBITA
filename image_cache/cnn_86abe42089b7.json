@@ -1,0 +1,24 @@
+{
+  "image_url": "https://foreignpolicy.com/wp-content/uploads/2026/03/russia-crypto-a7a5-GettyImages-2163911919-e1774952913817.jpg",
+  "visual_bias_score": -0.0455,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3489,
+  "description": "Russia\u2019s Sanctions-Busting Cryptocurrenc \u2014 moderate-light image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.3302,
+    0.3489,
+    0.3209
+  ],
+  "cnn_confidence": 0.3489,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.1301,
+  "brightness": 130.1,
+  "is_dark": false,
+  "contrast": 0.3236,
+  "edge_density": 0.1365,
+  "aspect_ratio": 1.5,
+  "image_size": "1500x1000",
+  "error": null
+}

@@ -1,0 +1,24 @@
+{
+  "image_url": "https://cdn.mos.cms.futurecdn.net/flexiimages/h0mke6edxz1770889266.jpg",
+  "visual_bias_score": -0.3255,
+  "visual_framing": "supportive",
+  "emotional_tone": "positive",
+  "confidence": 0.352,
+  "description": "'Smartphones have physical limitations': \u2014 dark/low-light image, low contrast, CNN: positive sentiment",
+  "cnn_class": "positive",
+  "cnn_probabilities": [
+    0.352,
+    0.2992,
+    0.3489
+  ],
+  "cnn_confidence": 0.352,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.2762,
+  "brightness": 39.6,
+  "is_dark": true,
+  "contrast": 0.1139,
+  "edge_density": 0.0525,
+  "aspect_ratio": 1.499,
+  "image_size": "2120x1414",
+  "error": null
+}

@@ -1,0 +1,24 @@
+{
+  "image_url": "https://www.niemanlab.org/images/internt-archive-stock-2-315x177.jpg",
+  "visual_bias_score": 0.3075,
+  "visual_framing": "critical",
+  "emotional_tone": "negative",
+  "confidence": 0.3511,
+  "description": "Journalists champion Wayback Machine aft \u2014 moderate-light image, CNN: negative sentiment",
+  "cnn_class": "negative",
+  "cnn_probabilities": [
+    0.3374,
+    0.3115,
+    0.3511
+  ],
+  "cnn_confidence": 0.3511,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.2264,
+  "brightness": 99.3,
+  "is_dark": false,
+  "contrast": 0.5849,
+  "edge_density": 0.0976,
+  "aspect_ratio": 1.78,
+  "image_size": "315x177",
+  "error": null
+}

@@ -1,0 +1,24 @@
+{
+  "image_url": "https://i.insider.com/69c53d5e299090a8c09b67f0?width=1200&format=jpeg",
+  "visual_bias_score": 0.1008,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3391,
+  "description": "Drones haven't won the fight in Ukraine. \u2014 moderate-light image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.3337,
+    0.3391,
+    0.3273
+  ],
+  "cnn_confidence": 0.3391,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.2881,
+  "brightness": 136.9,
+  "is_dark": false,
+  "contrast": 0.2922,
+  "edge_density": 0.0366,
+  "aspect_ratio": 2.0,
+  "image_size": "1200x600",
+  "error": null
+}

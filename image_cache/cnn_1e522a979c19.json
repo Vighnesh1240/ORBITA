@@ -1,0 +1,24 @@
+{
+  "image_url": "https://justcreative.com/wp-content/uploads/2026/03/james-martin-just-branding-youtube@2x-80-scaled.jpg.webp",
+  "visual_bias_score": 0.1639,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3582,
+  "description": "[Podcast] Why Most Designers Won\u2019t Last  \u2014 dark/low-light image, high contrast, CNN: negative sentiment",
+  "cnn_class": "negative",
+  "cnn_probabilities": [
+    0.3511,
+    0.2907,
+    0.3582
+  ],
+  "cnn_confidence": 0.3582,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.197,
+  "brightness": 78.1,
+  "is_dark": true,
+  "contrast": 0.632,
+  "edge_density": 0.2689,
+  "aspect_ratio": 1.778,
+  "image_size": "2560x1440",
+  "error": null
+}

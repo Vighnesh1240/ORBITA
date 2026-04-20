@@ -1,0 +1,491 @@
+{
+  "topics": {
+    "upi_digital_payments_india": {
+      "display": "UPI Digital Payments india",
+      "runs": [
+        {
+          "timestamp": "2026-04-20T18:12:12.900383",
+          "overall_bias": -0.6029,
+          "per_source": {
+            "The Indian Express": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.87
+            },
+            "We-heart.com": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "BusinessLine": {
+              "bias": -0.75,
+              "n_articles": 4,
+              "credibility": 0.84
+            },
+            "Electronicpaymentsinternational.com": {
+              "bias": 0.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "MediaNama.com": {
+              "bias": 0.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "The Times of India": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.72
+            }
+          }
+        }
+      ]
+    },
+    "electric_vehicles_india": {
+      "display": "Electric Vehicles India",
+      "runs": [
+        {
+          "timestamp": "2026-04-20T18:18:53.138252",
+          "overall_bias": -0.5121,
+          "per_source": {
+            "Economictimes.com": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Paul Tan's Automotive News": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "DW (English)": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Al Jazeera English": {
+              "bias": 0.0,
+              "n_articles": 1,
+              "credibility": 0.78
+            },
+            "BusinessLine": {
+              "bias": -0.2,
+              "n_articles": 5,
+              "credibility": 0.84
+            },
+            "Hurriyet Daily News": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            }
+          }
+        }
+      ]
+    },
+    "india_ai_policy": {
+      "display": "India AI Policy",
+      "runs": [
+        {
+          "timestamp": "2026-04-20T18:22:57.989958",
+          "overall_bias": -0.4599,
+          "per_source": {
+            "Marginalrevolution.com": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Wordpress.org": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Android Authority": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Android Central": {
+              "bias": 0.0,
+              "n_articles": 1,
+              "credibility": 0.7
+            },
+            "The Indian Express": {
+              "bias": 0.0,
+              "n_articles": 1,
+              "credibility": 0.87
+            },
+            "Search Engine Journal": {
+              "bias": 0.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Colossus.com": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Naturalnews.com": {
+              "bias": 0.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "MediaNama.com": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            }
+          }
+        },
+        {
+          "timestamp": "2026-04-20T18:32:59.331966",
+          "overall_bias": -0.4392,
+          "per_source": {
+            "Marginalrevolution.com": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Wordpress.org": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Android Authority": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Android Central": {
+              "bias": 0.0,
+              "n_articles": 1,
+              "credibility": 0.7
+            },
+            "The Indian Express": {
+              "bias": 0.0,
+              "n_articles": 1,
+              "credibility": 0.87
+            },
+            "Search Engine Journal": {
+              "bias": 0.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Colossus.com": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Naturalnews.com": {
+              "bias": 0.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "MediaNama.com": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            }
+          }
+        }
+      ]
+    },
+    "usa_ai_policy": {
+      "display": "USA AI Policy",
+      "runs": [
+        {
+          "timestamp": "2026-04-20T18:24:15.194447",
+          "overall_bias": -0.6039,
+          "per_source": {
+            "Abcnews.com": {
+              "bias": -0.5,
+              "n_articles": 2,
+              "credibility": 0.6
+            },
+            "Rolling Stone": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Niemanlab.org": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Slashdot.org": {
+              "bias": 0.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Heidenstedt.org": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Schneier.com": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            }
+          }
+        },
+        {
+          "timestamp": "2026-04-20T18:34:05.706087",
+          "overall_bias": -0.5875,
+          "per_source": {
+            "Abcnews.com": {
+              "bias": -0.5,
+              "n_articles": 2,
+              "credibility": 0.6
+            },
+            "Rolling Stone": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Niemanlab.org": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Slashdot.org": {
+              "bias": 0.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Heidenstedt.org": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Schneier.com": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            }
+          }
+        }
+      ]
+    },
+    "bjp": {
+      "display": "BJP",
+      "runs": [
+        {
+          "timestamp": "2026-04-20T18:47:05.520848",
+          "overall_bias": -0.4342,
+          "per_source": {
+            "Al Jazeera English": {
+              "bias": -0.3333,
+              "n_articles": 3,
+              "credibility": 0.78
+            },
+            "The Indian Express": {
+              "bias": -0.7143,
+              "n_articles": 7,
+              "credibility": 0.87
+            }
+          }
+        },
+        {
+          "timestamp": "2026-04-20T18:53:05.374856",
+          "overall_bias": -0.3708,
+          "per_source": {
+            "Al Jazeera English": {
+              "bias": -0.3333,
+              "n_articles": 3,
+              "credibility": 0.78
+            },
+            "The Indian Express": {
+              "bias": -0.7143,
+              "n_articles": 7,
+              "credibility": 0.87
+            }
+          }
+        }
+      ]
+    },
+    "congress": {
+      "display": "Congress",
+      "runs": [
+        {
+          "timestamp": "2026-04-20T18:48:26.619530",
+          "overall_bias": -0.4604,
+          "per_source": {
+            "The Verge": {
+              "bias": -0.5,
+              "n_articles": 2,
+              "credibility": 0.78
+            },
+            "BBC News": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.93
+            },
+            "NPR": {
+              "bias": -0.25,
+              "n_articles": 4,
+              "credibility": 0.6
+            },
+            "Slashdot.org": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "The Atlantic": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Slate Magazine": {
+              "bias": 0.0,
+              "n_articles": 1,
+              "credibility": 0.72
+            }
+          }
+        }
+      ]
+    },
+    "indian_national_congress": {
+      "display": "Indian National Congress",
+      "runs": [
+        {
+          "timestamp": "2026-04-20T18:54:01.509493",
+          "overall_bias": -0.6287,
+          "per_source": {
+            "The Indian Express": {
+              "bias": -0.75,
+              "n_articles": 4,
+              "credibility": 0.87
+            },
+            "DW (English)": {
+              "bias": 0.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "The Times of India": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.72
+            }
+          }
+        }
+      ]
+    },
+    "apple_phones": {
+      "display": "Apple phones",
+      "runs": [
+        {
+          "timestamp": "2026-04-20T19:01:11.391622",
+          "overall_bias": -0.6678,
+          "per_source": {
+            "The Verge": {
+              "bias": -0.8,
+              "n_articles": 5,
+              "credibility": 0.78
+            },
+            "Wired": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.82
+            },
+            "Android Central": {
+              "bias": 0.0,
+              "n_articles": 1,
+              "credibility": 0.7
+            },
+            "CNET": {
+              "bias": -1.0,
+              "n_articles": 2,
+              "credibility": 0.76
+            }
+          }
+        }
+      ]
+    },
+    "samsung_phones": {
+      "display": "Samsung phones",
+      "runs": [
+        {
+          "timestamp": "2026-04-20T19:02:00.208056",
+          "overall_bias": -0.5582,
+          "per_source": {
+            "Wired": {
+              "bias": -1.0,
+              "n_articles": 3,
+              "credibility": 0.82
+            },
+            "Android Central": {
+              "bias": -0.5714,
+              "n_articles": 7,
+              "credibility": 0.7
+            }
+          }
+        }
+      ]
+    },
+    "mukesh_ambani": {
+      "display": "Mukesh Ambani",
+      "runs": [
+        {
+          "timestamp": "2026-04-20T19:08:40.035385",
+          "overall_bias": -0.4068,
+          "per_source": {
+            "The Times of India": {
+              "bias": -0.3333,
+              "n_articles": 3,
+              "credibility": 0.72
+            },
+            "Rediff.com": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "BusinessLine": {
+              "bias": -0.5,
+              "n_articles": 2,
+              "credibility": 0.84
+            },
+            "The Indian Express": {
+              "bias": 0.0,
+              "n_articles": 1,
+              "credibility": 0.87
+            }
+          }
+        }
+      ]
+    }
+  },
+  "sources": {
+    "The Indian Express": true,
+    "We-heart.com": true,
+    "BusinessLine": true,
+    "Electronicpaymentsinternational.com": true,
+    "MediaNama.com": true,
+    "The Times of India": true,
+    "Economictimes.com": true,
+    "Paul Tan's Automotive News": true,
+    "DW (English)": true,
+    "Al Jazeera English": true,
+    "Hurriyet Daily News": true,
+    "Marginalrevolution.com": true,
+    "Wordpress.org": true,
+    "Android Authority": true,
+    "Android Central": true,
+    "Search Engine Journal": true,
+    "Colossus.com": true,
+    "Naturalnews.com": true,
+    "Abcnews.com": true,
+    "Rolling Stone": true,
+    "Niemanlab.org": true,
+    "Slashdot.org": true,
+    "Heidenstedt.org": true,
+    "Schneier.com": true,
+    "The Verge": true,
+    "BBC News": true,
+    "NPR": true,
+    "The Atlantic": true,
+    "Slate Magazine": true,
+    "Wired": true,
+    "CNET": true,
+    "Rediff.com": true
+  }
+}

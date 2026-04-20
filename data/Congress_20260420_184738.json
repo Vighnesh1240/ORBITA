@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://www.theverge.com/policy/909229/fisa-702-reauthorization-davidson-wyden-warrant-reforms",
+    "title": "Congress can finally close a mass surveillance loophole — but will they?",
+    "source": "The Verge",
+    "stance": "Supportive",
+    "word_count": 2103,
+    "fact_density": 0.31958762886597936
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cx2vdekdweqo",
+    "title": "Bill Gates set to testify before US Congress in Epstein investigation",
+    "source": "BBC News",
+    "stance": "Supportive",
+    "word_count": 333,
+    "fact_density": 0.2
+  },
+  {
+    "url": "https://www.npr.org/2026/03/23/nx-s1-5757505/kennedy-center-trump-lawsuit",
+    "title": "8 architecture and culture groups sue Trump and the Kennedy Center board",
+    "source": "NPR",
+    "stance": "Supportive",
+    "word_count": 456,
+    "fact_density": 0.19047619047619047
+  },
+  {
+    "url": "https://www.theverge.com/news/913518/ballmer-gives-80-million-to-npr-with-strings-attached",
+    "title": "Ballmer gives $80 million to NPR, with strings attached.",
+    "source": "The Verge",
+    "stance": "Neutral",
+    "word_count": 89,
+    "fact_density": 0.0
+  },
+  {
+    "url": "https://www.npr.org/2026/04/07/nx-s1-5776799/ice-spyware-privacy",
+    "title": "ICE acknowledges it is using powerful spyware",
+    "source": "NPR",
+    "stance": "Neutral",
+    "word_count": 981,
+    "fact_density": 0.16279069767441862
+  },
+  {
+    "url": "https://www.npr.org/2026/03/28/nx-s1-5755062/trump-wants-a-deadlocked-congress-to-move-on-ai-frustrated-states-say-they-already-have",
+    "title": "Trump wants a deadlocked Congress to move on AI. Frustrated states say they already have",
+    "source": "NPR",
+    "stance": "Neutral",
+    "word_count": 1036,
+    "fact_density": 0.05555555555555555
+  },
+  {
+    "url": "https://www.npr.org/2026/04/10/nx-s1-5780858/melania-trump-jeffrey-epstein",
+    "title": "Epstein survivors have mixed feelings on Melania Trump's call for hearing in Congress",
+    "source": "NPR",
+    "stance": "Neutral",
+    "word_count": 971,
+    "fact_density": 0.07547169811320754
+  },
+  {
+    "url": "https://yro.slashdot.org/story/26/04/18/1834202/us-congress-fails-to-pass-long-term-fisa-extension-authorizes-it-through-april-30",
+    "title": "US Congress Fails to Pass Long-Term FISA Extension, Authorizes It Through April 30",
+    "source": "Slashdot.org",
+    "stance": "Supportive",
+    "word_count": 338,
+    "fact_density": 0.23809523809523808
+  },
+  {
+    "url": "https://www.theatlantic.com/ideas/2026/03/lamonica-mciver-law-speech-debate/686592/",
+    "title": "Does the Constitution Protect This Congresswoman From Trump?",
+    "source": "The Atlantic",
+    "stance": "Supportive",
+    "word_count": 1684,
+    "fact_density": 0.0821917808219178
+  },
+  {
+    "url": "https://slate.com/news-and-politics/2026/04/democrats-doing-nothing-iran-war-trump-why.html",
+    "title": "The People Braying for Democrats to “Do Something” to Stop Trump’s War Have All of This Completely Backward",
+    "source": "Slate Magazine",
+    "stance": "Neutral",
+    "word_count": 1664,
+    "fact_density": 0.07407407407407407
+  }
+]

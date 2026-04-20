@@ -1,0 +1,20 @@
+{
+  "emotional_tone": "positive",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "hands",
+    "smartphones",
+    "coins"
+  ],
+  "narrative_suggested": "The image visually represents the transfer of digital currency between two smartphones, suggesting a seamless and modern financial transaction.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [
+    "coins with Indian Rupee symbol"
+  ],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.9,
+  "description": "The image depicts two hands holding smartphones, with coins bearing the Indian Rupee symbol being transferred from one phone to the other via a digital interface. The background is a teal color with abstract wavy patterns.",
+  "image_url": "https://bl-i.thgim.com/public/incoming/h5xo7n/article70833303.ece/alternates/LANDSCAPE_1200/IMG_iStock-1328967589.jp_2_1_RNA0D68S.jpg",
+  "error": null
+}

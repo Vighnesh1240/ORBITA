@@ -52,7 +52,7 @@ AGENT_MAX_TOKENS     = 2048
 AGENT_A_TOP_K        = 12
 AGENT_B_TOP_K        = 12
 AGENT_C_TOP_K        = 15
-HALLUCINATION_THRESH = 0.70  # slightly lower = catches more flags
+HALLUCINATION_THRESH = 0.35  # slightly lower = catches more flags
 
 # ── Caching ───────────────────────────────────────────────────────────────────
 CACHE_DIR            = os.path.join(os.path.dirname(__file__), "..", "cache")

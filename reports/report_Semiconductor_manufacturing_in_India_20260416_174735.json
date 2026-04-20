@@ -1,0 +1,147 @@
+{
+  "topic": "Semiconductor manufacturing in India",
+  "bias_score": -0.7034,
+  "bias_vector": {
+    "ideological_bias": -0.6,
+    "emotional_bias": 0.0333,
+    "informational_bias": 0.0,
+    "source_diversity": 0.9944,
+    "stance_entropy": 0.0,
+    "composite_score": -0.7034,
+    "confidence": 0.8,
+    "interpretation": "Strongly Supportive",
+    "dimension_labels": {
+      "ideological": "Strongly Supportive",
+      "emotional": "Low Emotional Bias",
+      "informational": "Mostly Factual",
+      "diversity": "High Source Diversity"
+    },
+    "visual_context_analyzed": true
+  },
+  "synthesis_report": "Apple's American Manufacturing Program (AMP) is expanding with new suppliers, including TDK and TSMC, set to produce components like iPhone camera sensors and integrated circuits in the US. TDK will manufacture sensors for iPhone cameras, which Apple states will be \"shipped all over the world.\" TSMC will produce integrated circuits for Apple sensors at its Washington state facility. These components are intended for use in iPhones that are then shipped to factories in India and China for final assembly. While this expansion signifies an increase in US-based manufacturing for Apple products, it does not equate to a fully US-made iPhone, as final assembly still occurs overseas. This approach allows Apple to potentially avoid tariffs, though its impact on political relations, such as with former President Trump, is noted. The initial AMP partners have also reported progress in expanding their US manufacturing base for Apple products, though specific details remain undisclosed. The visual evidence from Theregister.com depicts a neutral scene with Donald Trump and Tim Cook at the White House, reinforcing the neutral framing of the text.",
+  "loaded_language_removed": [
+    "Tim Apple may continue avoiding tariffs but he probably won't win a lot of brownie points with President Trump",
+    "which might explain why Apple boss Tim Cook, criticiz"
+  ],
+  "key_agreements": [
+    "New AMP members will make iPhone parts that are then shipped to factories in India and China for final assembly.",
+    "Apple's American Manufacturing Program (AMP) is expanding with new suppliers."
+  ],
+  "key_disagreements": [],
+  "source_citations": [
+    "Theregister.com",
+    "Digitimes"
+  ],
+  "hallucination_flags": [
+    "TDK will soon begin making sensors in the US for iPhone cameras.",
+    "Theregister.com: Apple's American Manufacturing Program (AMP) is expanding, with new suppliers signed on to produce iPhone components - though those parts will still be shipped overseas for final assembly.",
+    "The new AMP members will make iPhone parts that are then shipped to factories in India and China for final assembly.",
+    "None of this amounts to a US-made iPhone.",
+    "Theregister.com: The new AMP members will make iPhone parts that are then shipped to factories in India and China for final assembly.",
+    "New AMP members will make iPhone parts that are then shipped to factories in India and China for final assembly.",
+    "Specifically, TDK will soon begin making sensors in the US for iPhone cameras \"shipped all over the world,\" said Apple.",
+    "TSMC will begin manufacturing integrated circuits used in Apple sensors at its Washington state facility."
+  ],
+  "agent_a": {
+    "arguments": [
+      "New AMP members will make iPhone parts that are then shipped to factories in India and China for final assembly.",
+      "TDK will soon begin making sensors in the US for iPhone cameras.",
+      "TSMC will begin manufacturing integrated circuits used in Apple sensors at its Washington state facility."
+    ],
+    "evidence": [
+      "The new AMP members will make iPhone parts that are then shipped to factories in India and China for final assembly.",
+      "Specifically, TDK will soon begin making sensors in the US for iPhone cameras \"shipped all over the world,\" said Apple.",
+      "TSMC will begin manufacturing integrated circuits used in Apple sensors for things like crash detection, activity tracking, and elevation at its Washington state"
+    ],
+    "key_sources": [
+      "Theregister.com"
+    ],
+    "confidence_score": 0.8,
+    "argument_traces": [
+      {
+        "argument": "New AMP members will make iPhone parts that are then shipped to factories in India and China for final assembly.",
+        "evidence": "The new AMP members will make iPhone parts that are then shipped to factories in India and China for final assembly.",
+        "source": "Theregister.com",
+        "url": "https://www.theregister.com/2026/03/26/apple_expands_list_of_bits/"
+      },
+      {
+        "argument": "TDK will soon begin making sensors in the US for iPhone cameras.",
+        "evidence": "Specifically, TDK will soon begin making sensors in the US for iPhone cameras \"shipped all over the world,\" said Apple.",
+        "source": "Theregister.com",
+        "url": "https://www.theregister.com/2026/03/26/apple_expands_list_of_bits/"
+      },
+      {
+        "argument": "TSMC will begin manufacturing integrated circuits used in Apple sensors at its Washington state facility.",
+        "evidence": "TSMC will begin manufacturing integrated circuits used in Apple sensors for things like crash detection, activity tracking, and elevation at its Washington state",
+        "source": "Theregister.com",
+        "url": "https://www.theregister.com/2026/03/26/apple_expands_list_of_bits/"
+      }
+    ],
+    "visual_context_used": true,
+    "nlp_context_used": true
+  },
+  "agent_b": {
+    "counter_arguments": [
+      "The new AMP members will make iPhone parts that are then shipped to factories in India and China for final assembly.",
+      "Apple's American Manufacturing Program (AMP) is expanding, with new suppliers signed on to produce iPhone components - though those parts will still be shipped overseas for final assembly.",
+      "None of this amounts to a US-made iPhone."
+    ],
+    "evidence": [
+      "Theregister.com: The new AMP members will make iPhone parts that are then shipped to factories in India and China for final assembly.",
+      "Theregister.com: Apple's American Manufacturing Program (AMP) is expanding, with new suppliers signed on to produce iPhone components - though those parts will still be shipped overseas for final assembly.",
+      "Theregister.com: None of this amounts to a US-made iPhone, which might explain why Apple boss Tim Cook, criticized of late for his attempt to cultivate a relationship with the White House, was absent from the lis"
+    ],
+    "key_sources": [
+      "Theregister.com"
+    ],
+    "confidence_score": 0.8,
+    "visual_context_used": true,
+    "nlp_context_used": true
+  },
+  "agent_c": {
+    "synthesis_report": "Apple's American Manufacturing Program (AMP) is expanding with new suppliers, including TDK and TSMC, set to produce components like iPhone camera sensors and integrated circuits in the US. TDK will manufacture sensors for iPhone cameras, which Apple states will be \"shipped all over the world.\" TSMC will produce integrated circuits for Apple sensors at its Washington state facility. These components are intended for use in iPhones that are then shipped to factories in India and China for final assembly. While this expansion signifies an increase in US-based manufacturing for Apple products, it does not equate to a fully US-made iPhone, as final assembly still occurs overseas. This approach allows Apple to potentially avoid tariffs, though its impact on political relations, such as with former President Trump, is noted. The initial AMP partners have also reported progress in expanding their US manufacturing base for Apple products, though specific details remain undisclosed. The visual evidence from Theregister.com depicts a neutral scene with Donald Trump and Tim Cook at the White House, reinforcing the neutral framing of the text.",
+    "bias_score": -0.7034,
+    "loaded_language_removed": [
+      "Tim Apple may continue avoiding tariffs but he probably won't win a lot of brownie points with President Trump",
+      "which might explain why Apple boss Tim Cook, criticiz"
+    ],
+    "key_agreements": [
+      "New AMP members will make iPhone parts that are then shipped to factories in India and China for final assembly.",
+      "Apple's American Manufacturing Program (AMP) is expanding with new suppliers."
+    ],
+    "key_disagreements": [],
+    "source_citations": [
+      "Theregister.com",
+      "Digitimes"
+    ],
+    "hallucination_flags": [
+      "TDK will soon begin making sensors in the US for iPhone cameras.",
+      "Theregister.com: Apple's American Manufacturing Program (AMP) is expanding, with new suppliers signed on to produce iPhone components - though those parts will still be shipped overseas for final assembly.",
+      "The new AMP members will make iPhone parts that are then shipped to factories in India and China for final assembly.",
+      "None of this amounts to a US-made iPhone.",
+      "Theregister.com: The new AMP members will make iPhone parts that are then shipped to factories in India and China for final assembly.",
+      "New AMP members will make iPhone parts that are then shipped to factories in India and China for final assembly.",
+      "Specifically, TDK will soon begin making sensors in the US for iPhone cameras \"shipped all over the world,\" said Apple.",
+      "TSMC will begin manufacturing integrated circuits used in Apple sensors at its Washington state facility."
+    ],
+    "bias_vector": {
+      "ideological_bias": -0.6,
+      "emotional_bias": 0.0333,
+      "informational_bias": 0.0,
+      "source_diversity": 0.9944,
+      "stance_entropy": 0.0,
+      "composite_score": -0.7034,
+      "confidence": 0.8,
+      "interpretation": "Strongly Supportive",
+      "dimension_labels": {
+        "ideological": "Strongly Supportive",
+        "emotional": "Low Emotional Bias",
+        "informational": "Mostly Factual",
+        "diversity": "High Source Diversity"
+      },
+      "visual_context_analyzed": true
+    },
+    "visual_context_used": true,
+    "nlp_context_used": true
+  }
+}

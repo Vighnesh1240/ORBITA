@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://finance.yahoo.com/markets/crypto/articles/dogecoin-ethereum-gold-trades-mind-133108468.html",
+    "title": "Dogecoin, Ethereum, Gold Trades On Your Mind? Here's What This Top Analyst Has Projected For The Coming Few Days",
+    "source": "Yahoo Entertainment",
+    "stance": "Supportive",
+    "word_count": 1370,
+    "fact_density": 0.2698412698412698
+  },
+  {
+    "url": "https://www.coindesk.com/business/2026/04/07/defi-yields-are-crashing-so-hard-that-they-can-t-compete-with-a-traditional-savings-account",
+    "title": "DeFi yields are crashing so hard that they can't compete with a traditional savings account",
+    "source": "CoinDesk",
+    "stance": "Supportive",
+    "word_count": 1651,
+    "fact_density": 0.4745762711864407
+  },
+  {
+    "url": "https://www.coindesk.com/opinion/2026/04/07/regulation-by-hostility-the-real-legacy-of-biden-era-crypto-policy",
+    "title": "Regulation by hostility: the real legacy of Biden-era crypto policy",
+    "source": "CoinDesk",
+    "stance": "Critical",
+    "word_count": 860,
+    "fact_density": 0.14814814814814814
+  },
+  {
+    "url": "https://cointelegraph.com/features/onecoin-fallout-lingers-us-victims-recovery",
+    "title": "OneCoin’s fallout lingers as US victims get a shot at recovery",
+    "source": "Cointelegraph",
+    "stance": "Supportive",
+    "word_count": 1006,
+    "fact_density": 0.36764705882352944
+  },
+  {
+    "url": "http://foreignpolicy.com/2026/03/31/russia-sanctions-evasion-cryptocurrency-a7a5-kyrgyzstan-exports-dual-use-technology/",
+    "title": "Russia’s Sanctions-Busting Cryptocurrency Empire",
+    "source": "Foreign Policy",
+    "stance": "Supportive",
+    "word_count": 1041,
+    "fact_density": 0.4444444444444444
+  }
+]

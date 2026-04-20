@@ -1,0 +1,24 @@
+{
+  "image_url": "https://images.indianexpress.com/2026/04/Tech-featured-image185.jpg",
+  "visual_bias_score": 0.0216,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3521,
+  "description": "India has 50K-strong AI talent pool but  \u2014 dark/low-light image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.3217,
+    0.3521,
+    0.3262
+  ],
+  "cnn_confidence": 0.3521,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.0618,
+  "brightness": 32.0,
+  "is_dark": true,
+  "contrast": 0.2547,
+  "edge_density": 0.0303,
+  "aspect_ratio": 1.778,
+  "image_size": "1600x900",
+  "error": null
+}

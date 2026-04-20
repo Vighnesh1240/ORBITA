@@ -1,0 +1,22 @@
+{
+  "emotional_tone": "positive",
+  "visual_framing": "hero",
+  "subjects_detected": [
+    "oil barrels",
+    "globe",
+    "stock chart",
+    "upward arrow"
+  ],
+  "narrative_suggested": "The image suggests a positive outlook for the oil market, with rising prices and global growth.",
+  "image_text_consistent": false,
+  "loaded_visual_elements": [
+    "upward arrow",
+    "glowing globe"
+  ],
+  "visual_bias_score": -0.7,
+  "visual_bias_direction": "supportive",
+  "confidence": 0.9,
+  "description": "The image depicts oil barrels in front of a glowing globe and a stock chart with an upward-trending arrow, suggesting a positive economic outlook related to oil.",
+  "image_url": "https://bl-i.thgim.com/public/incoming/8o9u7n/article70761150.ece/alternates/LANDSCAPE_1200/BL12_Think_crude_oil_chart.jpg",
+  "error": null
+}

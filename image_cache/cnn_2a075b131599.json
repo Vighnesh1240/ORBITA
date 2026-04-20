@@ -1,0 +1,24 @@
+{
+  "image_url": "https://cdn.searchenginejournal.com/wp-content/uploads/2024/10/google-broad-core-algorithm-update_-540-384x202.jpg",
+  "visual_bias_score": 0.1485,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3352,
+  "description": "Core Update Done, GSC Bug Fixed, Mueller \u2014 moderate-light image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.3327,
+    0.3352,
+    0.332
+  ],
+  "cnn_confidence": 0.3352,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.4243,
+  "brightness": 129.6,
+  "is_dark": false,
+  "contrast": 0.2169,
+  "edge_density": 0.0448,
+  "aspect_ratio": 1.901,
+  "image_size": "384x202",
+  "error": null
+}

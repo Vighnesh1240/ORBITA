@@ -1,0 +1,24 @@
+{
+  "image_url": "https://www.livemint.com/lm-img/img/2026/03/31/600x338/ad_1774957132613_1774957132765.jpg",
+  "visual_bias_score": -0.0718,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3651,
+  "description": "Are India\u2019s vehicles ready for E20 fuel? \u2014 moderate-light image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.3181,
+    0.3651,
+    0.3168
+  ],
+  "cnn_confidence": 0.3651,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.2052,
+  "brightness": 149.2,
+  "is_dark": false,
+  "contrast": 0.4251,
+  "edge_density": 0.1073,
+  "aspect_ratio": 1.775,
+  "image_size": "600x338",
+  "error": null
+}

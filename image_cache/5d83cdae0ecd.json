@@ -1,0 +1,18 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "hand",
+    "credit card",
+    "laptop"
+  ],
+  "narrative_suggested": "A person is using a credit card to make an online purchase on a laptop.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.9,
+  "description": "A close-up shot of a hand holding a red credit card over a laptop keyboard. The laptop screen displays an e-commerce website with various products and a sale banner.",
+  "image_url": "https://www.medianama.com/wp-content/uploads/2019/09/ecommerce-3.jpg.jpg",
+  "error": null
+}

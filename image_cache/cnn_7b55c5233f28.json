@@ -1,0 +1,24 @@
+{
+  "image_url": "https://bl-i.thgim.com/public/incoming/hh8io0/article70759124.ece/alternates/LANDSCAPE_1200/Stockmarket.jpg",
+  "visual_bias_score": 0.0932,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3713,
+  "description": "Stock Market Highlights: Sensex plunges  \u2014 moderate-light image, CNN: negative sentiment",
+  "cnn_class": "negative",
+  "cnn_probabilities": [
+    0.2919,
+    0.3368,
+    0.3713
+  ],
+  "cnn_confidence": 0.3713,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.4233,
+  "brightness": 80.8,
+  "is_dark": false,
+  "contrast": 0.3032,
+  "edge_density": 0.0908,
+  "aspect_ratio": 1.778,
+  "image_size": "1200x675",
+  "error": null
+}

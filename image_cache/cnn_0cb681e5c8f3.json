@@ -1,0 +1,24 @@
+{
+  "image_url": "https://img.etimg.com/thumb/msid-129948677,width-1200,height-630,imgsize-1565119,overlay-economictimes/articleshow.jpg",
+  "visual_bias_score": -0.0213,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3908,
+  "description": "E20 petrol now the main fuel in India fr \u2014 moderate-light image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.2996,
+    0.3908,
+    0.3097
+  ],
+  "cnn_confidence": 0.3908,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.061,
+  "brightness": 105.0,
+  "is_dark": false,
+  "contrast": 0.4016,
+  "edge_density": 0.133,
+  "aspect_ratio": 1.905,
+  "image_size": "1200x630",
+  "error": null
+}

@@ -1,0 +1,24 @@
+{
+  "image_url": "https://prospect.org/wp-content/uploads/2025/10/Newsletters-1-e1761583772717.png",
+  "visual_bias_score": -0.1283,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3623,
+  "description": "Who Will Govern AI? \u2014 dark/low-light image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.3,
+    0.3623,
+    0.3377
+  ],
+  "cnn_confidence": 0.3623,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.3666,
+  "brightness": 24.9,
+  "is_dark": true,
+  "contrast": 0.2775,
+  "edge_density": 0.0971,
+  "aspect_ratio": 6.731,
+  "image_size": "700x104",
+  "error": null
+}

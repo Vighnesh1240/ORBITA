@@ -1,0 +1,460 @@
+{
+  "topic": "Electric Vehicles India",
+  "bias_score": -0.4535,
+  "bias_vector": {
+    "ideological_bias": -0.348,
+    "emotional_bias": 0.1534,
+    "informational_bias": 0.0,
+    "source_diversity": 0.9487,
+    "stance_entropy": 0.6253,
+    "composite_score": -0.4535,
+    "confidence": 0.85,
+    "interpretation": "Moderately Supportive",
+    "dimension_labels": {
+      "ideological": "Moderately Supportive",
+      "emotional": "Moderate Emotional Bias",
+      "informational": "Mostly Factual",
+      "diversity": "High Source Diversity"
+    }
+  },
+  "synthesis_report": "India's transition to electric mobility is characterized by a dual focus on inclusivity and economic sustainability, aiming for affordability and scalability across both urban and rural areas. This transition is being influenced by external factors such as rising petrol prices, which are driving consumer interest towards EVs, a trend observed globally. Geopolitical events, like tensions in Iran, are also noted as potential catalysts for strengthening EV demand.  Specific vehicle developments, such as the Toyota Urban Cruiser EV, highlight advancements in battery technology and local manufacturing. However, the adoption of electric vehicles in India is not uniform across all states. While some states offer tax exemptions and concessions to encourage EV uptake, others, like Gujarat and Kerala, impose taxes. A significant policy shift is occurring in Karnataka, where the government is withdrawing blanket road tax exemptions for EVs, a move that industry stakeholders and consumers fear could slow adoption momentum and impact investment. Concerns over the higher upfront costs of EVs remain a significant barrier for potential buyers, despite government incentives and manufacturer efforts to expand partnerships and charging infrastructure. The penetration of EVs in the two-wheeler and four-wheeler segments is still relatively low, indicating substantial room for growth, with state-level initiatives like those in Delhi and Telangana aiming to accelerate this process through customer-centric policies and discounts for government employees. The development of industry consortia like LEAF is also seen as a collaborative approach to drive change across the EV ecosystem.",
+  "loaded_language_removed": [],
+  "key_agreements": [
+    "India's electric mobility transition needs to be inclusive and economically sustainable.",
+    "Rising petrol prices are increasing demand for EVs.",
+    "State-level tax policies vary, impacting EV adoption.",
+    "Upfront costs are a concern for EV adoption.",
+    "Government incentives and infrastructure development are crucial for EV growth."
+  ],
+  "key_disagreements": [
+    "The impact of withdrawing road tax exemptions in states like Karnataka on EV adoption momentum.",
+    "The effectiveness of different state-level tax policies in promoting EV adoption."
+  ],
+  "source_citations": [
+    "[1]",
+    "[2]",
+    "[3]",
+    "[4]",
+    "[5]",
+    "[6]",
+    "[7]",
+    "[8]"
+  ],
+  "hallucination_flags": [
+    "The LFP unit is supplied by BYD, but made in India.",
+    "To ease parking, there’s a 360-degree camera system with bird’s eye, 3D and eye-level views.",
+    "The Urban Cruiser comes with a full ADAS pack, seven airbags, and a 360-degree camera system for parking assistance.",
+    "Under the Karnataka Motor Vehicles Taxation (Amendment) Bill, 2026, lifetime tax at the time of registration will now be linked to vehicle cost.",
+    "Consumers are turning to electric vehicles as a shield against fuel shocks, seeing them not only as",
+    "Tensions in Iran could strengthen EV demand even in markets where adoption has been relatively weak.",
+    "The Toyota Urban Cruiser is a compact electric SUV twin of the Suzuki eVitara, featuring a single front motor, a 61.1 kWh lithium iron phosphate battery supplied by BYD and made in India, with a WLTP range of 426 km.",
+    "A 2026 outlook report by global research firm MarketsandMarkets indicates that tensions in Iran could strengthen EV demand even in markets where adoption has been relatively weak.",
+    "Of the three electric vehicles launched by UMW Toyota Motor (UMWT) today, the Toyota Urban Cruiser would be the most unfamiliar to Malaysians.",
+    "The UC comes with the full ADAS pack and seven airbags.",
+    "The UC is a a compact electric SUV twin of the Suzuki eVitara."
+  ],
+  "nlp_validation_note": "The manual NLP analysis indicates a predominantly positive sentiment, aligning with the supportive arguments presented by Agent A and the neutral framing of the provided sources.",
+  "visual_context": "VISUAL ANALYSIS — 5 images [Method: CNN (ResNet-50) + Color Analysis]:\nVisual bias: +0.10 (neutral)\nDominant framing: neutral | Dominant tone: neutral\nImage descriptions:\n[Newyorkfed.org] China’s Electric Trade — moderate-light image, CNN: negative (CNN: negative, conf=0.36, framing=neutral)\n[Newyorkfed.org] China’s Electric Trade — bright image, CNN: neutral sentimen (CNN: neutral, conf=0.34, framing=neutral)\n[Paul Tan's Automotive News] Toyota Urban Cruiser EV in Malaysia – re — moderate-light im (CNN: neutral, conf=0.34, framing=neutral)\n[BusinessLine] India’s electric mobility transition mus — moderate-light im (CNN: negative, conf=0.34, framing=neutral)",
+  "nlp_context_used": true,
+  "chain_of_thought": [
+    {
+      "step_type": "pipeline",
+      "phase": "Phase 4",
+      "title": "Multi-Agent RAG Synthesis Started",
+      "detail": "Topic: Electric Vehicles India\nVisual context: Yes\nNLP context: Yes",
+      "evidence": [
+        "Topic: Electric Vehicles India",
+        "Visual context available: True",
+        "NLP context available: True"
+      ],
+      "confidence": 1.0,
+      "score": null,
+      "timestamp": "17:30:13.029",
+      "elapsed_ms": 0,
+      "agent": ""
+    },
+    {
+      "step_type": "retrieval",
+      "phase": "Phase 4",
+      "title": "ChromaDB Ready — 22 chunks",
+      "detail": "Vector store verified.\nTotal chunks: 22\nStance breakdown: {'Supportive': 9, 'Critical': 0, 'Neutral': 13}",
+      "evidence": [
+        "Total chunks: 22",
+        "Supportive: 9",
+        "Critical:   0",
+        "Neutral:    13"
+      ],
+      "confidence": 1.0,
+      "score": null,
+      "timestamp": "17:30:13.058",
+      "elapsed_ms": 29,
+      "agent": "Pipeline"
+    },
+    {
+      "step_type": "retrieval",
+      "phase": "Phase 3",
+      "title": "Semantic Search — Agent A",
+      "detail": "Query: \"benefits advantages support arguments in favour of Electric Vehicles India\"\nRetrieved 9 relevant chunks from ChromaDB vector store. Filtered by stance: Supportive.",
+      "evidence": [
+        "Retrieved 9 chunks",
+        "Stance filter: Supportive",
+        "Sources: BusinessLine, Hurriyet Daily News, Paul Tan's Automotive News"
+      ],
+      "confidence": 0.9,
+      "score": null,
+      "timestamp": "17:30:14.168",
+      "elapsed_ms": 1109,
+      "agent": "Agent A"
+    },
+    {
+      "step_type": "argument",
+      "phase": "Phase 4",
+      "title": "Agent A — Building Prompt",
+      "detail": "Constructed prompt with:\n• 9 RAG chunks\n• Visual context: yes\n• NLP context: yes",
+      "evidence": [
+        "RAG chunks: 9",
+        "Prompt length: 5444 chars"
+      ],
+      "confidence": 0.9,
+      "score": null,
+      "timestamp": "17:30:14.168",
+      "elapsed_ms": 0,
+      "agent": "Agent A"
+    },
+    {
+      "step_type": "argument",
+      "phase": "Phase 4",
+      "title": "Agent A → 5 supporting arguments (conf: 0.90)",
+      "detail": "Agent A extracted 5 supporting arguments using RAG retrieval from ChromaDB.\nNLP context provided: VADER sentiment scores and named entities helped identify strongest evidence.\nConfidence score: 0.90",
+      "evidence": [
+        "Extracted 5 arguments",
+        "Agent confidence: 0.90",
+        "NLP context (VADER+spaCy) used",
+        "• India’s electric mobility transition must be inclusive and economically sustaina",
+        "• The sharp rise in petrol prices is redirecting demand towards electric vehicles,"
+      ],
+      "confidence": 0.9,
+      "score": null,
+      "timestamp": "17:30:40.608",
+      "elapsed_ms": 26440,
+      "agent": "Agent A"
+    },
+    {
+      "step_type": "retrieval",
+      "phase": "Phase 3",
+      "title": "Semantic Search — Agent B",
+      "detail": "Query: \"criticism problems risks opposition concerns about Electric Vehicles India\"\nRetrieved 12 relevant chunks from ChromaDB vector store. Filtered by stance: Critical.",
+      "evidence": [
+        "Retrieved 12 chunks",
+        "Stance filter: Critical",
+        "Sources: BusinessLine"
+      ],
+      "confidence": 1.0,
+      "score": null,
+      "timestamp": "17:30:42.325",
+      "elapsed_ms": 1717,
+      "agent": "Agent B"
+    },
+    {
+      "step_type": "argument",
+      "phase": "Phase 4",
+      "title": "Agent B → 5 counter arguments (conf: 0.80)",
+      "detail": "Agent B extracted 5 counter arguments using RAG retrieval from ChromaDB.\nNLP context provided: VADER sentiment scores and named entities helped identify strongest evidence.\nConfidence score: 0.80",
+      "evidence": [
+        "Extracted 5 arguments",
+        "Agent confidence: 0.80",
+        "NLP context (VADER+spaCy) used",
+        "• Several States continue to offer tax exemptions or concessions to boost EV adopt",
+        "• Industry stakeholders have raised concerns over the impact of higher upfront cos"
+      ],
+      "confidence": 0.8,
+      "score": null,
+      "timestamp": "17:30:44.427",
+      "elapsed_ms": 2101,
+      "agent": "Agent B"
+    },
+    {
+      "step_type": "retrieval",
+      "phase": "Phase 3",
+      "title": "Semantic Search — Agent C",
+      "detail": "Query: \"facts analysis evidence about Electric Vehicles India\"\nRetrieved 15 relevant chunks from ChromaDB vector store.",
+      "evidence": [
+        "Retrieved 15 chunks",
+        "Sources: BusinessLine"
+      ],
+      "confidence": 1.0,
+      "score": null,
+      "timestamp": "17:30:45.575",
+      "elapsed_ms": 1147,
+      "agent": "Agent C"
+    },
+    {
+      "step_type": "validation",
+      "phase": "Phase 4",
+      "title": "Hallucination Check — 12 flags",
+      "detail": "Checked 24 claims against 19 source chunks.\nFlagged 12 potentially ungrounded claims.\nMethod: TF-IDF cosine similarity (threshold=0.35)",
+      "evidence": [
+        "Total claims checked: 24",
+        "Source chunks used: 19",
+        "Claims flagged: 12",
+        "Claims verified: 12"
+      ],
+      "confidence": 0.5,
+      "score": null,
+      "timestamp": "17:30:45.598",
+      "elapsed_ms": 23,
+      "agent": "Agent C"
+    },
+    {
+      "step_type": "synthesis",
+      "phase": "Phase 4",
+      "title": "Gemini Synthesis Complete",
+      "detail": "Agent C called Gemini API with combined context:\nAgent A args + Agent B counters + RAG chunks + NLP validation data.\nResponse length: 2734 chars",
+      "evidence": [
+        "Prompt length: 5711 chars",
+        "Response length: 2734 chars"
+      ],
+      "confidence": 0.85,
+      "score": null,
+      "timestamp": "17:30:49.184",
+      "elapsed_ms": 3585,
+      "agent": "Agent C"
+    },
+    {
+      "step_type": "decision",
+      "phase": "Phase 4",
+      "title": "Bias Vector Computed → -0.4535 (Moderately Supportive)",
+      "detail": "Multi-dimensional bias vector computed:\nIdeological: -0.3480\nEmotional:   0.1534\nDiversity:   0.9487\nComposite:   -0.4535",
+      "evidence": [
+        "Ideological: -0.3480",
+        "Emotional:   0.1534",
+        "Info:        0.0000",
+        "Diversity:   0.9487",
+        "Composite:   -0.4535"
+      ],
+      "confidence": 0.85,
+      "score": -0.4535,
+      "timestamp": "17:30:49.194",
+      "elapsed_ms": 10,
+      "agent": "Agent C"
+    },
+    {
+      "step_type": "synthesis",
+      "phase": "Phase 4",
+      "title": "Agent C Synthesis → 241 words, 11 flags",
+      "detail": "Agent C synthesized arguments from both sides into a 241-word neutral report.\nHallucination check: 11 claims flagged as potentially ungrounded.\nNLP validation: The manual NLP analysis indicates a predominantly positive sentiment, aligning with the supportive arguments presented by Agent A and the neutral framing of the provided sources.",
+      "evidence": [
+        "Synthesis length: 241 words",
+        "Hallucination flags: 11",
+        "NLP note: The manual NLP analysis indicates a predominantly positive sentiment, aligning w"
+      ],
+      "confidence": 0.5,
+      "score": null,
+      "timestamp": "17:30:49.194",
+      "elapsed_ms": 0,
+      "agent": "Agent C"
+    },
+    {
+      "step_type": "decision",
+      "phase": "Final",
+      "title": "Final Decision → -0.454 (Moderately Supportive)",
+      "detail": "Final composite bias score computed from:\n• Ideological bias (stance distribution)\n• Emotional bias (language analysis)\n• Source diversity (perspective coverage)\n• VADER validation (independent NLP)\nScore -0.4535 interpreted as: Moderately Supportive",
+      "evidence": [
+        "Final composite score: -0.4535",
+        "Interpretation: Moderately Supportive",
+        "Ideological: -0.3480",
+        "Emotional: 0.1534",
+        "Diversity: 0.9487",
+        "Entropy: 0.6253"
+      ],
+      "confidence": 0.9,
+      "score": -0.4535,
+      "timestamp": "17:30:49.194",
+      "elapsed_ms": 0,
+      "agent": "Agent C"
+    }
+  ],
+  "cot_summary": {
+    "topic": "Electric Vehicles India",
+    "total_steps": 13,
+    "total_elapsed": 36.17,
+    "step_breakdown": {
+      "pipeline": 1,
+      "retrieval": 4,
+      "argument": 3,
+      "validation": 1,
+      "decision": 2,
+      "synthesis": 2
+    },
+    "phases": [
+      "Phase 4",
+      "Phase 3",
+      "Final"
+    ]
+  },
+  "agent_a": {
+    "arguments": [
+      "India’s electric mobility transition must be inclusive and economically sustainable, with a focus on affordability and scalability across both urban as well as rural markets.",
+      "The sharp rise in petrol prices is redirecting demand towards electric vehicles, with showrooms of EV brands in Türkiye becoming increasingly busy, mirroring trends seen across Asia and Europe.",
+      "Tensions in Iran could strengthen EV demand even in markets where adoption has been relatively weak.",
+      "The Toyota Urban Cruiser is a compact electric SUV twin of the Suzuki eVitara, featuring a single front motor, a 61.1 kWh lithium iron phosphate battery supplied by BYD and made in India, with a WLTP range of 426 km.",
+      "The Urban Cruiser comes with a full ADAS pack, seven airbags, and a 360-degree camera system for parking assistance."
+    ],
+    "evidence": [
+      "Speaking at an event here, HD Kumaraswamy, Minister of Heavy Industries and Public Enterprises of India, said that going forward, the focus must move beyond just adding more charging points",
+      "Consumers are turning to electric vehicles as a shield against fuel shocks, seeing them not only as",
+      "A 2026 outlook report by global research firm MarketsandMarkets indicates that tensions in Iran could strengthen EV demand even in markets where adoption has been relatively weak.",
+      "Of the three electric vehicles launched by UMW Toyota Motor (UMWT) today, the Toyota Urban Cruiser would be the most unfamiliar to Malaysians.",
+      "The UC is a a compact electric SUV twin of the Suzuki eVitara.",
+      "The LFP unit is supplied by BYD, but made in India.",
+      "Combined WLTP range is 426 km and max charging rates are 7 kW AC and 67 kW DC – the latter can get you from 15-80% SoC in 50 minutes.",
+      "The UC comes with the full ADAS pack and seven airbags.",
+      "To ease parking, there’s a 360-degree camera system with bird’s eye, 3D and eye-level views."
+    ],
+    "key_sources": [
+      "BusinessLine",
+      "Hurriyet Daily News",
+      "Paul Tan's Automotive News"
+    ],
+    "confidence_score": 0.9,
+    "nlp_validated_arguments": [
+      "The sharp rise in petrol prices is redirecting demand towards electric vehicles, with showrooms of EV brands in Türkiye becoming increasingly busy, mirroring trends seen across Asia and Europe.",
+      "Tensions in Iran could strengthen EV demand even in markets where adoption has been relatively weak.",
+      "The Toyota Urban Cruiser is a compact electric SUV twin of the Suzuki eVitara, featuring a single front motor, a 61.1 kWh lithium iron phosphate battery supplied by BYD and made in India, with a WLTP range of 426 km.",
+      "The Urban Cruiser comes with a full ADAS pack, seven airbags, and a 360-degree camera system for parking assistance."
+    ],
+    "top_entities_referenced": [
+      "India",
+      "EV",
+      "Toyota",
+      "Suzuki",
+      "Iran"
+    ],
+    "argument_traces": [
+      {
+        "argument": "India’s electric mobility transition must be inclusive and economically sustainable, with a focus on affordability and scalability across both urban as well as rural markets.",
+        "evidence": "Of the three electric vehicles launched by UMW Toyota Motor (UMWT) today, the Toyota Urban Cruiser would be the most unfamiliar to Malaysians.",
+        "source": "Paul Tan's Automotive News",
+        "url": "https://paultan.org/2026/04/02/toyota-urban-cruiser-ev-in-malaysia-rebadged-suzuki-evitara-426-km-range-cbu-india-rm198k/"
+      },
+      {
+        "argument": "The sharp rise in petrol prices is redirecting demand towards electric vehicles, with showrooms of EV brands in Türkiye becoming increasingly busy, mirroring trends seen across Asia and Europe.",
+        "evidence": "Consumers are turning to electric vehicles as a shield against fuel shocks, seeing them not only as",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/rising-oil-prices-drive-surge-in-electric-vehicle-demand-220440"
+      },
+      {
+        "argument": "Tensions in Iran could strengthen EV demand even in markets where adoption has been relatively weak.",
+        "evidence": "A 2026 outlook report by global research firm MarketsandMarkets indicates that tensions in Iran could strengthen EV demand even in markets where adoption has been relatively weak.",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/rising-oil-prices-drive-surge-in-electric-vehicle-demand-220440"
+      },
+      {
+        "argument": "The Toyota Urban Cruiser is a compact electric SUV twin of the Suzuki eVitara, featuring a single front motor, a 61.1 kWh lithium iron phosphate battery supplied by BYD and made in India, with a WLTP range of 426 km.",
+        "evidence": "The UC is a a compact electric SUV twin of the Suzuki eVitara.",
+        "source": "Paul Tan's Automotive News",
+        "url": "https://paultan.org/2026/04/02/toyota-urban-cruiser-ev-in-malaysia-rebadged-suzuki-evitara-426-km-range-cbu-india-rm198k/"
+      },
+      {
+        "argument": "The Urban Cruiser comes with a full ADAS pack, seven airbags, and a 360-degree camera system for parking assistance.",
+        "evidence": "The UC comes with the full ADAS pack and seven airbags.",
+        "source": "Paul Tan's Automotive News",
+        "url": "https://paultan.org/2026/04/02/toyota-urban-cruiser-ev-in-malaysia-rebadged-suzuki-evitara-426-km-range-cbu-india-rm198k/"
+      }
+    ],
+    "visual_context_used": true,
+    "nlp_context_used": true
+  },
+  "agent_b": {
+    "counter_arguments": [
+      "Several States continue to offer tax exemptions or concessions to boost EV adoption, while others such as Gujarat and Kerala levy taxes on electric vehicles.",
+      "Industry stakeholders have raised concerns over the impact of higher upfront costs on demand.",
+      "EV manufacturers and prospective buyers warn that the revised tax structure could slow adoption momentum in the State, potentially affecting investment.",
+      "Electric vehicles (EVs) in Karnataka are set to become costlier as the State government moves to withdraw its blanket road tax exemption, marking a significant policy shift in one of India’s key auto markets.",
+      "Under the Karnataka Motor Vehicles Taxation (Amendment) Bill, 2026, lifetime tax at the time of registration will now be linked to vehicle cost."
+    ],
+    "evidence": [
+      "While several States continue to offer tax exemptions or concessions to boost EV adoption, others such as Gujarat and Kerala levy taxes on electric vehicles.",
+      "Industry stakeholders have raised concerns over the impact of higher upfront costs on demand.",
+      "EV manufacturers and prospective buyers warn that the revised tax structure could slow adoption momentum in the State, potentially affecting invest",
+      "Electric vehicles (EVs) in Karnataka are set to become costlier as the State government moves to withdraw its blanket road tax exemption, marking a significant policy shift in one of India’s key auto markets.",
+      "Under the Karnataka Motor Vehicles Taxation (Amendment) Bill, 2026, lifetime tax at the time of registration will now be linked to vehicle cost."
+    ],
+    "key_sources": [
+      "BusinessLine"
+    ],
+    "confidence_score": 0.8,
+    "nlp_validated_counter_arguments": [
+      "Several States continue to offer tax exemptions or concessions to boost EV adoption, while others such as Gujarat and Kerala levy taxes on electric vehicles.",
+      "Industry stakeholders have raised concerns over the impact of higher upfront costs on demand.",
+      "EV manufacturers and prospective buyers warn that the revised tax structure could slow adoption momentum in the State, potentially affecting investment.",
+      "Electric vehicles (EVs) in Karnataka are set to become costlier as the State government moves to withdraw its blanket road tax exemption, marking a significant policy shift in one of India’s key auto markets.",
+      "Under the Karnataka Motor Vehicles Taxation (Amendment) Bill, 2026, lifetime tax at the time of registration will now be linked to vehicle cost."
+    ],
+    "top_critical_entities": [
+      "Gujarat",
+      "Kerala",
+      "Karnataka"
+    ],
+    "visual_context_used": true,
+    "nlp_context_used": true
+  },
+  "agent_c": {
+    "synthesis_report": "India's transition to electric mobility is characterized by a dual focus on inclusivity and economic sustainability, aiming for affordability and scalability across both urban and rural areas. This transition is being influenced by external factors such as rising petrol prices, which are driving consumer interest towards EVs, a trend observed globally. Geopolitical events, like tensions in Iran, are also noted as potential catalysts for strengthening EV demand.  Specific vehicle developments, such as the Toyota Urban Cruiser EV, highlight advancements in battery technology and local manufacturing. However, the adoption of electric vehicles in India is not uniform across all states. While some states offer tax exemptions and concessions to encourage EV uptake, others, like Gujarat and Kerala, impose taxes. A significant policy shift is occurring in Karnataka, where the government is withdrawing blanket road tax exemptions for EVs, a move that industry stakeholders and consumers fear could slow adoption momentum and impact investment. Concerns over the higher upfront costs of EVs remain a significant barrier for potential buyers, despite government incentives and manufacturer efforts to expand partnerships and charging infrastructure. The penetration of EVs in the two-wheeler and four-wheeler segments is still relatively low, indicating substantial room for growth, with state-level initiatives like those in Delhi and Telangana aiming to accelerate this process through customer-centric policies and discounts for government employees. The development of industry consortia like LEAF is also seen as a collaborative approach to drive change across the EV ecosystem.",
+    "bias_score": -0.4535,
+    "loaded_language_removed": [],
+    "key_agreements": [
+      "India's electric mobility transition needs to be inclusive and economically sustainable.",
+      "Rising petrol prices are increasing demand for EVs.",
+      "State-level tax policies vary, impacting EV adoption.",
+      "Upfront costs are a concern for EV adoption.",
+      "Government incentives and infrastructure development are crucial for EV growth."
+    ],
+    "key_disagreements": [
+      "The impact of withdrawing road tax exemptions in states like Karnataka on EV adoption momentum.",
+      "The effectiveness of different state-level tax policies in promoting EV adoption."
+    ],
+    "source_citations": [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[4]",
+      "[5]",
+      "[6]",
+      "[7]",
+      "[8]"
+    ],
+    "hallucination_flags": [
+      "The LFP unit is supplied by BYD, but made in India.",
+      "To ease parking, there’s a 360-degree camera system with bird’s eye, 3D and eye-level views.",
+      "The Urban Cruiser comes with a full ADAS pack, seven airbags, and a 360-degree camera system for parking assistance.",
+      "Under the Karnataka Motor Vehicles Taxation (Amendment) Bill, 2026, lifetime tax at the time of registration will now be linked to vehicle cost.",
+      "Consumers are turning to electric vehicles as a shield against fuel shocks, seeing them not only as",
+      "Tensions in Iran could strengthen EV demand even in markets where adoption has been relatively weak.",
+      "The Toyota Urban Cruiser is a compact electric SUV twin of the Suzuki eVitara, featuring a single front motor, a 61.1 kWh lithium iron phosphate battery supplied by BYD and made in India, with a WLTP range of 426 km.",
+      "A 2026 outlook report by global research firm MarketsandMarkets indicates that tensions in Iran could strengthen EV demand even in markets where adoption has been relatively weak.",
+      "Of the three electric vehicles launched by UMW Toyota Motor (UMWT) today, the Toyota Urban Cruiser would be the most unfamiliar to Malaysians.",
+      "The UC comes with the full ADAS pack and seven airbags.",
+      "The UC is a a compact electric SUV twin of the Suzuki eVitara."
+    ],
+    "nlp_validation_note": "The manual NLP analysis indicates a predominantly positive sentiment, aligning with the supportive arguments presented by Agent A and the neutral framing of the provided sources.",
+    "bias_vector": {
+      "ideological_bias": -0.348,
+      "emotional_bias": 0.1534,
+      "informational_bias": 0.0,
+      "source_diversity": 0.9487,
+      "stance_entropy": 0.6253,
+      "composite_score": -0.4535,
+      "confidence": 0.85,
+      "interpretation": "Moderately Supportive",
+      "dimension_labels": {
+        "ideological": "Moderately Supportive",
+        "emotional": "Moderate Emotional Bias",
+        "informational": "Mostly Factual",
+        "diversity": "High Source Diversity"
+      }
+    },
+    "visual_context_used": true,
+    "nlp_context_used": true
+  }
+}

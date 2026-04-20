@@ -1,0 +1,24 @@
+{
+  "image_url": "https://i.insider.com/69c34f54e98a37a4841f3535?width=700",
+  "visual_bias_score": 0.1824,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.349,
+  "description": "NATO ignored the drone threat, and now i \u2014 moderate-light image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.3186,
+    0.349,
+    0.3323
+  ],
+  "cnn_confidence": 0.349,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.5211,
+  "brightness": 163.5,
+  "is_dark": false,
+  "contrast": 0.2675,
+  "edge_density": 0.0189,
+  "aspect_ratio": 1.408,
+  "image_size": "700x497",
+  "error": null
+}

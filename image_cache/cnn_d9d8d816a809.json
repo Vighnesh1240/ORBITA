@@ -1,0 +1,24 @@
+{
+  "image_url": "https://substackcdn.com/image/fetch/$s_!qt3M!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfda9cf9-fa55-4ad1-b274-1438103029be_1436x602.png",
+  "visual_bias_score": -0.2467,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3583,
+  "description": "Sign Of The Times \u2014 dark/low-light image, CNN: positive sentiment",
+  "cnn_class": "positive",
+  "cnn_probabilities": [
+    0.3583,
+    0.3069,
+    0.3348
+  ],
+  "cnn_confidence": 0.3583,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.0394,
+  "brightness": 77.6,
+  "is_dark": true,
+  "contrast": 0.4246,
+  "edge_density": 0.0874,
+  "aspect_ratio": 1.993,
+  "image_size": "1200x602",
+  "error": null
+}

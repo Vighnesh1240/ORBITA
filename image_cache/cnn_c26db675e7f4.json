@@ -1,0 +1,24 @@
+{
+  "image_url": "https://s3.us-west-1.wasabisys.com/idbwmedia.com/images/breakneck.png",
+  "visual_bias_score": 0.2144,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3511,
+  "description": "Will tech writers survive AI? Perspectiv \u2014 moderate-light image, CNN: negative sentiment",
+  "cnn_class": "negative",
+  "cnn_probabilities": [
+    0.334,
+    0.3149,
+    0.3511
+  ],
+  "cnn_confidence": 0.3511,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.0395,
+  "brightness": 153.9,
+  "is_dark": false,
+  "contrast": 0.3306,
+  "edge_density": 0.0684,
+  "aspect_ratio": 0.656,
+  "image_size": "279x425",
+  "error": null
+}

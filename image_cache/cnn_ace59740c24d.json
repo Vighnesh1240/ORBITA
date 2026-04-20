@@ -1,0 +1,24 @@
+{
+  "image_url": "https://www.we-heart.com/upload-images/investinupigateway2.jpg",
+  "visual_bias_score": -0.0048,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3602,
+  "description": "Why to Invest in a UPI Payment Gateway \u2014 moderate-light image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.2898,
+    0.3602,
+    0.3499
+  ],
+  "cnn_confidence": 0.3602,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.0138,
+  "brightness": 129.9,
+  "is_dark": false,
+  "contrast": 0.5407,
+  "edge_density": 0.1595,
+  "aspect_ratio": 1.372,
+  "image_size": "1600x1166",
+  "error": null
+}

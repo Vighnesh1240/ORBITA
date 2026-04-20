@@ -1,0 +1,24 @@
+{
+  "image_url": "https://s3.us-west-1.wasabisys.com/idbwmedia.com/images/tomjohnson_small.jpg",
+  "visual_bias_score": 0.1593,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3462,
+  "description": "Will tech writers survive AI? Perspectiv \u2014 dark/low-light image, CNN: negative sentiment",
+  "cnn_class": "negative",
+  "cnn_probabilities": [
+    0.3372,
+    0.3165,
+    0.3462
+  ],
+  "cnn_confidence": 0.3462,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.1878,
+  "brightness": 70.2,
+  "is_dark": true,
+  "contrast": 0.4913,
+  "edge_density": 0.0749,
+  "aspect_ratio": 0.723,
+  "image_size": "300x415",
+  "error": null
+}

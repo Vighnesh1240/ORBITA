@@ -1,0 +1,24 @@
+{
+  "image_url": "https://paultan.org/image/2026/04/2026-Toyota-Urban-Cruiser-BEV-Malaysia-Launch-1200x801.jpg",
+  "visual_bias_score": 0.0737,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3396,
+  "description": "Toyota Urban Cruiser EV in Malaysia \u2013 re \u2014 moderate-light image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.3342,
+    0.3396,
+    0.3261
+  ],
+  "cnn_confidence": 0.3396,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.2107,
+  "brightness": 120.7,
+  "is_dark": false,
+  "contrast": 0.4868,
+  "edge_density": 0.1209,
+  "aspect_ratio": 1.498,
+  "image_size": "1200x801",
+  "error": null
+}

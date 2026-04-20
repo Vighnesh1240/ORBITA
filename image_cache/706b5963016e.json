@@ -1,0 +1,16 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "text"
+  ],
+  "narrative_suggested": "The image displays the name of a publication, suggesting it is the source of the article.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 1.0,
+  "description": "The image contains the text 'THE ECONOMIC TIMES' in a large, serif font.",
+  "image_url": "https://img.etimg.com/photo/msid-76920425,quality-100/et-logo.jpg",
+  "error": null
+}

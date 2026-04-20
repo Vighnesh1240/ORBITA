@@ -49,23 +49,42 @@ def get_cached_result(topic: str) -> dict | None:
 
 
 def save_to_cache(topic: str, result: dict) -> None:
-    """Save a pipeline result to the cache."""
+    """
+    Save a pipeline result to the cache.
+
+    MODIFIED: Now also caches nlp_analysis so NLP charts
+    work correctly when loading from cache.
+    """
     path = _cache_path(topic)
 
-    # Strip large fields that shouldn't be cached
-    # (retrieved_chunks are large and not needed for display)
+    # Strip large fields not needed for display
     cacheable = {
         "report":   result.get("report", {}),
         "articles": [
             {k: v for k, v in a.items() if k != "full_text"}
             for a in result.get("articles", [])
         ],
-        "stats":  result.get("stats", {}),
-        "topic":  result.get("topic", ""),
-        "intent": result.get("intent", {}),
+        "stats":        result.get("stats",        {}),
+        "topic":        result.get("topic",        ""),
+        "intent":       result.get("intent",       {}),
+        "phase_timings": result.get("phase_timings", {}),
+        "elapsed_seconds": result.get("elapsed_seconds", 0),
+
+        # NEW: cache NLP analysis for chart display
+        # Remove large intermediate objects, keep display data
+        "nlp_analysis": _make_nlp_cacheable(
+            result.get("nlp_analysis", {})
+        ),
+
+        # Keep image summary but not raw image bytes
+        "image_analysis": {
+            k: v for k, v in
+            result.get("image_analysis", {}).items()
+            if k != "article_analyses"
+        },
     }
 
-    # Remove retrieved_chunks from agent outputs
+    # Remove retrieved_chunks from agent outputs (too large)
     report = cacheable.get("report", {})
     for agent_key in ("agent_a", "agent_b", "agent_c"):
         if agent_key in report:
@@ -77,12 +96,68 @@ def save_to_cache(topic: str, result: dict) -> None:
     try:
         with open(path, "w", encoding="utf-8") as f:
             json.dump(
-                {"cached_at": datetime.now().isoformat(), "result": cacheable},
-                f, indent=2, ensure_ascii=False
+                {
+                    "cached_at": datetime.now().isoformat(),
+                    "result":    cacheable,
+                },
+                f,
+                indent        = 2,
+                ensure_ascii  = False,
             )
         print(f"[cache] Saved result for '{topic}'")
     except Exception as e:
         print(f"[cache] Save failed: {e}")
+
+
+def _make_nlp_cacheable(nlp_results: dict) -> dict:
+    """
+    Make nlp_results safe to cache — remove huge objects.
+
+    Keeps all display data, removes raw intermediate data.
+    """
+    if not nlp_results:
+        return {}
+
+    return {
+        # Keep all display data
+        "per_article_sentiment":  nlp_results.get(
+            "per_article_sentiment", []
+        ),
+        "sentiment_summary":      nlp_results.get(
+            "sentiment_summary",     {}
+        ),
+        "manual_bias":            nlp_results.get(
+            "manual_bias",           {}
+        ),
+        "gemini_validation":      nlp_results.get(
+            "gemini_validation",     {}
+        ),
+        "keyword_analysis": {
+            # Keep top keywords and word frequencies
+            "top_keywords":     nlp_results.get(
+                "keyword_analysis", {}
+            ).get("top_keywords",     []),
+            "word_frequencies": nlp_results.get(
+                "keyword_analysis", {}
+            ).get("word_frequencies", {}),
+            "per_stance":       nlp_results.get(
+                "keyword_analysis", {}
+            ).get("per_stance",       {}),
+        },
+        "entity_analysis": {
+            # Keep top entities and by_type
+            "top_entities": nlp_results.get(
+                "entity_analysis", {}
+            ).get("top_entities", []),
+            "by_type":      nlp_results.get(
+                "entity_analysis", {}
+            ).get("by_type",      {}),
+        },
+        # Keep metadata
+        "elapsed_seconds": nlp_results.get("elapsed_seconds", 0),
+        "n_articles":      nlp_results.get("n_articles",      0),
+        "libraries_used":  nlp_results.get("libraries_used",  {}),
+    }
 
 
 def list_cached_topics() -> list[dict]:

@@ -1,0 +1,20 @@
+{
+  "emotional_tone": "negative",
+  "visual_framing": "threat",
+  "subjects_detected": [
+    "Ruja Ignatova"
+  ],
+  "narrative_suggested": "The image suggests a narrative of a wanted fugitive accused of serious financial crimes.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [
+    "FBI Ten Most Wanted Fugitive banner",
+    "mugshot-style photos",
+    "list of serious financial crimes"
+  ],
+  "visual_bias_score": 0.8,
+  "visual_bias_direction": "critical",
+  "confidence": 0.9,
+  "description": "The image is an FBI 'Ten Most Wanted Fugitive' poster featuring Ruja Ignatova, with three different photos of her and a list of charges including wire fraud and money laundering.",
+  "image_url": "https://s3.cointelegraph.com/uploads/2026-04/019d966e-f929-78e3-a222-c3f7d1cc365b.png",
+  "error": null
+}

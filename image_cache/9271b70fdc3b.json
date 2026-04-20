@@ -1,0 +1,19 @@
+{
+  "emotional_tone": "positive",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "text",
+    "icons"
+  ],
+  "narrative_suggested": "The image suggests a presentation of features and benefits related to a product or service, likely a car, with a focus on positive attributes.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [
+    "The use of icons next to each point suggests a structured and organized presentation of information, aiming for clarity and positive reception."
+  ],
+  "visual_bias_score": -0.15,
+  "visual_bias_direction": "supportive",
+  "confidence": 0.8,
+  "description": "The image displays a list of features or benefits, each accompanied by an icon. The overall presentation is clean and organized, with a gradient background that transitions from blue to orange, suggesting a modern and positive aesthetic.",
+  "image_url": "https://paultan.org/image/2026/04/Toyota-Urban-Cruiser-Malaysia-brochure-12-108x108.jpg",
+  "error": null
+}

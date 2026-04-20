@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-iran-peace-plan-capf-bill-and-finance-bill-10602999/",
+    "title": "UPSC Key: Iran peace plan, CAPF Bill and Finance Bill",
+    "source": "The Indian Express",
+    "stance": "Supportive",
+    "word_count": 5995,
+    "fact_density": 0.5103092783505154
+  },
+  {
+    "url": "https://economictimes.indiatimes.com/news/politics-and-nation/no-seat-gain-for-single-member-states-and-uts-in-delimitation/articleshow/129786329.cms",
+    "title": "No seat gain for single-member states and UTs in delimitation",
+    "source": "The Times of India",
+    "stance": "Supportive",
+    "word_count": 614,
+    "fact_density": 0.48484848484848486
+  },
+  {
+    "url": "https://indianexpress.com/article/political-pulse/congress-shrinks-assam-2024-boost-bjp-pole-position-2026-10596626/",
+    "title": "As Congress shrinks in Assam, how 2024 boost has put BJP in pole position in 2026",
+    "source": "The Indian Express",
+    "stance": "Supportive",
+    "word_count": 464,
+    "fact_density": 0.8947368421052632
+  },
+  {
+    "url": "https://economictimes.indiatimes.com/news/politics-and-nation/govt-wants-to-bring-bill-aimed-at-winning-2029-polls-opposition-must-reject-political-move-kapil-sibal/articleshow/130256757.cms",
+    "title": "Govt wants to bring bill aimed at winning 2029 polls, Opposition must reject 'political move': Kapil Sibal",
+    "source": "The Times of India",
+    "stance": "Critical",
+    "word_count": 902,
+    "fact_density": 0.46511627906976744
+  },
+  {
+    "url": "https://indianexpress.com/article/political-pulse/govt-bills-delimitation-expanded-lok-sabha-womens-quota-rollout-10636393/",
+    "title": "Bills on delimitation, expanded Lok Sabha, women’s quota rollout revealed: What they say",
+    "source": "The Indian Express",
+    "stance": "Neutral",
+    "word_count": 944,
+    "fact_density": 0.3783783783783784
+  },
+  {
+    "url": "https://economictimes.indiatimes.com/news/india/lok-sabha-adjourned-to-meet-again-on-april-16/articleshow/129983587.cms",
+    "title": "Lok Sabha adjourned, to meet again on April 16",
+    "source": "The Times of India",
+    "stance": "Neutral",
+    "word_count": 400,
+    "fact_density": 0.4
+  },
+  {
+    "url": "https://economictimes.indiatimes.com/news/politics-and-nation/delimitation-women-reservation-bill-southern-states-backs-50-seat-hike-seeks-share-status-quo/articleshow/129786240.cms",
+    "title": "Delimitation & women reservation bill: Southern states backs 50% seat hike, seeks share status quo",
+    "source": "The Times of India",
+    "stance": "Neutral",
+    "word_count": 736,
+    "fact_density": 0.46875
+  },
+  {
+    "url": "https://economictimes.indiatimes.com/news/india/cabinet-clears-131st-amendment-delimitation-bills-for-33-womens-quota-rollout-from-2029/articleshow/130122221.cms",
+    "title": "Cabinet clears 131st Amendment, Delimitation bills for 33% women’s quota, rollout from 2029",
+    "source": "The Times of India",
+    "stance": "Neutral",
+    "word_count": 568,
+    "fact_density": 0.5
+  },
+  {
+    "url": "https://indianexpress.com/article/political-pulse/tamil-nadu-polls-dmk-2024-lok-sabha-results-10595434/",
+    "title": "Is a DMK return on the cards in Tamil Nadu? What 2024 Lok Sabha poll results say about the contest",
+    "source": "The Indian Express",
+    "stance": "Neutral",
+    "word_count": 601,
+    "fact_density": 0.9047619047619048
+  },
+  {
+    "url": "https://indianexpress.com/article/political-pulse/christians-kerala-parties-opposed-govt-drops-new-fcra-bill-debate-10614029/",
+    "title": "Christians, Kerala parties opposed, Govt drops new FCRA Bill debate",
+    "source": "The Indian Express",
+    "stance": "Neutral",
+    "word_count": 569,
+    "fact_density": 0.2
+  }
+]

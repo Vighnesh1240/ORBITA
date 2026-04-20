@@ -1,0 +1,14 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [],
+  "narrative_suggested": "Analysis unavailable",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.0,
+  "description": "Gemini Vision API unavailable",
+  "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/04/2008-12-31T120000Z_1660655994_GM1E4CV1M7901_RTRMADP_3_KASHMIR-1775652626.jpg?resize=770%2C513&quality=80",
+  "error": "API unavailable"
+}

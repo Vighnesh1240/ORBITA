@@ -1,0 +1,119 @@
+{
+  "topic": "UPI digital payments India",
+  "timestamp": "2026-04-18T17:14:49",
+  "bias_accuracy": {
+    "predicted_bias": -0.6449,
+    "expected_bias": 0.0714,
+    "ground_truth_type": "source_level",
+    "mae": 0.7163,
+    "directional_correct": false,
+    "sources_matched": 7,
+    "sources_total": 10,
+    "source_coverage": 0.7,
+    "matched_sources": [
+      {
+        "source": "BusinessLine",
+        "bias": 0.1
+      },
+      {
+        "source": "BusinessLine",
+        "bias": 0.1
+      },
+      {
+        "source": "BusinessLine",
+        "bias": 0.1
+      },
+      {
+        "source": "BusinessLine",
+        "bias": 0.1
+      },
+      {
+        "source": "The Times of India",
+        "bias": 0.05
+      },
+      {
+        "source": "The Times of India",
+        "bias": 0.05
+      },
+      {
+        "source": "Android Central",
+        "bias": 0.0
+      }
+    ],
+    "topic_ground_truth": {
+      "expected_score": -0.4,
+      "expected_direction": "supportive",
+      "confidence": "high",
+      "domain": "indian_technology",
+      "notes": "UPI coverage is predominantly positive — success story framing dominates. Critical coverage focuses only on fraud/sustainability concerns which are minor themes."
+    }
+  },
+  "synthesis_quality": {
+    "word_count": 268,
+    "sentence_count": 11,
+    "covers_both_sides": true,
+    "hallucination_rate": 1.0667,
+    "hallucination_count": 16,
+    "rouge_scores": {
+      "rouge_1": {
+        "precision": 0.1825,
+        "recall": 0.463,
+        "f1": 0.2618
+      },
+      "rouge_2": {
+        "precision": 0.033,
+        "recall": 0.0841,
+        "f1": 0.0474
+      },
+      "rouge_l": {
+        "precision": 0.0912,
+        "recall": 0.2315,
+        "f1": 0.1309
+      }
+    },
+    "synthesis_preview": "The Unified Payments Interface (UPI) has established itself as a cornerstone of India's digital economy, facilitating a massive volume of transactions..."
+  },
+  "coverage_diversity": {
+    "n_articles": 10,
+    "stance_counts": {
+      "Supportive": 7,
+      "Critical": 0,
+      "Neutral": 3
+    },
+    "stance_entropy": 0.556,
+    "unique_sources": 6,
+    "source_diversity": 0.8454,
+    "full_stance_coverage": false,
+    "total_chunks": 30
+  },
+  "argument_quality": {
+    "n_supporting_args": 11,
+    "n_counter_args": 4,
+    "total_arguments": 15,
+    "argument_balance": 0.5333,
+    "agent_a_confidence": 0.996,
+    "agent_b_confidence": 0.6,
+    "mean_confidence": 0.798,
+    "loaded_lang_removed": 0,
+    "hallucination_flags": 16,
+    "key_agreements": 3,
+    "key_disagreements": 2
+  },
+  "performance": {
+    "elapsed_seconds": 65.5,
+    "n_articles": 10,
+    "total_chunks": 30,
+    "throughput_articles_per_sec": 0.153
+  },
+  "overall_score": {
+    "score": 0.4523,
+    "grade": "D (Needs Improvement)",
+    "components": {
+      "bias_accuracy": 0.2837,
+      "synthesis_quality": 0.3324,
+      "coverage_diversity": 0.6718,
+      "argument_quality": 0.6657
+    },
+    "notes": "High MAE (0.72) — bias score differs significantly from ground truth; Directional error — got wrong side of bias; High hallucination rate (107%)"
+  }
+}

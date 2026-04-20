@@ -1,0 +1,15 @@
+{
+  "image_url": "https://s.yimg.com/ny/api/res/1.2/BrxO98WqSfGn5r4sMPDImA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-12/2b82d430-3567-11eb-be1f-26e8c03de24e",
+  "visual_bias_score": 0.0,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.0,
+  "description": "Skipped: Image too small: 128x48",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.33,
+    0.34,
+    0.33
+  ],
+  "error": "Image too small: 128x48"
+}

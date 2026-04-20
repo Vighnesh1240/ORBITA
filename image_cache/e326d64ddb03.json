@@ -1,0 +1,18 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "man",
+    "rupee symbol",
+    "coins"
+  ],
+  "narrative_suggested": "The image shows a large rupee symbol with various coins displayed around it, suggesting a focus on currency and finance.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.9,
+  "description": "A large, golden rupee symbol is prominently displayed on a textured wall, surrounded by various Indian coins. A man is partially visible in the foreground, out of focus, looking towards the display.",
+  "image_url": "https://bl-i.thgim.com/public/incoming/ed4m2t/article70761061.ece/alternates/LANDSCAPE_1200/2025-09-03T142614Z_680894021_RC26UDA3LNCO_RTRMADP_3_INDIA-RBI-LIQUIDITY.JPG",
+  "error": null
+}

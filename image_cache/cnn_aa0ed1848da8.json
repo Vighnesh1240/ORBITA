@@ -1,0 +1,15 @@
+{
+  "image_url": "https://www.medianama.com/wp-content/uploads/2024/05/cropped-logo-1.png",
+  "visual_bias_score": 0.0,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.0,
+  "description": "Skipped: Image too small: 201x40",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.33,
+    0.34,
+    0.33
+  ],
+  "error": "Image too small: 201x40"
+}

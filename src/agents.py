@@ -3,6 +3,10 @@
 import os
 import json
 from datetime import datetime
+try:
+    from .chain_of_thought import ORBITACoT, CoTStepType
+except ImportError:
+    from chain_of_thought import ORBITACoT, CoTStepType
 
 try:
     from .agent_a     import run_agent_a
@@ -150,55 +154,150 @@ def print_final_report(report: dict) -> None:
     print(f"\n{sep}\n")
 
 
-def run_all_agents(topic: str) -> dict:
-    """
-    Master function. Runs all three agents in sequence.
+# src/agents.py
+# ADD visual_context parameter to run_all_agents
 
-    Args:
-        topic: the topic string from intent decoder
+# existing imports stay the same...
 
-    Returns:
-        complete report dict with all agent outputs merged
-    """
+def run_all_agents(
+    topic:          str,
+    visual_context: str = "",
+    nlp_context:    str = "",
+) -> dict:
+
     print("\n" + "=" * 65)
     print("  ORBITA — Step 4: Multi-Agent RAG Synthesis")
     print("=" * 65)
 
-    # Validate ChromaDB has data
+    # ── Initialize Chain of Thought ───────────────────────────────
+    cot = ORBITACoT(topic=topic)
+    cot.start_step_timer()
+
+    cot.add_pipeline_step(
+        phase   = "Phase 4",
+        title   = "Multi-Agent RAG Synthesis Started",
+        detail  = (
+            f"Topic: {topic}\n"
+            f"Visual context: {'Yes' if visual_context else 'No'}\n"
+            f"NLP context: {'Yes' if nlp_context else 'No'}"
+        ),
+        evidence= [
+            f"Topic: {topic}",
+            f"Visual context available: {bool(visual_context)}",
+            f"NLP context available: {bool(nlp_context)}",
+        ],
+    )
+
+    # Validate ChromaDB
     print("\n[Preflight] Checking ChromaDB...")
     _validate_chromadb()
+    stats = get_collection_stats()
+
+    cot.add_step(
+        step_type  = CoTStepType.RETRIEVAL,
+        phase      = "Phase 4",
+        title      = (
+            f"ChromaDB Ready — {stats['total_chunks']} chunks"
+        ),
+        detail     = (
+            f"Vector store verified.\n"
+            f"Total chunks: {stats['total_chunks']}\n"
+            f"Stance breakdown: {stats['by_stance']}"
+        ),
+        evidence   = [
+            f"Total chunks: {stats['total_chunks']}",
+            f"Supportive: {stats['by_stance'].get('Supportive', 0)}",
+            f"Critical:   {stats['by_stance'].get('Critical', 0)}",
+            f"Neutral:    {stats['by_stance'].get('Neutral', 0)}",
+        ],
+        confidence = 1.0,
+        agent      = "Pipeline",
+    )
 
     # Run Agent A
-    agent_a_output = run_agent_a(topic)
+    agent_a_output = run_agent_a(
+        topic          = topic,
+        visual_context = visual_context,
+        nlp_context    = nlp_context,
+        cot            = cot,           # PASS COT
+    )
 
     # Run Agent B
-    agent_b_output = run_agent_b(topic)
+    agent_b_output = run_agent_b(
+        topic          = topic,
+        visual_context = visual_context,
+        nlp_context    = nlp_context,
+        cot            = cot,           # PASS COT
+    )
 
-    # Run Agent C (receives A and B outputs)
+    # Run Agent C
     agent_c_output = run_agent_c(
         topic          = topic,
         agent_a_output = agent_a_output,
         agent_b_output = agent_b_output,
+        visual_context = visual_context,
+        nlp_context    = nlp_context,
+        cot            = cot,           # PASS COT
     )
 
-    # Merge everything into one report
+    # Final CoT steps
+    bias_score     = agent_c_output.get("bias_score", 0.0)
+    bias_vector    = agent_c_output.get("bias_vector", {})
+    interpretation = bias_vector.get("interpretation", "Unknown")
+    synthesis      = agent_c_output.get("synthesis_report", "")
+    val_note       = agent_c_output.get("nlp_validation_note", "")
+    flags          = agent_c_output.get("hallucination_flags", [])
+
+    cot.add_synthesis_step(
+        n_words          = len(synthesis.split()),
+        n_hallucinations = len(flags),
+        validation_note  = val_note,
+    )
+
+    cot.add_decision_step(
+        final_score    = bias_score,
+        interpretation = interpretation,
+        reasoning      = (
+            f"Final composite bias score computed from:\n"
+            f"• Ideological bias (stance distribution)\n"
+            f"• Emotional bias (language analysis)\n"
+            f"• Source diversity (perspective coverage)\n"
+            f"• VADER validation (independent NLP)\n"
+            f"Score {bias_score:+.4f} interpreted as: {interpretation}"
+        ),
+        dimensions     = {
+            "Ideological":  f"{bias_vector.get('ideological_bias', 0):+.4f}",
+            "Emotional":    f"{bias_vector.get('emotional_bias', 0):.4f}",
+            "Diversity":    f"{bias_vector.get('source_diversity', 0):.4f}",
+            "Entropy":      f"{bias_vector.get('stance_entropy', 0):.4f}",
+        },
+    )
+
+    # Print chain for debugging
+    cot.print_chain()
+
+    # Build report
     report = {
-        "topic":      topic,
-        "bias_score": agent_c_output.get("bias_score", 0.0),
+        "topic":                   topic,
+        "bias_score":              bias_score,
+        "bias_vector":             bias_vector,
         "synthesis_report":        agent_c_output.get("synthesis_report", ""),
         "loaded_language_removed": agent_c_output.get("loaded_language_removed", []),
         "key_agreements":          agent_c_output.get("key_agreements", []),
         "key_disagreements":       agent_c_output.get("key_disagreements", []),
         "source_citations":        agent_c_output.get("source_citations", []),
-        "hallucination_flags":     agent_c_output.get("hallucination_flags", []),
-        "agent_a": agent_a_output,
-        "agent_b": agent_b_output,
-        "agent_c": agent_c_output,
+        "hallucination_flags":     flags,
+        "nlp_validation_note":     val_note,
+        "visual_context":          visual_context,
+        "nlp_context_used":        bool(nlp_context),
+        "chain_of_thought":        cot.get_chain(),   # SAVE COT
+        "cot_summary":             cot.get_summary(), # SAVE SUMMARY
+        "agent_a":                 agent_a_output,
+        "agent_b":                 agent_b_output,
+        "agent_c":                 agent_c_output,
     }
 
-    # Print and save
     print_final_report(report)
-    save_report(report, topic)
 
     return report
 

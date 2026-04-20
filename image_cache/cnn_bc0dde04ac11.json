@@ -1,0 +1,24 @@
+{
+  "image_url": "https://bl-i.thgim.com/public/news/5nhcxh/article70803159.ece/alternates/LANDSCAPE_1200/HD%20Kumaraswamy.jpeg",
+  "visual_bias_score": 0.2686,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3433,
+  "description": "India\u2019s electric mobility transition mus \u2014 moderate-light image, high contrast, CNN: negative sentiment",
+  "cnn_class": "negative",
+  "cnn_probabilities": [
+    0.3188,
+    0.3379,
+    0.3433
+  ],
+  "cnn_confidence": 0.3433,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.1298,
+  "brightness": 118.4,
+  "is_dark": false,
+  "contrast": 0.6555,
+  "edge_density": 0.1827,
+  "aspect_ratio": 1.778,
+  "image_size": "1200x675",
+  "error": null
+}

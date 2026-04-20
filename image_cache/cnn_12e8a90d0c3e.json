@@ -1,0 +1,24 @@
+{
+  "image_url": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/03/Kuttner-AI-032423.jpg?fit=2120%2C1414&ssl=1",
+  "visual_bias_score": 0.1269,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3497,
+  "description": "Who Will Govern AI? \u2014 moderate-light image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.314,
+    0.3497,
+    0.3363
+  ],
+  "cnn_confidence": 0.3497,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.3625,
+  "brightness": 110.0,
+  "is_dark": false,
+  "contrast": 0.2778,
+  "edge_density": 0.128,
+  "aspect_ratio": 1.499,
+  "image_size": "2120x1414",
+  "error": null
+}

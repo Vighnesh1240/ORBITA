@@ -1,0 +1,374 @@
+{
+  "cached_at": "2026-04-20T18:01:43.574316",
+  "result": {
+    "report": {
+      "topic": "Crypto Regulation India",
+      "bias_score": -0.7529,
+      "synthesis_report": "The regulatory landscape for cryptocurrencies in India, particularly concerning offshore platforms and stablecoins, remains a complex and evolving area. Agent A highlights that engaging in offshore betting or gambling is prohibited under the Foreign Exchange Management Act, 1999 (FEMA). Furthermore, the act of purchasing cryptocurrencies like USDT in India and transferring them to offshore custodial wallets is considered a capital account transaction, which is traceable by Indian tax authorities and the Reserve Bank of India (RBI). This cautious stance is echoed by the RBI Governor, who has indicated a very cautious approach towards cryptocurrencies, including stablecoins. The aggressive targeting of Indian users by offshore real-money gaming platforms, even after a ban, underscores the challenges in controlling such activities. Agent B corroborates the traceability of such transactions by tax authorities and the RBI, and also points out that accessing offshore prediction market platforms from India exists in a legal grey area. Payment challenges are also noted for transactions involving cryptocurrencies on offshore platforms. Both agents agree on the RBI's cautious approach to cryptocurrencies and stablecoins, and the traceability of crypto transactions to offshore platforms by Indian authorities. The core disagreement lies in the explicit prohibition versus a legal grey area for accessing offshore prediction markets, though both acknowledge the difficulty in regulation and oversight.",
+      "loaded_language_removed": [],
+      "key_agreements": [
+        "Transactions involving cryptocurrencies on offshore platforms are traceable by Indian authorities (I-T department or RBI).",
+        "The Reserve Bank of India is adopting a very cautious approach toward cryptocurrencies, including stablecoins."
+      ],
+      "key_disagreements": [
+        "Agent A implies offshore betting/gambling via crypto is explicitly prohibited under FEMA, while Agent B states accessing offshore prediction markets is a legal grey area."
+      ],
+      "source_citations": [
+        "[1]",
+        "[2]",
+        "[3]",
+        "[5]"
+      ],
+      "hallucination_flags": [
+        "The Reserve Bank of India is adopting a very cautious approach toward cryptocurrencies, including stablecoins.",
+        "The Reserve Bank of India Governor stated that the organization was adopting a very cautious approach toward cryptocurrencies, including stablecoins.",
+        "Betting or gambling in an offshore market is prohibited under the Foreign Exchange Management Act, 1999 (FEMA).",
+        "Transactions use cryptocurrencies, posing payment challenges.",
+        "A Mumbai-based lawyer said betting or gambling in an offshore market is prohibited under the Foreign Exchange Management Act, 1999 (FEMA).",
+        "Regulators began to catch on to crypto risks by late 2015, with several national financial regulators investigating projects like OneCoin by 2016.",
+        "Victims of the OneCoin Ponzi scam in the United States are finally receiving compensation, with $40 million in assets available to eligible purchasers.",
+        "Accessing these sites from India is a legal grey area.",
+        "India’s central bank and banking regulator — was “adopting a very cautious approach” toward cryptocurrencies, stablecoins included.",
+        "Transactions using cryptocurrencies on offshore platforms pose payment challenges.",
+        "Indians who buy USDT or other cryptocurrencies in India and move the digital coins to a custodial wallet of an offshore platform are undertaking a capital account transaction, which can be tracked by the I-T department or RBI.",
+        "Accessing offshore prediction market platforms from India is a legal grey area.",
+        "Offshore real-money gaming players are aggressively targeting Indian users during the IPL season with betting games available in multiple Indian languages, showing little sign of slowing down even after the RMG ban.",
+        "Transactions using cryptocurrencies pose payment challenges for offshore platforms targeting Indian users.",
+        "Indians who buy USDT or other cryptocurrencies in India and move the digital coins to the custodial wallet of Polymarket are undertaking a capital account transaction, which can be tracked by the I-T department or RBI.",
+        "Global economists suggest that digital assets and their underlying blockchain infrastructure may be entering a cycle of risks associated with integrating on-chain assets into the traditional financial system.",
+        "“Indians who buy USDT or other cryptocurrencies in India and move the digital coins to the custodial wallet of Polymarket are undertaking a capital account transaction,” he explained, adding that such activity can be tracked by the I-T department, or RBI (Rese"
+      ],
+      "agent_a": {
+        "arguments": [
+          "Betting or gambling in an offshore market is prohibited under the Foreign Exchange Management Act, 1999 (FEMA).",
+          "Indians who buy USDT or other cryptocurrencies in India and move the digital coins to a custodial wallet of an offshore platform are undertaking a capital account transaction, which can be tracked by the I-T department or RBI.",
+          "The Reserve Bank of India Governor stated that the organization was adopting a very cautious approach toward cryptocurrencies, including stablecoins.",
+          "Offshore real-money gaming players are aggressively targeting Indian users during the IPL season with betting games available in multiple Indian languages, showing little sign of slowing down even after the RMG ban.",
+          "Accessing offshore prediction market platforms from India is a legal grey area.",
+          "Transactions using cryptocurrencies pose payment challenges for offshore platforms targeting Indian users.",
+          "Global economists suggest that digital assets and their underlying blockchain infrastructure may be entering a cycle of risks associated with integrating on-chain assets into the traditional financial system.",
+          "Regulators began to catch on to crypto risks by late 2015, with several national financial regulators investigating projects like OneCoin by 2016.",
+          "Victims of the OneCoin Ponzi scam in the United States are finally receiving compensation, with $40 million in assets available to eligible purchasers."
+        ],
+        "evidence": [
+          "A Mumbai-based lawyer said betting or gambling in an offshore market is prohibited under the Foreign Exchange Management Act, 1999 (FEMA).",
+          "“Indians who buy USDT or other cryptocurrencies in India and move the digital coins to the custodial wallet of Polymarket are undertaking a capital account transaction,” he explained, adding that such activity can be tracked by the I-T department, or RBI (Rese",
+          "the Reserve Bank of India Governor Sanjay Malhotra said in a speech last year that his organization — India’s central bank and banking regulator — was “adopting a very cautious approach” toward cryptocurrencies, stablecoins included.",
+          "Offshore RMG players like Parimatch, 1XBet, and Stake also target Indian users during IPL season with betting games on the platform available in multiple Indian languages. ET reported on March 6 that these entities have shown little sign of slowing down even after the RMG ban last October, and are aggressively tapping digital ads and micro-influencers for marketing and promotions.",
+          "These sites allow wagers on match winners and player stats. This trend emerges after India banned real-money gaming. Offshore platforms are also active. Accessing these sites from India is a legal grey area.",
+          "Transactions use cryptocurrencies, posing payment challenges.",
+          "a growing body of research by global economists suggests digital assets and their underlying blockchain infrastructure may be entering that same cycle. And the findings are aligned around the risks that could come from integrating on-chain assets into the traditional financial system.",
+          "Regulators began to catch on by late 2015. Bulgaria's Financial Supervision Commission issued a warning about OneCoin, after which the company ceased all operations in the country. By 2016, several other national financial regulators also had OneCoin on their lists. By year’s end, Norway, Bulgaria, Finland, Sweden and Latvia were all investigating the project.",
+          "In the United States, victims of the $4 billion crypto Ponzi scam OneCoin are finally receiving compensation. On April 13, the US Department of Justice said that $40 million in assets are available to anyone who purchased OneCoin between 2014 and 2019 and experienced a net loss."
+        ],
+        "key_sources": [
+          "The Times of India",
+          "pymnts.com",
+          "Cointelegraph"
+        ],
+        "confidence_score": 0.8,
+        "nlp_validated_arguments": [
+          "The Reserve Bank of India Governor stated that the organization was adopting a very cautious approach toward cryptocurrencies, including stablecoins."
+        ],
+        "top_entities_referenced": [
+          "Polymarket",
+          "RBI",
+          "I-T department",
+          "US",
+          "IPL",
+          "OneCoin",
+          "European Central Bank",
+          "Financial Stability Board",
+          "IMF",
+          "US Department of Justice",
+          "Federal Bureau of Investigation"
+        ],
+        "argument_traces": [
+          {
+            "argument": "Betting or gambling in an offshore market is prohibited under the Foreign Exchange Management Act, 1999 (FEMA).",
+            "evidence": "A Mumbai-based lawyer said betting or gambling in an offshore market is prohibited under the Foreign Exchange Management Act, 1999 (FEMA).",
+            "source": "The Times of India",
+            "url": "https://economictimes.indiatimes.com/tech/startups/us-prediction-market-players-make-a-play-for-indian-ipl-fans/articleshow/130067344.cms"
+          },
+          {
+            "argument": "Indians who buy USDT or other cryptocurrencies in India and move the digital coins to a custodial wallet of an offshore platform are undertaking a capital account transaction, which can be tracked by the I-T department or RBI.",
+            "evidence": "“Indians who buy USDT or other cryptocurrencies in India and move the digital coins to the custodial wallet of Polymarket are undertaking a capital account transaction,” he explained, adding that such activity can be tracked by the I-T department, or RBI (Rese",
+            "source": "The Times of India",
+            "url": "https://economictimes.indiatimes.com/tech/startups/us-prediction-market-players-make-a-play-for-indian-ipl-fans/articleshow/130067344.cms"
+          },
+          {
+            "argument": "The Reserve Bank of India Governor stated that the organization was adopting a very cautious approach toward cryptocurrencies, including stablecoins.",
+            "evidence": "the Reserve Bank of India Governor Sanjay Malhotra said in a speech last year that his organization — India’s central bank and banking regulator — was “adopting a very cautious approach” toward cryptocurrencies, stablecoins included.",
+            "source": "pymnts.com",
+            "url": "https://www.pymnts.com/blockchain/2026/imf-warns-crypto-risks-could-trigger-financial-instability/"
+          },
+          {
+            "argument": "Offshore real-money gaming players are aggressively targeting Indian users during the IPL season with betting games available in multiple Indian languages, showing little sign of slowing down even after the RMG ban.",
+            "evidence": "Offshore RMG players like Parimatch, 1XBet, and Stake also target Indian users during IPL season with betting games on the platform available in multiple Indian languages. ET reported on March 6 that these entities have shown little sign of slowing down even after the RMG ban last October, and are aggressively tapping digital ads and micro-influencers for marketing and promotions.",
+            "source": "The Times of India",
+            "url": "https://economictimes.indiatimes.com/tech/startups/us-prediction-market-players-make-a-play-for-indian-ipl-fans/articleshow/130067344.cms"
+          },
+          {
+            "argument": "Accessing offshore prediction market platforms from India is a legal grey area.",
+            "evidence": "These sites allow wagers on match winners and player stats. This trend emerges after India banned real-money gaming. Offshore platforms are also active. Accessing these sites from India is a legal grey area.",
+            "source": "The Times of India",
+            "url": "https://economictimes.indiatimes.com/tech/startups/us-prediction-market-players-make-a-play-for-indian-ipl-fans/articleshow/130067344.cms"
+          },
+          {
+            "argument": "Transactions using cryptocurrencies pose payment challenges for offshore platforms targeting Indian users.",
+            "evidence": "Transactions use cryptocurrencies, posing payment challenges.",
+            "source": "The Times of India",
+            "url": "https://economictimes.indiatimes.com/tech/startups/us-prediction-market-players-make-a-play-for-indian-ipl-fans/articleshow/130067344.cms"
+          },
+          {
+            "argument": "Global economists suggest that digital assets and their underlying blockchain infrastructure may be entering a cycle of risks associated with integrating on-chain assets into the traditional financial system.",
+            "evidence": "a growing body of research by global economists suggests digital assets and their underlying blockchain infrastructure may be entering that same cycle. And the findings are aligned around the risks that could come from integrating on-chain assets into the traditional financial system.",
+            "source": "pymnts.com",
+            "url": "https://www.pymnts.com/blockchain/2026/imf-warns-crypto-risks-could-trigger-financial-instability/"
+          },
+          {
+            "argument": "Regulators began to catch on to crypto risks by late 2015, with several national financial regulators investigating projects like OneCoin by 2016.",
+            "evidence": "Regulators began to catch on by late 2015. Bulgaria's Financial Supervision Commission issued a warning about OneCoin, after which the company ceased all operations in the country. By 2016, several other national financial regulators also had OneCoin on their lists. By year’s end, Norway, Bulgaria, Finland, Sweden and Latvia were all investigating the project.",
+            "source": "Cointelegraph",
+            "url": "https://cointelegraph.com/features/onecoin-fallout-lingers-us-victims-recovery"
+          },
+          {
+            "argument": "Victims of the OneCoin Ponzi scam in the United States are finally receiving compensation, with $40 million in assets available to eligible purchasers.",
+            "evidence": "In the United States, victims of the $4 billion crypto Ponzi scam OneCoin are finally receiving compensation. On April 13, the US Department of Justice said that $40 million in assets are available to anyone who purchased OneCoin between 2014 and 2019 and experienced a net loss.",
+            "source": "Cointelegraph",
+            "url": "https://cointelegraph.com/features/onecoin-fallout-lingers-us-victims-recovery"
+          }
+        ],
+        "visual_context_used": true,
+        "nlp_context_used": false
+      },
+      "agent_b": {
+        "counter_arguments": [
+          "Indians who buy USDT or other cryptocurrencies in India and move the digital coins to the custodial wallet of Polymarket are undertaking a capital account transaction, which can be tracked by the I-T department or RBI.",
+          "Accessing offshore prediction market platforms from India is a legal grey area.",
+          "Transactions using cryptocurrencies on offshore platforms pose payment challenges.",
+          "The Reserve Bank of India is adopting a very cautious approach toward cryptocurrencies, including stablecoins.",
+          "A growing body of research by global economists suggests digital assets and their underlying blockchain infrastructure may be entering a cycle aligned around the risks that could come from integrating on-chain assets into the traditional financial system."
+        ],
+        "evidence": [
+          "“Indians who buy USDT or other cryptocurrencies in India and move the digital coins to the custodial wallet of Polymarket are undertaking a capital account transaction,” he explained, adding that such activity can be tracked by the I-T department, or RBI (Rese",
+          "Accessing these sites from India is a legal grey area.",
+          "Transactions use cryptocurrencies, posing payment challenges.",
+          "India’s central bank and banking regulator — was “adopting a very cautious approach” toward cryptocurrencies, stablecoins included.",
+          "Now, a growing body of research by global economists suggests digital assets and their underlying blockchain infrastructure may be entering that same cycle. And the findings are aligned around the risks that could come from integrating on-chain assets into the traditional financial system."
+        ],
+        "key_sources": [
+          "The Times of India",
+          "pymnts.com"
+        ],
+        "confidence_score": 0.8,
+        "nlp_validated_counter_arguments": [
+          "Indians who buy USDT or other cryptocurrencies in India and move the digital coins to the custodial wallet of Polymarket are undertaking a capital account transaction, which can be tracked by the I-T department or RBI."
+        ],
+        "top_critical_entities": [
+          "RBI",
+          "I-T department",
+          "Polymarket"
+        ],
+        "visual_context_used": true,
+        "nlp_context_used": false
+      },
+      "agent_c": {
+        "synthesis_report": "The regulatory landscape for cryptocurrencies in India, particularly concerning offshore platforms and stablecoins, remains a complex and evolving area. Agent A highlights that engaging in offshore betting or gambling is prohibited under the Foreign Exchange Management Act, 1999 (FEMA). Furthermore, the act of purchasing cryptocurrencies like USDT in India and transferring them to offshore custodial wallets is considered a capital account transaction, which is traceable by Indian tax authorities and the Reserve Bank of India (RBI). This cautious stance is echoed by the RBI Governor, who has indicated a very cautious approach towards cryptocurrencies, including stablecoins. The aggressive targeting of Indian users by offshore real-money gaming platforms, even after a ban, underscores the challenges in controlling such activities. Agent B corroborates the traceability of such transactions by tax authorities and the RBI, and also points out that accessing offshore prediction market platforms from India exists in a legal grey area. Payment challenges are also noted for transactions involving cryptocurrencies on offshore platforms. Both agents agree on the RBI's cautious approach to cryptocurrencies and stablecoins, and the traceability of crypto transactions to offshore platforms by Indian authorities. The core disagreement lies in the explicit prohibition versus a legal grey area for accessing offshore prediction markets, though both acknowledge the difficulty in regulation and oversight.",
+        "bias_score": -0.7529,
+        "loaded_language_removed": [],
+        "key_agreements": [
+          "Transactions involving cryptocurrencies on offshore platforms are traceable by Indian authorities (I-T department or RBI).",
+          "The Reserve Bank of India is adopting a very cautious approach toward cryptocurrencies, including stablecoins."
+        ],
+        "key_disagreements": [
+          "Agent A implies offshore betting/gambling via crypto is explicitly prohibited under FEMA, while Agent B states accessing offshore prediction markets is a legal grey area."
+        ],
+        "source_citations": [
+          "[1]",
+          "[2]",
+          "[3]",
+          "[5]"
+        ],
+        "hallucination_flags": [
+          "The Reserve Bank of India is adopting a very cautious approach toward cryptocurrencies, including stablecoins.",
+          "The Reserve Bank of India Governor stated that the organization was adopting a very cautious approach toward cryptocurrencies, including stablecoins.",
+          "Betting or gambling in an offshore market is prohibited under the Foreign Exchange Management Act, 1999 (FEMA).",
+          "Transactions use cryptocurrencies, posing payment challenges.",
+          "A Mumbai-based lawyer said betting or gambling in an offshore market is prohibited under the Foreign Exchange Management Act, 1999 (FEMA).",
+          "Regulators began to catch on to crypto risks by late 2015, with several national financial regulators investigating projects like OneCoin by 2016.",
+          "Victims of the OneCoin Ponzi scam in the United States are finally receiving compensation, with $40 million in assets available to eligible purchasers.",
+          "Accessing these sites from India is a legal grey area.",
+          "India’s central bank and banking regulator — was “adopting a very cautious approach” toward cryptocurrencies, stablecoins included.",
+          "Transactions using cryptocurrencies on offshore platforms pose payment challenges.",
+          "Indians who buy USDT or other cryptocurrencies in India and move the digital coins to a custodial wallet of an offshore platform are undertaking a capital account transaction, which can be tracked by the I-T department or RBI.",
+          "Accessing offshore prediction market platforms from India is a legal grey area.",
+          "Offshore real-money gaming players are aggressively targeting Indian users during the IPL season with betting games available in multiple Indian languages, showing little sign of slowing down even after the RMG ban.",
+          "Transactions using cryptocurrencies pose payment challenges for offshore platforms targeting Indian users.",
+          "Indians who buy USDT or other cryptocurrencies in India and move the digital coins to the custodial wallet of Polymarket are undertaking a capital account transaction, which can be tracked by the I-T department or RBI.",
+          "Global economists suggest that digital assets and their underlying blockchain infrastructure may be entering a cycle of risks associated with integrating on-chain assets into the traditional financial system.",
+          "“Indians who buy USDT or other cryptocurrencies in India and move the digital coins to the custodial wallet of Polymarket are undertaking a capital account transaction,” he explained, adding that such activity can be tracked by the I-T department, or RBI (Rese"
+        ],
+        "nlp_validation_note": "The manual synthesis aligns with the NLP analysis, indicating a balanced representation of arguments from both agents.",
+        "bias_vector": {
+          "ideological_bias": -0.6429,
+          "emotional_bias": 0.1217,
+          "informational_bias": 0.0,
+          "source_diversity": 0.944,
+          "stance_entropy": 0.0,
+          "composite_score": -0.7529,
+          "confidence": 0.8,
+          "interpretation": "Strongly Supportive",
+          "dimension_labels": {
+            "ideological": "Strongly Supportive",
+            "emotional": "Low Emotional Bias",
+            "informational": "Mostly Factual",
+            "diversity": "High Source Diversity"
+          }
+        },
+        "visual_context_used": true,
+        "nlp_context_used": false
+      }
+    },
+    "articles": [
+      {
+        "url": "https://cointelegraph.com/features/onecoin-fallout-lingers-us-victims-recovery",
+        "title": "OneCoin’s fallout lingers as US victims get a shot at recovery",
+        "source": "Cointelegraph",
+        "description": "Investors in the cryptocurrency Ponzi scheme OneCoin may finally get some relief through a Department of Justice program, some 12 years after the project launched.",
+        "raw_content": "In the United States, victims of the $4 billion crypto Ponzi scam OneCoin are finally receiving compensation. \r\nOn April 13, the US Department of Justice said that $40 million in assets are available… [+6253 chars]",
+        "stance": "Supportive",
+        "image_urls": [
+          "https://cointelegraph.com/_duck/img/site-logo/en.svg",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://ticker-api.cointelegraph.com/images/logo/USD.png?t=2026",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://zoa.cointelegraph.com/pixel?postId=262117&regionId=1",
+          "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=24,h=24,q=90/https://s3.cointelegraph.com/storage/uploads/view/4ede1f2682223b54ab765e51524af25f.jpg 1x, https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=48,h=48,q=90/https://s3.cointelegraph.com/storage/uploads/view/4ede1f2682223b54ab765e51524af25f.jpg 2x",
+          "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=24,h=24,q=90/https://s3.cointelegraph.com/storage/uploads/view/25ac42038a2117cda1ea0bd654246502.jpg 1x, https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=48,h=48,q=90/https://s3.cointelegraph.com/storage/uploads/view/25ac42038a2117cda1ea0bd654246502.jpg 2x",
+          "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=328,q=90/https://s3.cointelegraph.com/uploads/2026-04/019d9678-6280-764b-a3ca-7a6868f1b98d.jpg 328w, https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=644,q=90/https://s3.cointelegraph.com/uploads/2026-04/019d9678-6280-764b-a3ca-7a6868f1b98d.jpg 644w, https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=656,q=90/https://s3.cointelegraph.com/uploads/2026-04/019d9678-6280-764b-a3ca-7a6868f1b98d.jpg 656w, https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=728,q=90/https://s3.cointelegraph.com/uploads/2026-04/019d9678-6280-764b-a3ca-7a6868f1b98d.jpg 728w, https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=864,q=90/https://s3.cointelegraph.com/uploads/2026-04/019d9678-6280-764b-a3ca-7a6868f1b98d.jpg 864w, https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1288,q=90/https://s3.cointelegraph.com/uploads/2026-04/019d9678-6280-764b-a3ca-7a6868f1b98d.jpg 1288w, https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1456,q=90/https://s3.cointelegraph.com/uploads/2026-04/019d9678-6280-764b-a3ca-7a6868f1b98d.jpg 1456w, https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1728,q=90/https://s3.cointelegraph.com/uploads/2026-04/019d9678-6280-764b-a3ca-7a6868f1b98d.jpg 1728w",
+          "https://s3.cointelegraph.com/uploads/2026-04/019d966f-d6b7-74e8-95d5-d4b8c5a10909.png",
+          "https://s3.cointelegraph.com/uploads/2026-04/019d966e-f929-78e3-a222-c3f7d1cc365b.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://cointelegraph.com/_duck/img/mobile-stores/app-store-badge-en.svg",
+          "https://cointelegraph.com/_duck/img/mobile-stores/play-store-badge-en.svg"
+        ],
+        "top_image": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9678-6280-764b-a3ca-7a6868f1b98d.jpg"
+      },
+      {
+        "url": "https://www.pymnts.com/blockchain/2026/imf-warns-crypto-risks-could-trigger-financial-instability/",
+        "title": "IMF Warns Crypto Risks Could Trigger Financial Instability",
+        "source": "pymnts.com",
+        "description": "Financial systems have typically evolved through a combination of innovation and crisis. It tends to go like this: New technologies promise efficiency, only for their risks to become apparent under stress. Over time, institutions, regulations and practices ad…",
+        "raw_content": "Financial systems have typically evolved through a combination of innovation and crisis. It tends to go like this: New technologies promise efficiency, only for their risks to become apparent under s… [+4959 chars]",
+        "stance": "Supportive",
+        "image_urls": [
+          "https://sb.scorecardresearch.com/p?c1=2&c2=39641934&cv=3.9.1&cj=1",
+          "https://www.pymnts.com/wp-content/uploads/2023/04/PYMNTS_2023_logo_white.svg?v=1.1",
+          "https://www.pymnts.com/wp-content/uploads/2026/04/Blockchain-risks-1.jpg?w=768",
+          "https://www.pymnts.com/wp-content/uploads/2026/04/Blockchain-risks-1.jpg?w=258",
+          "https://www.pymnts.com/wp-content/uploads/2026/04/Fed-data-consumer-credit-1.jpg?w=258",
+          "https://www.pymnts.com/wp-content/uploads/2026/04/AI-medications-refills.jpeg?w=258",
+          "https://www.pymnts.com/wp-content/uploads/2025/06/FinCEN-1.jpg?w=258"
+        ],
+        "top_image": "https://www.pymnts.com/wp-content/uploads/2026/04/Blockchain-risks-1.jpg"
+      },
+      {
+        "url": "https://economictimes.indiatimes.com/tech/startups/us-prediction-market-players-make-a-play-for-indian-ipl-fans/articleshow/130067344.cms",
+        "title": "US prediction market players make a play for Indian IPL fans",
+        "source": "The Times of India",
+        "description": "Indian fans are turning to US platforms like Polymarket and Kalshi for IPL betting. These sites allow wagers on match winners and player stats. This trend emerges after India banned real-money gaming. Offshore platforms are also active. Accessing these sites …",
+        "raw_content": "US-based prediction market platforms Polymarket and Kalshi are becoming popular betting destinations for IPL fans. Here, users can wager on match winners, tournament champions, and individual player … [+3860 chars]",
+        "stance": "Supportive",
+        "image_urls": [
+          "https://img.etimg.com/photo/msid-78491339,quality-100/et-tech-logo.jpg",
+          "https://img.etimg.com/photo/msid-100067830/et-logo.jpg",
+          "https://img.etimg.com/photo/124385886.cms",
+          "https://img.etimg.com/photo/104857408.cms",
+          "https://img.etimg.com/thumb/width-650,height-488,imgsize-842558,resizemode-75,msid-130067398/tech/startups/us-prediction-market-players-make-a-play-for-indian-ipl-fans/could-time-crown-ai-polymarket-bets-point-to-a-non-human-person-of-the-year-for-the-first-time-since-1982.jpg",
+          "https://img.etimg.com/photo/123467569.cms",
+          "https://img.etimg.com/photo/123467572.cms",
+          "https://img.etimg.com/thumb/width-136,height-104,imgsize-41898,resizemode-75,msid-130148837/prime/consumer/natural-diamonds-lose-sheen-globally-in-india-theyre-still-forever.jpg",
+          "https://img.etimg.com/thumb/width-136,height-104,imgsize-68750,resizemode-75,msid-130118593/prime/transportation/spicejet-hunts-for-lifeline-once-more-amid-staff-cuts-delayed-pay.jpg",
+          "https://img.etimg.com/thumb/width-136,height-104,imgsize-156996,resizemode-75,msid-129959730/prime/corporate-governance/how-a-cozy-club-controls-indias-gold-imports.jpg",
+          "https://img.etimg.com/thumb/width-136,height-104,imgsize-75272,resizemode-75,msid-130108075/prime/fintech-and-bfsi/rbi-policy-why-high-inflation-estimates-dont-mean-higher-rates.jpg",
+          "https://img.etimg.com/thumb/width-136,height-104,imgsize-112178,resizemode-75,msid-130038877/prime/technology-and-startups/bold-promises-vs-hard-proof-indian-it-faces-an-ai-test-this-fiscal.jpg",
+          "https://img.etimg.com/thumb/width-136,height-104,imgsize-41568,resizemode-75,msid-130130511/markets/stocks/news/fo-radar-bull-call-spread-strategy-for-hal.jpg",
+          "https://img.etimg.com/thumb/width-136,height-104,imgsize-2957667,resizemode-75,msid-130135563/markets/stocks/news/time-to-increase-the-risk-quotient-maybe-but-selectively-5-large-caps-from-different-sectors-with-upside-potential-of-up-to-28.jpg",
+          "https://img.etimg.com/thumb/width-136,height-104,imgsize-89236,resizemode-75,msid-130144433/markets/stocks/news/weekly-top-picks-these-stocks-scored-10-on-10-on-stock-reports-plus.jpg",
+          "https://img.etimg.com/thumb/msid-100844733,width-662,resizemode-4/a.jpg",
+          "https://img.etimg.com/thumb/width-100,height-75,imgsize-17906,resizemode-75,msid-130122795/tech/information-tech/ai-drives-indian-it-companies-to-cut-us-jobs.jpg",
+          "https://img.etimg.com/thumb/width-100,height-75,imgsize-62980,resizemode-75,msid-130113338/tech/technology/how-the-math-works-on-a-1-75-trillion-spacex-valuation.jpg",
+          "https://img.etimg.com/thumb/width-100,height-75,imgsize-42698,resizemode-75,msid-130066154/tech/technology/amazon-india-to-shut-down-fresh-in-top-cities-amid-quick-commerce-push-ubs-report.jpg",
+          "https://img.etimg.com/thumb/width-100,height-75,imgsize-972799,resizemode-75,msid-130129225/tech/funding/ai-startup-nava-raises-22-million-in-round-led-by-greenoaks-capital.jpg",
+          "https://img.etimg.com/thumb/width-100,height-75,imgsize-97248,resizemode-75,msid-130085929/tech/technology/kirana-stores-see-dip-in-business-as-consumers-shift-to-quick-commerce-report.jpg",
+          "https://img.etimg.com/photo/msid-74462387,quality-100/et-logo.jpg"
+        ],
+        "top_image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-842558,resizemode-75,msid-130067344/tech/startups/us-prediction-market-players-make-a-play-for-indian-ipl-fans.jpg"
+      }
+    ],
+    "stats": {
+      "total_chunks": 12,
+      "by_stance": {
+        "Supportive": 12,
+        "Critical": 0,
+        "Neutral": 0
+      },
+      "db_path": "D:\\ORBITA\\src\\..\\chroma_db"
+    },
+    "topic": "Crypto Regulation India",
+    "intent": {
+      "original_input": "Crypto Regulation India",
+      "topic": "Crypto Regulation India",
+      "entities": [
+        "Crypto Regulation India"
+      ],
+      "keywords": [
+        "crypto",
+        "regulation",
+        "india"
+      ],
+      "search_queries": [
+        "Crypto Regulation India",
+        "Crypto Regulation India debate analysis",
+        "cryptocurrency regulation india"
+      ]
+    },
+    "phase_timings": {},
+    "elapsed_seconds": 0,
+    "nlp_analysis": {},
+    "image_analysis": {
+      "summary": {
+        "visual_bias_score": -0.1383,
+        "mean_confidence": 0.3702,
+        "dominant_framing": "neutral",
+        "dominant_tone": "neutral",
+        "image_count": 6,
+        "high_confidence_count": 0,
+        "framing_distribution": {
+          "neutral": 5
+        },
+        "tone_distribution": {
+          "neutral": 5
+        },
+        "cnn_used": true,
+        "visual_context_summary": "VISUAL ANALYSIS — 6 images [Method: CNN (ResNet-50) + Color Analysis]:\nVisual bias: -0.14 (neutral)\nDominant framing: neutral | Dominant tone: neutral\nImage descriptions:\n[Cointelegraph] OneCoin’s fallout lingers as US victims  — moderate-light im (CNN: neutral, conf=0.36, framing=neutral)\n[Cointelegraph] OneCoin’s fallout lingers as US victims  — moderate-light im (CNN: neutral, conf=0.35, framing=neutral)\n[The Times of India] US prediction market players make a play — moderate-light im (CNN: positive, conf=0.36, framing=neutral)\n[pymnts.com] IMF Warns Crypto Risks Could Trigger Fin — dark/low-light im (CNN: positive, conf=0.39, framing=neutral)"
+      },
+      "visual_context": "VISUAL ANALYSIS — 6 images [Method: CNN (ResNet-50) + Color Analysis]:\nVisual bias: -0.14 (neutral)\nDominant framing: neutral | Dominant tone: neutral\nImage descriptions:\n[Cointelegraph] OneCoin’s fallout lingers as US victims  — moderate-light im (CNN: neutral, conf=0.36, framing=neutral)\n[Cointelegraph] OneCoin’s fallout lingers as US victims  — moderate-light im (CNN: neutral, conf=0.35, framing=neutral)\n[The Times of India] US prediction market players make a play — moderate-light im (CNN: positive, conf=0.36, framing=neutral)\n[pymnts.com] IMF Warns Crypto Risks Could Trigger Fin — dark/low-light im (CNN: positive, conf=0.39, framing=neutral)",
+      "total_images": 6,
+      "elapsed_seconds": 0.46,
+      "cnn_available": true
+    }
+  }
+}

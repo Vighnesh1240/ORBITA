@@ -1,0 +1,20 @@
+{
+  "emotional_tone": "negative",
+  "visual_framing": "victim",
+  "subjects_detected": [
+    "stock market data",
+    "person"
+  ],
+  "narrative_suggested": "The image suggests a negative financial event, with stock market data showing significant drops and a person looking intently at the screens, implying concern or focus on the downturn.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [
+    "downward-pointing arrows next to stock data",
+    "red color in stock data (implied by context)"
+  ],
+  "visual_bias_score": 0.6,
+  "visual_bias_direction": "critical",
+  "confidence": 0.8,
+  "description": "A close-up shot of a stock market display showing currency exchange rates and stock indices, with downward-trending indicators. A person's head and shoulders are visible in the foreground, looking at the screens.",
+  "image_url": "https://bl-i.thgim.com/public/incoming/t05ejc/article70760516.ece/alternates/LANDSCAPE_1200/2026-03-18T034225Z_305382396_RC2UWJAEQJ4F_RTRMADP_3_SOUTHKOREA-MARKETS-LEE.JPG",
+  "error": null
+}

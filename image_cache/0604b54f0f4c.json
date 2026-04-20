@@ -1,0 +1,18 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "hands",
+    "medicine packaging",
+    "shelves"
+  ],
+  "narrative_suggested": "The image depicts a person selecting medication from a shelf, suggesting a context related to healthcare, pharmaceuticals, or personal well-being.",
+  "image_text_consistent": false,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.9,
+  "description": "A close-up shot shows a person's hands holding several blister packs of medication. The hands are reaching towards a shelf filled with various boxes of medicine in a retail or pharmacy setting.",
+  "image_url": "https://www.pymnts.com/wp-content/uploads/2026/04/AI-medications-refills.jpeg?w=258",
+  "error": null
+}

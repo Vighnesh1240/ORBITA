@@ -1,0 +1,17 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "WordPress logo",
+    "text"
+  ],
+  "narrative_suggested": "The image suggests that the content is powered by WordPress.com VIP.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 1.0,
+  "description": "The image displays the WordPress logo followed by the text 'Powered by WordPress.com VIP'.",
+  "image_url": "https://indianexpress.com/wp-content/themes/indianexpress/images/vip-powered-logo.png",
+  "error": null
+}

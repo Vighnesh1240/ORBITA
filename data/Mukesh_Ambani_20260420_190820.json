@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/adani-bags-top-spot-in-richest-asians-club/articleshow/130345547.cms",
+    "title": "Adani bags top spot in richest Asians’ club",
+    "source": "The Times of India",
+    "stance": "Supportive",
+    "word_count": 97,
+    "fact_density": 0.42857142857142855
+  },
+  {
+    "url": "https://www.rediff.com/movies/report/kiara-advani-sidharth-malhotra-at-nmaccs-3rd-anniversary/20260404.htm",
+    "title": "Kiara, Sidharth At NMACC's 3rd Anniversary",
+    "source": "Rediff.com",
+    "stance": "Supportive",
+    "word_count": 124,
+    "fact_density": 0.0
+  },
+  {
+    "url": "https://www.thehindubusinessline.com/news/hc-junks-plea-seeking-cbi-probe-against-mukesh-ambani-ril-over-illegal-gas-extraction/article70791788.ece",
+    "title": "HC junks plea seeking CBI probe against Mukesh Ambani, RIL over ‘illegal’ gas extraction",
+    "source": "BusinessLine",
+    "stance": "Supportive",
+    "word_count": 187,
+    "fact_density": 0.42857142857142855
+  },
+  {
+    "url": "https://indianexpress.com/article/entertainment/malayalam/mammootty-says-mukesh-ambani-doesnt-use-all-the-money-he-earns-keeps-making-more-for-pleasure-10629813/",
+    "title": "Mammootty says Mukesh Ambani ‘doesn’t use all the money he earns,’ keeps making more for ‘pleasure’",
+    "source": "The Indian Express",
+    "stance": "Neutral",
+    "word_count": 391,
+    "fact_density": 0.11764705882352941
+  },
+  {
+    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/mukesh-ambanis-jio-platforms-likely-to-file-ipo-papers-in-may/articleshow/130328064.cms",
+    "title": "Mukesh Ambani’s Jio Platforms likely to file IPO papers in May",
+    "source": "The Times of India",
+    "stance": "Neutral",
+    "word_count": 879,
+    "fact_density": 0.21818181818181817
+  },
+  {
+    "url": "https://economictimes.indiatimes.com/news/new-updates/gautam-adani-overtakes-mukesh-ambani-as-asias-richest-person-check-the-net-worth-of-the-two-indian-business-tycoons/articleshow/130321606.cms",
+    "title": "Gautam Adani overtakes Mukesh Ambani as Asia's richest person: Check the net worth of the two Indian business tycoons",
+    "source": "The Times of India",
+    "stance": "Neutral",
+    "word_count": 497,
+    "fact_density": 0.5714285714285714
+  },
+  {
+    "url": "https://www.thehindubusinessline.com/news/gautam-adani-becomes-asias-richest-person-tops-mukesh-ambani-on-bloomberg-billionaires-index/article70872674.ece",
+    "title": "Gautam Adani becomes Asia’s richest person, tops Mukesh Ambani on Bloomberg Billionaires Index",
+    "source": "BusinessLine",
+    "stance": "Neutral",
+    "word_count": 328,
+    "fact_density": 0.7058823529411765
+  }
+]

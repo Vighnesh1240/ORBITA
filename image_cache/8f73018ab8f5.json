@@ -1,0 +1,14 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [],
+  "narrative_suggested": "Analysis unavailable",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.0,
+  "description": "Gemini Vision API unavailable",
+  "image_url": "https://www.aljazeera.com/wp-content/uploads/2023/04/AP23102080892695.jpg?resize=770%2C513&quality=80",
+  "error": "API unavailable"
+}

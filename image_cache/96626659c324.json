@@ -1,0 +1,14 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [],
+  "narrative_suggested": "Analysis unavailable",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.0,
+  "description": "Gemini Vision API unavailable",
+  "image_url": "https://ml.globenewswire.com/Resource/Download/60cd40ca-69a6-40ff-927b-cafc51ebdc02?size=3",
+  "error": "API unavailable"
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://www.we-heart.com/2026/04/08/why-should-business-invest-in-upi-payment-gateway/",
+    "title": "Why to Invest in a UPI Payment Gateway",
+    "source": "We-heart.com",
+    "stance": "Supportive",
+    "word_count": 870,
+    "fact_density": 0.225
+  },
+  {
+    "url": "https://www.thehindubusinessline.com/money-and-banking/npci-international-expands-upi-merchant-acceptance-in-sri-lanka/article70754404.ece",
+    "title": "NPCI International expands UPI merchant acceptance in Sri Lanka",
+    "source": "BusinessLine",
+    "stance": "Supportive",
+    "word_count": 181,
+    "fact_density": 0.5
+  },
+  {
+    "url": "https://www.thehindubusinessline.com/money-and-banking/jio-payments-bank-launches-upi-based-cash-withdrawal-at-bc-points/article70754365.ece",
+    "title": "Jio Payments Bank launches UPI-based cash withdrawal at BC points",
+    "source": "BusinessLine",
+    "stance": "Supportive",
+    "word_count": 171,
+    "fact_density": 0.2
+  },
+  {
+    "url": "https://www.electronicpaymentsinternational.com/news/indias-central-bank-payments-vision-2028/",
+    "title": "India’s central bank unveils Payments Vision 2028 roadmap",
+    "source": "Electronicpaymentsinternational.com",
+    "stance": "Neutral",
+    "word_count": 310,
+    "fact_density": 0.23529411764705882
+  },
+  {
+    "url": "https://www.medianama.com/2026/04/223-rbi-payments-ecosystem-vision-2028-ecommerce-regulation/",
+    "title": "RBI mulls bringing e-commerce marketplaces within its regulatory ambit: Payments Vision 2028 report",
+    "source": "MediaNama.com",
+    "stance": "Neutral",
+    "word_count": 917,
+    "fact_density": 0.36538461538461536
+  },
+  {
+    "url": "https://www.thehindubusinessline.com/info-tech/indias-digital-payments-account-for-93-of-payment-value-in-9mfy26-report/article70833272.ece",
+    "title": "India's digital payments account for 93% of payment value in 9MFY26: Report",
+    "source": "BusinessLine",
+    "stance": "Neutral",
+    "word_count": 467,
+    "fact_density": 0.42857142857142855
+  },
+  {
+    "url": "https://www.thehindubusinessline.com/money-and-banking/upi-processes-2285-billion-transactions-in-2025-reshaping-indias-payments-landscape/article70860946.ece",
+    "title": "UPI processes 228.5 billion transactions in 2025, reshaping India’s payments landscape",
+    "source": "BusinessLine",
+    "stance": "Supportive",
+    "word_count": 392,
+    "fact_density": 0.7777777777777778
+  },
+  {
+    "url": "https://www.thehindubusinessline.com/money-and-banking/upi-at-10-from-payments-pipe-to-backbone-of-indias-digital-financial-ecosystem/article70851341.ece",
+    "title": "UPI at 10: From payments pipe to backbone of India’s digital financial ecosystem",
+    "source": "BusinessLine",
+    "stance": "Supportive",
+    "word_count": 406,
+    "fact_density": 0.42105263157894735
+  },
+  {
+    "url": "https://www.thehindubusinessline.com/money-and-banking/upi-records-2264-billion-transactions-in-march-2026-says-department-of-financial-services/article70814913.ece",
+    "title": "UPI records 22.64 billion transactions in March 2026, says Department of Financial Services",
+    "source": "BusinessLine",
+    "stance": "Supportive",
+    "word_count": 251,
+    "fact_density": 0.8235294117647058
+  },
+  {
+    "url": "https://www.androidcentral.com/apps-software/google-pay/i-used-this-hidden-google-pay-feature-to-automate-credit-card-bill-payments",
+    "title": "I used this hidden Google Pay feature to automate credit card bill payments",
+    "source": "Android Central",
+    "stance": "Supportive",
+    "word_count": 533,
+    "fact_density": 0.041666666666666664
+  }
+]

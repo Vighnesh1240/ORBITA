@@ -1,0 +1,19 @@
+{
+  "emotional_tone": "negative",
+  "visual_framing": "threat",
+  "subjects_detected": [
+    "OneCoin logo",
+    "prohibition symbol"
+  ],
+  "narrative_suggested": "The image suggests that OneCoin is something to be prohibited or is a threat.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [
+    "prohibition symbol"
+  ],
+  "visual_bias_score": 0.8,
+  "visual_bias_direction": "critical",
+  "confidence": 0.9,
+  "description": "The image features a stylized representation of the OneCoin logo, which appears to be a coin with a face and arms. This logo is superimposed over a large, dark prohibition symbol, indicating disapproval or a ban.",
+  "image_url": "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+  "error": null
+}

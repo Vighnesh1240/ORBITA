@@ -1,0 +1,24 @@
+{
+  "image_url": "https://i.insider.com/69b3c75fa96e437d6eb841bd?width=700",
+  "visual_bias_score": 0.0925,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3469,
+  "description": "Elon Musk asks judge to recuse herself i \u2014 moderate-light image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.318,
+    0.3469,
+    0.3352
+  ],
+  "cnn_confidence": 0.3469,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.2642,
+  "brightness": 145.0,
+  "is_dark": false,
+  "contrast": 0.3556,
+  "edge_density": 0.0746,
+  "aspect_ratio": 1.499,
+  "image_size": "700x467",
+  "error": null
+}

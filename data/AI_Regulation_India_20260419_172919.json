@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://colossus.com/article/project-mario-demis-hassabis-deepmind-mallaby/",
+    "title": "Project Mario: the inside story of DeepMind",
+    "source": "Colossus.com",
+    "stance": "Supportive",
+    "word_count": 8957,
+    "fact_density": 0.10163339382940109
+  },
+  {
+    "url": "https://www.medianama.com/2026/04/223-aigeg-meitys-ai-governance-body-excludes-regulators-recommended-ai-guidelines/",
+    "title": "AIGEG: MeitY’s new AI governance body excludes regulators recommended by its own AI guidelines",
+    "source": "MediaNama.com",
+    "stance": "Supportive",
+    "word_count": 887,
+    "fact_density": 0.06976744186046512
+  },
+  {
+    "url": "https://www.medianama.com/2026/04/223-youtube-ai-avatar-tool-shorts-concerns-deepfake-rules-personality-rights/",
+    "title": "YouTube’s AI avatar tool for Shorts raises questions around India’s deepfake rules, personality rights",
+    "source": "MediaNama.com",
+    "stance": "Supportive",
+    "word_count": 904,
+    "fact_density": 0.30434782608695654
+  },
+  {
+    "url": "https://finance.yahoo.com/economy/policy/articles/europe-too-regulated-win-ai-093831433.html",
+    "title": "America and Europe have taken different routes on trying to ‘control AI.’ The results are stark",
+    "source": "Yahoo Entertainment",
+    "stance": "Critical",
+    "word_count": 1342,
+    "fact_density": 0.0963855421686747
+  },
+  {
+    "url": "https://indianexpress.com/article/business/sebi-joint-initiative-upskill-independent-directors-governance-10622225/",
+    "title": "SEBI plans joint initiative to upskill independent directors, deepen corporate governance",
+    "source": "The Indian Express",
+    "stance": "Neutral",
+    "word_count": 396,
+    "fact_density": 0.0
+  },
+  {
+    "url": "https://www.medianama.com/2026/04/223-metas-new-ai-model-muse-spark-whatsapp-indian-users/",
+    "title": "Meta’s new AI model Muse Spark is coming to WhatsApp. Here is what that means for Indian users",
+    "source": "MediaNama.com",
+    "stance": "Neutral",
+    "word_count": 669,
+    "fact_density": 0.24242424242424243
+  },
+  {
+    "url": "https://siliconangle.com/2026/03/26/cloud-native-governance-rises-new-regulations-brew-kubeconeu/",
+    "title": "Regulation crashes the AI party: theCUBE’s KubeCon + CloudNativeCon EU day three analysis",
+    "source": "SiliconANGLE News",
+    "stance": "Neutral",
+    "word_count": 523,
+    "fact_density": 0.15625
+  },
+  {
+    "url": "http://prospect.org/2026/03/24/ai-trump-nvidia-china-peter-thiel-anthropic-jake-sullivan/",
+    "title": "Who Will Govern AI?",
+    "source": "The American Prospect",
+    "stance": "Supportive",
+    "word_count": 2037,
+    "fact_density": 0.07142857142857142
+  },
+  {
+    "url": "https://www.medianama.com/2026/04/223-reading-list-it-rules-future-online-speech-in-india-april-23/",
+    "title": "Reading List: IT Rules and the future of online speech in India, April 23, Delhi #NAMA",
+    "source": "MediaNama.com",
+    "stance": "Supportive",
+    "word_count": 1315,
+    "fact_density": 0.36
+  }
+]

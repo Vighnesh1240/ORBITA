@@ -1,0 +1,24 @@
+{
+  "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/a8ab94ca03f5d38d84f74e12fdb578d41c9697ed-1674x956.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+  "visual_bias_score": -0.1874,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3462,
+  "description": "Regulation by hostility: the real legacy \u2014 moderate-light image, high contrast, CNN: positive sentiment",
+  "cnn_class": "positive",
+  "cnn_probabilities": [
+    0.3462,
+    0.3223,
+    0.3315
+  ],
+  "cnn_confidence": 0.3462,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.1074,
+  "brightness": 107.6,
+  "is_dark": false,
+  "contrast": 0.6126,
+  "edge_density": 0.1182,
+  "aspect_ratio": 1.752,
+  "image_size": "946x540",
+  "error": null
+}

@@ -1,0 +1,18 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "people",
+    "security screening equipment",
+    "airport"
+  ],
+  "narrative_suggested": "The image depicts a scene of security screening at what appears to be an airport or similar public transportation hub.",
+  "image_text_consistent": false,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.9,
+  "description": "An overhead view of an airport security checkpoint with several people going through metal detectors and X-ray machines. There are also lines of people waiting to go through security.",
+  "image_url": "https://media.wired.com/photos/69e21ced5bbca1ee221c2418/16:9/w_640%2Cc_limit/undefined",
+  "error": null
+}

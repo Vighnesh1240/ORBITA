@@ -113,15 +113,26 @@ def build_search_queries(
     queries.append(full_topic)
 
     # Query 2: NER entities joined (supplementary diversity)
+    # Avoid generic one-word entity queries like "india".
+    generic_single_entities = {
+        "india", "indian", "government", "ministry", "state", "country"
+    }
+
     if len(entities) >= 2:
         ent_q = " ".join(entities[:2])
         if ent_q.lower() != full_topic.lower():
             queries.append(ent_q)
     elif len(entities) == 1 and entities[0].lower() != full_topic.lower():
-        queries.append(entities[0])
+        ent = entities[0].strip()
+        if ent.lower() not in generic_single_entities:
+            queries.append(ent)
 
     # Query 3: full input + "debate analysis"
     queries.append(f"{full_topic} debate analysis")
+
+    # Domain expansion: 'crypto' often appears as 'cryptocurrency' in headlines.
+    if "crypto" in full_topic.lower() and "cryptocurrency" not in full_topic.lower():
+        queries.append(full_topic.lower().replace("crypto", "cryptocurrency"))
 
     # Query 4: add India context if missing
     if "india" not in full_topic.lower():

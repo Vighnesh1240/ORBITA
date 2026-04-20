@@ -1,0 +1,24 @@
+{
+  "image_url": "https://s.yimg.com/ny/api/res/1.2/kfJSLDvrGXSAa8qClS.XKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/dfab0aa83ac7cb3b8b605b48bc70351b",
+  "visual_bias_score": 0.0058,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3451,
+  "description": "America and Europe have taken different  \u2014 bright image, CNN: positive sentiment",
+  "cnn_class": "positive",
+  "cnn_probabilities": [
+    0.3451,
+    0.3334,
+    0.3215
+  ],
+  "cnn_confidence": 0.3451,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.6576,
+  "brightness": 211.1,
+  "is_dark": false,
+  "contrast": 0.3843,
+  "edge_density": 0.0644,
+  "aspect_ratio": 1.5,
+  "image_size": "1200x800",
+  "error": null
+}

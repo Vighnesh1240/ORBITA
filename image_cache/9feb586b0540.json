@@ -1,0 +1,17 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "graphs",
+    "charts"
+  ],
+  "narrative_suggested": "The image presents two graphs related to global temperature data, one showing a magnified view of warming and another showing the same data on a different scale.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.9,
+  "description": "The image contains two graphs. The top graph is titled 'Magnified Global Warming as Presented by the Media' and shows a sharp upward trend in temperature from 1880 to 2014. The bottom graph is titled 'Global Warming in the Scale of Human Temperature Experience' and shows a much flatter, less dramatic trend over the same period, with a large red bar representing the temperature range.",
+  "image_url": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/11/GISS-vs-HumanTemp2.webp?fit=480%2C310&quality=75&ssl=1",
+  "error": null
+}

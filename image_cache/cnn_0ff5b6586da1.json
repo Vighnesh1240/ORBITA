@@ -1,0 +1,24 @@
+{
+  "image_url": "https://cdn.mos.cms.futurecdn.net/TVM85uoi9vmcMne6bzJimV-2560-80.jpg",
+  "visual_bias_score": 0.3271,
+  "visual_framing": "critical",
+  "emotional_tone": "negative",
+  "confidence": 0.3453,
+  "description": "I used this hidden Google Pay feature to \u2014 moderate-light image, CNN: negative sentiment",
+  "cnn_class": "negative",
+  "cnn_probabilities": [
+    0.3151,
+    0.3395,
+    0.3453
+  ],
+  "cnn_confidence": 0.3453,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.2934,
+  "brightness": 96.0,
+  "is_dark": false,
+  "contrast": 0.2947,
+  "edge_density": 0.0722,
+  "aspect_ratio": 1.775,
+  "image_size": "2560x1442",
+  "error": null
+}

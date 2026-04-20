@@ -1,0 +1,24 @@
+{
+  "image_url": "https://media.springernature.com/w215h120/springer-static/image/art%3A10.1038%2Fs41467-023-36687-7/MediaObjects/41467_2023_36687_Fig1_HTML.png",
+  "visual_bias_score": 0.0852,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3436,
+  "description": "Evolution of pandemic cholera at its glo \u2014 bright image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.3267,
+    0.3436,
+    0.3296
+  ],
+  "cnn_confidence": 0.3436,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.2433,
+  "brightness": 219.4,
+  "is_dark": false,
+  "contrast": 0.4199,
+  "edge_density": 0.0987,
+  "aspect_ratio": 1.792,
+  "image_size": "215x120",
+  "error": null
+}

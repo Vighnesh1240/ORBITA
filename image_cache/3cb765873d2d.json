@@ -1,0 +1,19 @@
+{
+  "emotional_tone": "positive",
+  "visual_framing": "hero",
+  "subjects_detected": [
+    "DeepSeek AI",
+    "number 71"
+  ],
+  "narrative_suggested": "The image suggests a narrative of rapid and successful growth for DeepSeek AI, highlighting its importance and achievements.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [
+    "The prominent display of '71 / 100' suggests a high ranking or score, implying excellence and success."
+  ],
+  "visual_bias_score": -0.6,
+  "visual_bias_direction": "supportive",
+  "confidence": 0.9,
+  "description": "The image displays the name 'DeepSeek' prominently, with a subtitle indicating it was founded in 2023 and its R1 version was released in January 2025. A score of '71 / 100' is shown in the top right corner.",
+  "image_url": "https://www.jeffbullas.com/wp-content/uploads/2026/03/image-47-700x52.png",
+  "error": null
+}

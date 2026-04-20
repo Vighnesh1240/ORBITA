@@ -1,0 +1,18 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "children",
+    "smartphones",
+    "backpacks"
+  ],
+  "narrative_suggested": "Children are engrossed in their smartphones, suggesting a focus on technology and its impact on youth.",
+  "image_text_consistent": false,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.8,
+  "description": "A group of children, some wearing backpacks, are looking down at their smartphones. The image is taken outdoors in what appears to be a school setting.",
+  "image_url": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/04/School-Children-Smartphones-School-Social-Media.jpg",
+  "error": null
+}

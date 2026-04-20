@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://indianexpress.com/article/world/d-vance-iran-pakistan-peace-talks-strait-of-hormuz-frozen-assets-10631399/",
+    "title": "Tense start to Iran-US peace talks in Islamabad as Tehran’s frozen assets, ‘red lines’ dominate",
+    "source": "The Indian Express",
+    "stance": "Supportive",
+    "word_count": 523,
+    "fact_density": 0.13636363636363635
+  },
+  {
+    "url": "https://newrepublic.com/post/208778/lindsey-graham-donald-trump-iran-ceasefire-deal",
+    "title": "Not Even Lindsey Graham Can Defend Trump’s Iran Ceasefire Deal",
+    "source": "The New Republic",
+    "stance": "Supportive",
+    "word_count": 3068,
+    "fact_density": 0.12755102040816327
+  },
+  {
+    "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260410-rferl01.htm",
+    "title": "Between Reassurance And Rhetoric: The High Stakes Of Rutte's US Diplomacy",
+    "source": "Globalsecurity.org",
+    "stance": "Supportive",
+    "word_count": 977,
+    "fact_density": 0.16666666666666666
+  },
+  {
+    "url": "https://cointelegraph.com/markets/zcash-us-iran-ceasefire-rally-30percent-gain-zec-price-bull-trap",
+    "title": "Zcash leads US–Iran ceasefire rally with 30% gains: ZEC price bull trap?",
+    "source": "Cointelegraph",
+    "stance": "Critical",
+    "word_count": 432,
+    "fact_density": 0.7666666666666667
+  },
+  {
+    "url": "https://www.bbc.co.uk/sounds/play/p0nbywjx?at_campaign=rss",
+    "title": "US-Iran Talks Fail - What Happens Next?",
+    "source": "BBC News",
+    "stance": "Critical",
+    "word_count": 222,
+    "fact_density": 0.1
+  },
+  {
+    "url": "https://timesofindia.indiatimes.com/india/without-naming-israel-india-regrets-lebanon-civilian-deaths/articleshow/130179378.cms",
+    "title": "Without naming Israel, India regrets Lebanon civilian deaths",
+    "source": "The Times of India",
+    "stance": "Critical",
+    "word_count": 347,
+    "fact_density": 0.0625
+  },
+  {
+    "url": "https://cointelegraph.com/markets/bitcoin-rally-extends-toward-73k-despite-concerning-us-economic-data",
+    "title": "Bitcoin rally extends toward $73K despite concerning US economic data",
+    "source": "Cointelegraph",
+    "stance": "Neutral",
+    "word_count": 502,
+    "fact_density": 0.43478260869565216
+  },
+  {
+    "url": "https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/",
+    "title": "Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure",
+    "source": "Wired",
+    "stance": "Neutral",
+    "word_count": 950,
+    "fact_density": 0.18518518518518517
+  },
+  {
+    "url": "https://www.wired.com/story/inside-the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons/",
+    "title": "Inside the Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons",
+    "source": "Wired",
+    "stance": "Neutral",
+    "word_count": 1009,
+    "fact_density": 0.10869565217391304
+  },
+  {
+    "url": "https://www.bbc.co.uk/sounds/play/p0nc4ty7",
+    "title": "Jeremy Bowen: Ceasefire gives space but not a solution",
+    "source": "BBC News",
+    "stance": "Neutral",
+    "word_count": 90,
+    "fact_density": 0.2
+  }
+]

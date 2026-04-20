@@ -1,0 +1,21 @@
+{
+  "emotional_tone": "positive",
+  "visual_framing": "celebration",
+  "subjects_detected": [
+    "bar graph",
+    "upward trending arrow",
+    "world map"
+  ],
+  "narrative_suggested": "The image suggests a story of significant growth and positive development, possibly in a global context.",
+  "image_text_consistent": false,
+  "loaded_visual_elements": [
+    "upward trending arrow",
+    "bar graph showing increase"
+  ],
+  "visual_bias_score": -0.7,
+  "visual_bias_direction": "supportive",
+  "confidence": 0.9,
+  "description": "The image displays a 3D bar graph with bars increasing in height from left to right, overlaid with a large, bold red arrow pointing upwards and to the right, indicating a strong upward trend. A faint, stylized world map is visible in the background.",
+  "image_url": "https://img.etimg.com/thumb/width-136,height-104,imgsize-89236,resizemode-75,msid-130144433/markets/stocks/news/weekly-top-picks-these-stocks-scored-10-on-10-on-stock-reports-plus.jpg",
+  "error": null
+}

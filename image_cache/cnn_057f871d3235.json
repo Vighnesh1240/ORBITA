@@ -1,0 +1,24 @@
+{
+  "image_url": "https://colossus.com/wp-content/uploads/2025/09/rogo.png",
+  "visual_bias_score": -0.1304,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3579,
+  "description": "Project Mario: the inside story of DeepM \u2014 dark/low-light image, low contrast, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.2986,
+    0.3579,
+    0.3435
+  ],
+  "cnn_confidence": 0.3579,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.3725,
+  "brightness": 8.8,
+  "is_dark": true,
+  "contrast": 0.0879,
+  "edge_density": 0.0186,
+  "aspect_ratio": 2.604,
+  "image_size": "526x202",
+  "error": null
+}

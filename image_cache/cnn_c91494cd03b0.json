@@ -1,0 +1,24 @@
+{
+  "image_url": "https://images.newrepublic.com/d3e3c50f547922f6f905cb18efe20e2a1a7c35a1.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+  "visual_bias_score": -0.2636,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3548,
+  "description": "For White-Collar Workers, AI Also Stands \u2014 moderate-light image, CNN: positive sentiment",
+  "cnn_class": "positive",
+  "cnn_probabilities": [
+    0.3548,
+    0.3249,
+    0.3203
+  ],
+  "cnn_confidence": 0.3548,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.0943,
+  "brightness": 117.3,
+  "is_dark": false,
+  "contrast": 0.5858,
+  "edge_density": 0.1395,
+  "aspect_ratio": 1.905,
+  "image_size": "1200x630",
+  "error": null
+}

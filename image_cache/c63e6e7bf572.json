@@ -1,0 +1,21 @@
+{
+  "emotional_tone": "positive",
+  "visual_framing": "hero",
+  "subjects_detected": [
+    "smartphone",
+    "news icons",
+    "globe"
+  ],
+  "narrative_suggested": "The image suggests a story about modern news consumption, highlighting the accessibility and global reach of information through mobile devices.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [
+    "bright green background",
+    "clean and modern design"
+  ],
+  "visual_bias_score": -0.35,
+  "visual_bias_direction": "supportive",
+  "confidence": 0.8,
+  "description": "The image is a graphic illustration with a bright green background. It features a stylized smartphone in the center, with two speech bubbles containing news-related graphics and text above it. One bubble has the word 'NEWS' and icons representing people and messages, while the other has 'DAILY NEWS' and an image of the Earth. The words 'Newswire Corner' are prominently displayed in white text at the bottom.",
+  "image_url": "https://cleantechnica.com/wp-content/uploads/2024/02/Cleantech-Newswire-Corner-v2.png",
+  "error": null
+}

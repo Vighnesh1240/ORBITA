@@ -1,0 +1,22 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "kitchen appliances",
+    "induction cooktops",
+    "pots and pans",
+    "boxes",
+    "people"
+  ],
+  "narrative_suggested": "The image depicts a retail environment showcasing kitchen appliances, possibly for sale or demonstration, with a logo suggesting an educational or informational context.",
+  "image_text_consistent": false,
+  "loaded_visual_elements": [
+    "UPSC Key logo"
+  ],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.8,
+  "description": "The image shows a display of induction cooktops and cookware in what appears to be a store or showroom. In the background, shelves are stocked with various items, and a few people are visible. A logo for 'UPSC Key' is overlaid on the image.",
+  "image_url": "https://images.indianexpress.com/2026/03/UPSC-Key-23rd-March-2026.jpg",
+  "error": null
+}

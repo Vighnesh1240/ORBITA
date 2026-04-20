@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://grist.org/culture/jem-bendell-society-collapse-deep-adaptation-doom/",
+    "title": "What to expect when you’re expecting the end of the world",
+    "source": "Grist",
+    "stance": "Supportive",
+    "word_count": 4239,
+    "fact_density": 0.1348314606741573
+  },
+  {
+    "url": "https://wattsupwiththat.com/2026/04/10/matt-ridley-thinks-the-climate-parrot-is-almost-dead/",
+    "title": "Matt Ridley thinks the Climate Parrot is almost dead",
+    "source": "Wattsupwiththat.com",
+    "stance": "Critical",
+    "word_count": 5039,
+    "fact_density": 0.1
+  },
+  {
+    "url": "https://www.nature.com/articles/d41586-026-01020-x",
+    "title": "‘Net zero’ isn’t madness: the staggering economic costs of climate change",
+    "source": "Nature.com",
+    "stance": "Neutral",
+    "word_count": 866,
+    "fact_density": 0.28205128205128205
+  },
+  {
+    "url": "https://theconversation.com/new-research-shows-how-forests-can-prevent-floods-of-all-sizes-277967",
+    "title": "New research shows how forests can prevent floods of all sizes",
+    "source": "The Conversation Africa",
+    "stance": "Neutral",
+    "word_count": 862,
+    "fact_density": 0.0
+  }
+]

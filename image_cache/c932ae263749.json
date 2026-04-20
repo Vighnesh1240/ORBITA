@@ -1,0 +1,18 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "island",
+    "ocean",
+    "clouds"
+  ],
+  "narrative_suggested": "The image shows a remote island in the ocean, suggesting a secluded or isolated location.",
+  "image_text_consistent": false,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.9,
+  "description": "A satellite view of a triangular-shaped island surrounded by the ocean, with scattered clouds in the sky.",
+  "image_url": "https://media.wired.com/photos/69dfa5c37e53dbff73e9fdb2/16:9/w_640%2Cc_limit/undefined",
+  "error": null
+}

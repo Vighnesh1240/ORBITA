@@ -1,0 +1,15 @@
+{
+  "image_url": "https://img.etimg.com/photo/msid-78491339,quality-100/et-tech-logo.jpg",
+  "visual_bias_score": 0.0,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.0,
+  "description": "Skipped: Image too small: 160x66",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.33,
+    0.34,
+    0.33
+  ],
+  "error": "Image too small: 160x66"
+}

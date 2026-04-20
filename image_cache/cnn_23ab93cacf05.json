@@ -1,0 +1,24 @@
+{
+  "image_url": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9678-6280-764b-a3ca-7a6868f1b98d.jpg",
+  "visual_bias_score": -0.0683,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3579,
+  "description": "OneCoin\u2019s fallout lingers as US victims  \u2014 moderate-light image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.3194,
+    0.3579,
+    0.3227
+  ],
+  "cnn_confidence": 0.3579,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.1952,
+  "brightness": 156.3,
+  "is_dark": false,
+  "contrast": 0.4308,
+  "edge_density": 0.1505,
+  "aspect_ratio": 1.502,
+  "image_size": "1200x799",
+  "error": null
+}

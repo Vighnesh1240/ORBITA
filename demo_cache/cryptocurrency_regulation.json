@@ -1,0 +1,2336 @@
+{
+  "cached_at": "2026-04-19T17:32:20.358243",
+  "topic": "Cryptocurrency Regulation",
+  "orbita_version": "1.0",
+  "result": {
+    "articles": [
+      {
+        "url": "https://finance.yahoo.com/markets/crypto/articles/dogecoin-ethereum-gold-trades-mind-133108468.html",
+        "title": "Dogecoin, Ethereum, Gold Trades On Your Mind? Here's What This Top Analyst Has Projected For The Coming Few Days",
+        "source": "Yahoo Entertainment",
+        "description": "A leading cryptocurrency analyst on Tuesday projected significant volatility for Dogecoin in the days ahead, while outlining a rosy outlook for gold. Which...",
+        "stance": "Supportive",
+        "image_urls": [
+          "https://s.yimg.com/ny/api/res/1.2/EIJEKhvKRUMCKhtvTWFinA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE5NDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-11/f4b4e310-2b77-11eb-afee-ca1478f0e9ef",
+          "https://s.yimg.com/ny/api/res/1.2/27vbO1WaAHX11_R4ZzsoSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://media.zenfs.com/en/benzinga_79/d431ef777576538d6961125a7e67aac9",
+          "https://s.yimg.com/cv/apiv2/flags/in.svg"
+        ],
+        "top_image": "https://s.yimg.com/os/en/benzinga_79/d431ef777576538d6961125a7e67aac9",
+        "fact_density": 0.2698412698412698
+      },
+      {
+        "url": "https://www.coindesk.com/business/2026/04/07/defi-yields-are-crashing-so-hard-that-they-can-t-compete-with-a-traditional-savings-account",
+        "title": "DeFi yields are crashing so hard that they can't compete with a traditional savings account",
+        "source": "CoinDesk",
+        "description": "DeFi yields have collapsed below TradFi rates, forcing investors to face higher smart contract risks for lower returns as regulation and exploits mount.",
+        "stance": "Supportive",
+        "image_urls": [
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fc344e96535fc5b6afbd13a1245861a08a36bc293-2459x1383.jpg%3Frect%3D155%2C0%2C2098%2C1180%26w%3D1920%26h%3D1080%26auto%3Dformat&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fc344e96535fc5b6afbd13a1245861a08a36bc293-2459x1383.jpg%3Frect%3D155%2C0%2C2098%2C1180%26w%3D1920%26h%3D1080%26auto%3Dformat&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fc344e96535fc5b6afbd13a1245861a08a36bc293-2459x1383.jpg%3Frect%3D155%2C0%2C2098%2C1180%26w%3D1920%26h%3D1080%26auto%3Dformat&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fc344e96535fc5b6afbd13a1245861a08a36bc293-2459x1383.jpg%3Frect%3D155%2C0%2C2098%2C1180%26w%3D1920%26h%3D1080%26auto%3Dformat&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fc344e96535fc5b6afbd13a1245861a08a36bc293-2459x1383.jpg%3Frect%3D155%2C0%2C2098%2C1180%26w%3D1920%26h%3D1080%26auto%3Dformat&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fc344e96535fc5b6afbd13a1245861a08a36bc293-2459x1383.jpg%3Frect%3D155%2C0%2C2098%2C1180%26w%3D1920%26h%3D1080%26auto%3Dformat&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fc344e96535fc5b6afbd13a1245861a08a36bc293-2459x1383.jpg%3Frect%3D155%2C0%2C2098%2C1180%26w%3D1920%26h%3D1080%26auto%3Dformat&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fc344e96535fc5b6afbd13a1245861a08a36bc293-2459x1383.jpg%3Frect%3D155%2C0%2C2098%2C1180%26w%3D1920%26h%3D1080%26auto%3Dformat&w=3840&q=75 3840w",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fb4e24df1fbeb0ecde8fd108e9b3a01d2ab14d35d-2560x1440.png%3Fauto%3Dformat&w=3840&q=75 1x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F97949b43c83134448a9c4c45a4ccbec4c217e2ee-2434x1018.png%3Fauto%3Dformat&w=3840&q=75 1x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F55be96a229a95d8d34f772f494c20c5eada92f47-1210x1010.png%3Fauto%3Dformat&w=1920&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F55be96a229a95d8d34f772f494c20c5eada92f47-1210x1010.png%3Fauto%3Dformat&w=3840&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Ffc00f3bee51d1843549a618863301339940ff52a-1920x1080.jpg%3Fauto%3Dformat&w=1920&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Ffc00f3bee51d1843549a618863301339940ff52a-1920x1080.jpg%3Fauto%3Dformat&w=3840&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Ffc00f3bee51d1843549a618863301339940ff52a-1920x1080.jpg%3Fauto%3Dformat&w=640&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Ffc00f3bee51d1843549a618863301339940ff52a-1920x1080.jpg%3Fauto%3Dformat&w=1080&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F5844591d4fc53908b4ecc1fda0511af88a269620-6024x4024.jpg%3Fauto%3Dformat&w=640&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F5844591d4fc53908b4ecc1fda0511af88a269620-6024x4024.jpg%3Fauto%3Dformat&w=1080&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fd00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg%3Fauto%3Dformat&w=640&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fd00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg%3Fauto%3Dformat&w=1080&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F0e8aeeac906cd50168870a80d35f8d8db5317d27-1920x1280.jpg%3Fauto%3Dformat&w=640&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F0e8aeeac906cd50168870a80d35f8d8db5317d27-1920x1280.jpg%3Fauto%3Dformat&w=1080&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F6c6f91659282329d0b59d72d839cd6435abb6c19-1853x1390.jpg%3Fauto%3Dformat&w=640&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F6c6f91659282329d0b59d72d839cd6435abb6c19-1853x1390.jpg%3Fauto%3Dformat&w=1080&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Ffbd1652657bfb9351a33da786859d3bebdd22a69-1920x1280.jpg%3Fauto%3Dformat&w=640&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Ffbd1652657bfb9351a33da786859d3bebdd22a69-1920x1280.jpg%3Fauto%3Dformat&w=1080&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fea6e0ec4cd84026d0707ce39424079748bd5f9fb-3449x2300.jpg%3Fauto%3Dformat&w=1080&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fea6e0ec4cd84026d0707ce39424079748bd5f9fb-3449x2300.jpg%3Fauto%3Dformat&w=2048&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F024d211d615916fbb53501cbb63dc60c856cab12-6000x3376.jpg%3Fauto%3Dformat&w=1080&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F024d211d615916fbb53501cbb63dc60c856cab12-6000x3376.jpg%3Fauto%3Dformat&w=2048&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F1c7ef9df931518fbb97d3616b561c5537192e844-1600x1067.jpg%3Fauto%3Dformat&w=1080&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F1c7ef9df931518fbb97d3616b561c5537192e844-1600x1067.jpg%3Fauto%3Dformat&w=2048&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fa7f6e584b6a4e8cc825bca016eddec6558ca3e64-7962x4479.jpg%3Fauto%3Dformat&w=1080&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fa7f6e584b6a4e8cc825bca016eddec6558ca3e64-7962x4479.jpg%3Fauto%3Dformat&w=2048&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F15e62bd5efc1b1675e308c2ac95abd54f8af04d7-2046x1151.jpg%3Fauto%3Dformat&w=1080&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F15e62bd5efc1b1675e308c2ac95abd54f8af04d7-2046x1151.jpg%3Fauto%3Dformat&w=2048&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F79097322f32ca491b677089ab91e16060a93ae23-5392x3592.jpg%3Fauto%3Dformat&w=1080&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F79097322f32ca491b677089ab91e16060a93ae23-5392x3592.jpg%3Fauto%3Dformat&w=2048&q=75 2x"
+        ],
+        "top_image": "https://cdn.sanity.io/images/s3y3vcno/production/c344e96535fc5b6afbd13a1245861a08a36bc293-2459x1383.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "fact_density": 0.4745762711864407
+      },
+      {
+        "url": "https://www.coindesk.com/opinion/2026/04/07/regulation-by-hostility-the-real-legacy-of-biden-era-crypto-policy",
+        "title": "Regulation by hostility: the real legacy of Biden-era crypto policy",
+        "source": "CoinDesk",
+        "description": "Thorn argues that a recent New York Times op-ed rewrites history through omission, glossing over the collateral damage caused by the previous administration.",
+        "stance": "Critical",
+        "image_urls": [
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fa8ab94ca03f5d38d84f74e12fdb578d41c9697ed-1674x956.jpg%3Fauto%3Dformat&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fa8ab94ca03f5d38d84f74e12fdb578d41c9697ed-1674x956.jpg%3Fauto%3Dformat&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fa8ab94ca03f5d38d84f74e12fdb578d41c9697ed-1674x956.jpg%3Fauto%3Dformat&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fa8ab94ca03f5d38d84f74e12fdb578d41c9697ed-1674x956.jpg%3Fauto%3Dformat&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fa8ab94ca03f5d38d84f74e12fdb578d41c9697ed-1674x956.jpg%3Fauto%3Dformat&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fa8ab94ca03f5d38d84f74e12fdb578d41c9697ed-1674x956.jpg%3Fauto%3Dformat&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fa8ab94ca03f5d38d84f74e12fdb578d41c9697ed-1674x956.jpg%3Fauto%3Dformat&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fa8ab94ca03f5d38d84f74e12fdb578d41c9697ed-1674x956.jpg%3Fauto%3Dformat&w=3840&q=75 3840w",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fc02de04e2163257fb6898d7c41b81fbcb7620d50-1920x1080.jpg%3Fauto%3Dformat&w=1920&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fc02de04e2163257fb6898d7c41b81fbcb7620d50-1920x1080.jpg%3Fauto%3Dformat&w=3840&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Ffc00f3bee51d1843549a618863301339940ff52a-1920x1080.jpg%3Fauto%3Dformat&w=640&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Ffc00f3bee51d1843549a618863301339940ff52a-1920x1080.jpg%3Fauto%3Dformat&w=1080&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F5844591d4fc53908b4ecc1fda0511af88a269620-6024x4024.jpg%3Fauto%3Dformat&w=640&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F5844591d4fc53908b4ecc1fda0511af88a269620-6024x4024.jpg%3Fauto%3Dformat&w=1080&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fd00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg%3Fauto%3Dformat&w=640&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fd00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg%3Fauto%3Dformat&w=1080&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F0e8aeeac906cd50168870a80d35f8d8db5317d27-1920x1280.jpg%3Fauto%3Dformat&w=640&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F0e8aeeac906cd50168870a80d35f8d8db5317d27-1920x1280.jpg%3Fauto%3Dformat&w=1080&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F6c6f91659282329d0b59d72d839cd6435abb6c19-1853x1390.jpg%3Fauto%3Dformat&w=640&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F6c6f91659282329d0b59d72d839cd6435abb6c19-1853x1390.jpg%3Fauto%3Dformat&w=1080&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Ffbd1652657bfb9351a33da786859d3bebdd22a69-1920x1280.jpg%3Fauto%3Dformat&w=640&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Ffbd1652657bfb9351a33da786859d3bebdd22a69-1920x1280.jpg%3Fauto%3Dformat&w=1080&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fea6e0ec4cd84026d0707ce39424079748bd5f9fb-3449x2300.jpg%3Fauto%3Dformat&w=1080&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fea6e0ec4cd84026d0707ce39424079748bd5f9fb-3449x2300.jpg%3Fauto%3Dformat&w=2048&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F024d211d615916fbb53501cbb63dc60c856cab12-6000x3376.jpg%3Fauto%3Dformat&w=1080&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F024d211d615916fbb53501cbb63dc60c856cab12-6000x3376.jpg%3Fauto%3Dformat&w=2048&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F1c7ef9df931518fbb97d3616b561c5537192e844-1600x1067.jpg%3Fauto%3Dformat&w=1080&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F1c7ef9df931518fbb97d3616b561c5537192e844-1600x1067.jpg%3Fauto%3Dformat&w=2048&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fa7f6e584b6a4e8cc825bca016eddec6558ca3e64-7962x4479.jpg%3Fauto%3Dformat&w=1080&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fa7f6e584b6a4e8cc825bca016eddec6558ca3e64-7962x4479.jpg%3Fauto%3Dformat&w=2048&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F15e62bd5efc1b1675e308c2ac95abd54f8af04d7-2046x1151.jpg%3Fauto%3Dformat&w=1080&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F15e62bd5efc1b1675e308c2ac95abd54f8af04d7-2046x1151.jpg%3Fauto%3Dformat&w=2048&q=75 2x",
+          "https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F79097322f32ca491b677089ab91e16060a93ae23-5392x3592.jpg%3Fauto%3Dformat&w=1080&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2F79097322f32ca491b677089ab91e16060a93ae23-5392x3592.jpg%3Fauto%3Dformat&w=2048&q=75 2x"
+        ],
+        "top_image": "https://cdn.sanity.io/images/s3y3vcno/production/a8ab94ca03f5d38d84f74e12fdb578d41c9697ed-1674x956.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "fact_density": 0.14814814814814814
+      },
+      {
+        "url": "https://cointelegraph.com/features/onecoin-fallout-lingers-us-victims-recovery",
+        "title": "OneCoin’s fallout lingers as US victims get a shot at recovery",
+        "source": "Cointelegraph",
+        "description": "Investors in the cryptocurrency Ponzi scheme OneCoin may finally get some relief through a Department of Justice program, some 12 years after the project launched.",
+        "stance": "Supportive",
+        "image_urls": [
+          "https://cointelegraph.com/_duck/img/site-logo/en.svg",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://ticker-api.cointelegraph.com/images/logo/USD.png?t=2026",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://zoa.cointelegraph.com/pixel?postId=262117&regionId=1",
+          "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=24,h=24,q=90/https://s3.cointelegraph.com/storage/uploads/view/4ede1f2682223b54ab765e51524af25f.jpg 1x, https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=48,h=48,q=90/https://s3.cointelegraph.com/storage/uploads/view/4ede1f2682223b54ab765e51524af25f.jpg 2x",
+          "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=24,h=24,q=90/https://s3.cointelegraph.com/storage/uploads/view/25ac42038a2117cda1ea0bd654246502.jpg 1x, https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=48,h=48,q=90/https://s3.cointelegraph.com/storage/uploads/view/25ac42038a2117cda1ea0bd654246502.jpg 2x",
+          "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=328,q=90/https://s3.cointelegraph.com/uploads/2026-04/019d9678-6280-764b-a3ca-7a6868f1b98d.jpg 328w, https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=644,q=90/https://s3.cointelegraph.com/uploads/2026-04/019d9678-6280-764b-a3ca-7a6868f1b98d.jpg 644w, https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=656,q=90/https://s3.cointelegraph.com/uploads/2026-04/019d9678-6280-764b-a3ca-7a6868f1b98d.jpg 656w, https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=728,q=90/https://s3.cointelegraph.com/uploads/2026-04/019d9678-6280-764b-a3ca-7a6868f1b98d.jpg 728w, https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=864,q=90/https://s3.cointelegraph.com/uploads/2026-04/019d9678-6280-764b-a3ca-7a6868f1b98d.jpg 864w, https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1288,q=90/https://s3.cointelegraph.com/uploads/2026-04/019d9678-6280-764b-a3ca-7a6868f1b98d.jpg 1288w, https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1456,q=90/https://s3.cointelegraph.com/uploads/2026-04/019d9678-6280-764b-a3ca-7a6868f1b98d.jpg 1456w, https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1728,q=90/https://s3.cointelegraph.com/uploads/2026-04/019d9678-6280-764b-a3ca-7a6868f1b98d.jpg 1728w",
+          "https://s3.cointelegraph.com/uploads/2026-04/019d966f-d6b7-74e8-95d5-d4b8c5a10909.png",
+          "https://s3.cointelegraph.com/uploads/2026-04/019d966e-f929-78e3-a222-c3f7d1cc365b.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+          "https://cointelegraph.com/_duck/img/mobile-stores/app-store-badge-en.svg",
+          "https://cointelegraph.com/_duck/img/mobile-stores/play-store-badge-en.svg"
+        ],
+        "top_image": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9678-6280-764b-a3ca-7a6868f1b98d.jpg",
+        "fact_density": 0.36764705882352944
+      },
+      {
+        "url": "http://foreignpolicy.com/2026/03/31/russia-sanctions-evasion-cryptocurrency-a7a5-kyrgyzstan-exports-dual-use-technology/",
+        "title": "Russia’s Sanctions-Busting Cryptocurrency Empire",
+        "source": "Foreign Policy",
+        "description": "A Kremlin-backed fintech company is linked to massive trade in dual-use goods.",
+        "stance": "Supportive",
+        "image_urls": [
+          "https://foreignpolicy.com/wp-content/themes/foreign-policy-2017/public/images/logos/FP_logo__app.png",
+          "https://foreignpolicy.com/wp-content/uploads/2021/09/Ones-and-Tooze-podcast-foreign-policy-logo-3000x3000-1.jpg?w=150&quality=90",
+          "https://foreignpolicy.com/wp-content/uploads/2019/11/I_SPY-series-art_updated.png?w=150&quality=90",
+          "https://foreignpolicy.com/wp-content/uploads/2023/02/FP-Live-podcast-logo-3000x3000-1.png?w=150&quality=90",
+          "https://foreignpolicy.com/wp-content/uploads/2026/03/spring-2026-print-cover-foreign-policy-magazine.jpg",
+          "https://foreignpolicy.com/wp-content/uploads/2022/11/demarais-agathe-foreign-policy-columist.jpg?w=313&quality=90",
+          "https://foreignpolicy.com/wp-content/uploads/2026/03/russia-crypto-a7a5-GettyImages-2163911919-e1774952913817.jpg?quality=90",
+          "https://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/icons/loading-animation.gif",
+          "https://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/icons/loading-animation.gif",
+          "https://foreignpolicy.com/wp-content/uploads/2026/03/russia-putin-GettyImages-2248784454.jpg?w=800&quality=80",
+          "http://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/icons/audio.svg",
+          "https://foreignpolicy.com/wp-content/uploads/2025/03/GettyImages-2195560121.jpg?w=800&quality=80",
+          "https://foreignpolicy.com/wp-content/uploads/2026/04/1-Brett-McGurk-Middle-east-policy-portrait-joan-wong-illustration-vertical-v2.jpg?w=700&quality=80",
+          "http://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/icons/audio.svg",
+          "https://foreignpolicy.com/wp-content/uploads/2026/03/1-world-after-trump-brian-stauffer-illustration.jpg?w=800&quality=80",
+          "http://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/icons/audio.svg",
+          "https://foreignpolicy.com/wp-content/uploads/2026/03/1-AI-doomsday-house-of-cards-doug-chayka-illustration.jpg?w=800&quality=80",
+          "http://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/icons/audio.svg",
+          "https://foreignpolicy.com/wp-content/uploads/2026/03/china-map-GettyImages-2262840218.jpg?w=800&quality=80",
+          "http://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/icons/audio.svg",
+          "https://foreignpolicy.com/wp-content/uploads/2026/03/1-doomsday-books-nation-state-illustration-2188671579.jpg?w=800&quality=80",
+          "https://foreignpolicy.com/wp-content/uploads/2026/02/1-trump-orban-modi-erdogan-Pillars-populism-2026.jpg?w=800&quality=80",
+          "https://foreignpolicy.com/wp-content/uploads/2026/02/International-order-dead-foreign-policy-illustration.png?w=800&quality=80",
+          "http://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/icons/audio.svg",
+          "https://foreignpolicy.com/wp-content/uploads/2026/01/GettyImages-1231954938.jpg?w=800&quality=80",
+          "http://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/icons/audio.svg",
+          "https://foreignpolicy.com/wp-content/uploads/2025/10/China-tech-dragon-development-tech-GettyImages-2187442299.jpg?w=800&quality=80",
+          "https://foreignpolicy.com/wp-content/uploads/2025/07/Kissinger-brzezinski-realism-foreign-policy-illustratrion.png?w=800&quality=80",
+          "http://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/icons/audio.svg",
+          "https://foreignpolicy.com/wp-content/uploads/2026/04/iran-trump-hormuz-war-missiles-nuclear-shipping-2263713947.jpg?w=800&quality=80",
+          "http://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/icons/audio.svg",
+          "https://foreignpolicy.com/wp-content/uploads/2026/04/Dubai_GettyImages-2267207634.jpg?w=800&quality=80",
+          "http://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/icons/audio.svg",
+          "https://foreignpolicy.com/wp-content/uploads/2026/04/oil-crisis-GettyImages-518292546.jpg?w=800&quality=80",
+          "http://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/icons/audio.svg",
+          "https://foreignpolicy.com/wp-content/uploads/2026/04/GettyImages-2269933674.jpg?w=800&quality=80",
+          "http://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/icons/audio.svg"
+        ],
+        "top_image": "https://foreignpolicy.com/wp-content/uploads/2026/03/russia-crypto-a7a5-GettyImages-2163911919-e1774952913817.jpg",
+        "fact_density": 0.4444444444444444
+      }
+    ],
+    "stats": {
+      "total_chunks": 32,
+      "by_stance": {
+        "Supportive": 27,
+        "Critical": 5,
+        "Neutral": 0
+      },
+      "db_path": "d:\\ORBITA\\src\\..\\chroma_db"
+    },
+    "report": {
+      "topic": "Cryptocurrency Regulation",
+      "bias_score": -0.4487,
+      "bias_vector": {
+        "ideological_bias": -0.3353,
+        "emotional_bias": 0.237,
+        "informational_bias": 0.0,
+        "source_diversity": 0.9755,
+        "stance_entropy": 0.5119,
+        "composite_score": -0.4487,
+        "confidence": 0.85,
+        "interpretation": "Moderately Supportive",
+        "dimension_labels": {
+          "ideological": "Moderately Supportive",
+          "emotional": "Moderate Emotional Bias",
+          "informational": "Mostly Factual",
+          "diversity": "High Source Diversity"
+        }
+      },
+      "synthesis_report": "The regulation of cryptocurrency is a contentious issue, with differing perspectives on the approach taken by the U.S. administration and the motivations behind certain cryptocurrency developments. Agent A highlights how Western sanctions have spurred the creation of \"Western-proof\" financial channels, citing the example of A7, a cryptocurrency regulated by Kyrgyz financial rules and backed by Promsvyazbank deposits, designed for sanctions evasion. This perspective also points to regulatory actions against fraudulent schemes like OneCoin, with authorities identifying and investigating it by 2015-2016 and the US Department of Justice making assets available to compensate victims. Agent B, conversely, argues that the Biden administration has \"weaponized the banking system\" against the cryptocurrency industry, leading to the \"debanking\" of lawful crypto businesses without due process. This viewpoint contends that the administration's approach lacks a reasoned regulatory framework and incorrectly dismisses the use of blockchain technology by major firms. The evidence suggests a complex landscape where regulatory actions, the pursuit of sanctions evasion, and concerns about due process and innovation all play significant roles in the ongoing debate surrounding cryptocurrency regulation. The visual analysis indicates a neutral framing and tone across the provided images, while the independent NLP validation shows a slightly negative average sentiment, with a mix of positive, negative, and neutral sentiments across individual articles.",
+      "loaded_language_removed": [
+        "weaponize the banking system",
+        "Western-proof financial channels",
+        "debanked lawful crypto businesses",
+        "sanctions evasion at an industrial scale"
+      ],
+      "key_agreements": [
+        "Regulators are actively involved in identifying and investigating cryptocurrency-related activities.",
+        "Sanctions have influenced the development of alternative financial channels."
+      ],
+      "key_disagreements": [
+        "The intent and impact of U.S. regulatory actions on the crypto industry (weaponization vs. necessary oversight).",
+        "The extent to which major financial institutions are utilizing blockchain technology.",
+        "The effectiveness and fairness of the current regulatory approach."
+      ],
+      "source_citations": [
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7]",
+        "[8]"
+      ],
+      "hallucination_flags": [
+        "The extra return that once justified the exposure has largely disappeared.",
+        "The anonymity of cryptocurrency, where public ledgers record transfers between wallet addresses rather than identifiable individuals, facilitates sanctions evasion.",
+        "This program marks a milestone for OneCoin victims, most of whom had no recourse to get back what they lost, until now",
+        "EU cryptocurrency regulation, MiCA, only applies to EU-based exchanges and cannot reach networks operating entirely outside European jurisdiction, such as A7/A7A5.",
+        "Therefore, the legislation cannot reach networks operating entirely outside European jurisdiction, such as A7/A7A5 or even tether.",
+        "By year’s end, Norway, Bulgaria, Finland, Sweden and Latvia were all investigating the project.",
+        "Western sanctions cut off targets from global finance, prompting the development of Western-proof financial channels, which the Kremlin supported through the creation of A7.",
+        "For investors weighing up a 2%-3% yield on DeFi against 3.14% at a traditional brokerage, that context is hard to ignore.",
+        "The Promsvyazbank backing ensures virtually unlimited liquidity.",
+        "It is also backed by Promsvyazbank’s deposits.",
+        "The Biden economists’ claim that no “giant tech firms” are using this technology is flatly wrong.",
+        "Under pressure from federal regulators, banks systematically debanked lawful crypto businesses, cutting them off from the financial system without due process, formal rulemaking, or legislative authority.",
+        "The extra return that once justified exposure to DeFi has largely disappeared, making it less attractive compared to traditional brokerages.",
+        "Bulgaria's Financial Supervision Commission issued a warning about OneCoin, after which the company ceased all operations in the country.",
+        "it was not a reasoned regulatory framework.",
+        "The US Department of Justice has made $40 million in assets available to compensate victims of the OneCoin Ponzi scam who purchased the cryptocurrency between 2014 and 2019 and experienced a net loss.",
+        "The Biden economists’ claim that no “giant tech firms” are using blockchain technology is flatly wrong.",
+        "This is what the Kremlin set out to do in late 2024 , when it supported the creation of A7, a Moscow-based",
+        "MiCA, the EU’s cryptocurrency regulation, only applies to EU-based exchanges.",
+        "By 2016, several other national financial regulators also had OneCoin on their lists.",
+        "For sanctioned economies, the workaround is obvious: developing Western-proof financial channels.",
+        "The Biden administration's approach to cryptocurrency was not a reasoned regulatory framework.",
+        "Regulators began to identify and investigate OneCoin by late 2015, with several national financial regulators adding it to their lists by 2016."
+      ],
+      "nlp_validation_note": "The independent NLP validation data shows a slightly negative average sentiment, which aligns with the mixed sentiments observed in the synthesis, reflecting both critical and supportive arguments presented.",
+      "visual_context": "VISUAL ANALYSIS — 7 images [Method: CNN (ResNet-50) + Color Analysis]:\nVisual bias: +0.00 (neutral)\nDominant framing: neutral | Dominant tone: neutral\nImage descriptions:\n[CoinDesk] DeFi yields are crashing so hard that th — moderate-light im (CNN: neutral, conf=0.35, framing=neutral)\n[Yahoo Entertainment] Dogecoin, Ethereum, Gold Trades On Your  — bright image, CNN (CNN: neutral, conf=0.36, framing=neutral)\n[Foreign Policy] Russia’s Sanctions-Busting Cryptocurrenc — moderate-light im (CNN: neutral, conf=0.35, framing=neutral)\n[Foreign Policy] Russia’s Sanctions-Busting Cryptocurrenc — moderate-light im (CNN: neutral, conf=0.34, framing=neutral)",
+      "nlp_context_used": true,
+      "chain_of_thought": [
+        {
+          "step_type": "sentiment",
+          "phase": "Phase 2.5",
+          "title": "VADER Sentiment → neutral tone",
+          "detail": "VADER sentiment analysis on 5 articles.\nAverage compound score: -0.0280\nThis provides INDEPENDENT validation of bias direction.",
+          "evidence": [
+            "Avg VADER compound: -0.028",
+            "Yahoo Entertainment: +0.997 (positive)",
+            "CoinDesk: +0.036 (neutral)",
+            "CoinDesk: +0.280 (positive)",
+            "Cointelegraph: -0.991 (negative)"
+          ],
+          "confidence": 0.8333,
+          "score": -0.028,
+          "timestamp": "17:32:20.353",
+          "elapsed_ms": 0,
+          "agent": "NLP Analyzer"
+        },
+        {
+          "step_type": "entity",
+          "phase": "Phase 2.5",
+          "title": "spaCy NER → 25 entities found",
+          "detail": "Named Entity Recognition extracted 25 unique entities from all articles.\nTop entities reveal WHO and WHAT the coverage focuses on, which can indicate coverage bias.",
+          "evidence": [
+            "Total unique entities: 25",
+            "OneCoin (Places): 21x",
+            "DeFi (Organizations): 13x",
+            "Biden (People): 10x",
+            "Russian (Groups): 8x",
+            "Russia (Places): 8x"
+          ],
+          "confidence": 0.9,
+          "score": null,
+          "timestamp": "17:32:20.353",
+          "elapsed_ms": 0,
+          "agent": "NLP Analyzer"
+        },
+        {
+          "step_type": "keyword",
+          "phase": "Phase 2.5",
+          "title": "TF-IDF → Top keywords: onecoin, investors, biden, a7a5, adminis",
+          "detail": "TF-IDF keyword extraction identified the most distinctive terms across all articles.\nThese reveal the TOPICAL FOCUS of coverage.",
+          "evidence": [
+            "Top 20 keywords extracted",
+            "Keywords: onecoin, investors, biden, a7a5, administration, defi, financial, sanctions"
+          ],
+          "confidence": 0.9,
+          "score": null,
+          "timestamp": "17:32:20.353",
+          "elapsed_ms": 0,
+          "agent": "NLP Analyzer"
+        },
+        {
+          "step_type": "validation",
+          "phase": "Post-Phase 4",
+          "title": "Cross-Validation → Moderate Agreement (diff=0.227)",
+          "detail": "HYBRID VALIDATION: Manual NLP (VADER) vs Gemini AI\nThis is a key research contribution — two independent methods agree on bias direction.\nAgreement level: Moderate Agreement\n✓ Direction agrees",
+          "evidence": [
+            "Manual NLP score: -0.2215",
+            "Gemini AI score:  -0.4487",
+            "Absolute diff:    0.2272",
+            "Direction: AGREES"
+          ],
+          "confidence": 0.7728,
+          "score": -0.4487,
+          "timestamp": "17:32:20.353",
+          "elapsed_ms": 0,
+          "agent": "Validator"
+        },
+        {
+          "step_type": "pipeline",
+          "phase": "Phase 4",
+          "title": "Multi-Agent RAG Synthesis Started",
+          "detail": "Topic: Cryptocurrency Regulation\nVisual context: Yes\nNLP context: Yes",
+          "evidence": [
+            "Topic: Cryptocurrency Regulation",
+            "Visual context available: True",
+            "NLP context available: True"
+          ],
+          "confidence": 1.0,
+          "score": null,
+          "timestamp": "17:32:06.262",
+          "elapsed_ms": 0,
+          "agent": ""
+        },
+        {
+          "step_type": "retrieval",
+          "phase": "Phase 4",
+          "title": "ChromaDB Ready — 32 chunks",
+          "detail": "Vector store verified.\nTotal chunks: 32\nStance breakdown: {'Supportive': 27, 'Critical': 5, 'Neutral': 0}",
+          "evidence": [
+            "Total chunks: 32",
+            "Supportive: 27",
+            "Critical:   5",
+            "Neutral:    0"
+          ],
+          "confidence": 1.0,
+          "score": null,
+          "timestamp": "17:32:06.290",
+          "elapsed_ms": 27,
+          "agent": "Pipeline"
+        },
+        {
+          "step_type": "retrieval",
+          "phase": "Phase 3",
+          "title": "Semantic Search — Agent A",
+          "detail": "Query: \"benefits advantages support arguments in favour of Cryptocurrency Regulation\"\nRetrieved 12 relevant chunks from ChromaDB vector store. Filtered by stance: Supportive.",
+          "evidence": [
+            "Retrieved 12 chunks",
+            "Stance filter: Supportive",
+            "Sources: Foreign Policy, Cointelegraph"
+          ],
+          "confidence": 1.0,
+          "score": null,
+          "timestamp": "17:32:07.335",
+          "elapsed_ms": 1044,
+          "agent": "Agent A"
+        },
+        {
+          "step_type": "argument",
+          "phase": "Phase 4",
+          "title": "Agent A — Building Prompt",
+          "detail": "Constructed prompt with:\n• 12 RAG chunks\n• Visual context: yes\n• NLP context: yes",
+          "evidence": [
+            "RAG chunks: 12",
+            "Prompt length: 6595 chars"
+          ],
+          "confidence": 0.9,
+          "score": null,
+          "timestamp": "17:32:07.335",
+          "elapsed_ms": 0,
+          "agent": "Agent A"
+        },
+        {
+          "step_type": "argument",
+          "phase": "Phase 4",
+          "title": "Agent A → 8 supporting arguments (conf: 0.80)",
+          "detail": "Agent A extracted 8 supporting arguments using RAG retrieval from ChromaDB.\nNLP context provided: VADER sentiment scores and named entities helped identify strongest evidence.\nConfidence score: 0.80",
+          "evidence": [
+            "Extracted 8 arguments",
+            "Agent confidence: 0.80",
+            "NLP context (VADER+spaCy) used",
+            "• Western sanctions cut off targets from global finance, prompting the development",
+            "• Regulators began to identify and investigate OneCoin by late 2015, with several "
+          ],
+          "confidence": 0.8,
+          "score": null,
+          "timestamp": "17:32:12.995",
+          "elapsed_ms": 5660,
+          "agent": "Agent A"
+        },
+        {
+          "step_type": "retrieval",
+          "phase": "Phase 3",
+          "title": "Semantic Search — Agent B",
+          "detail": "Query: \"criticism problems risks opposition concerns about Cryptocurrency Regulation\"\nRetrieved 5 relevant chunks from ChromaDB vector store. Filtered by stance: Critical.",
+          "evidence": [
+            "Retrieved 5 chunks",
+            "Stance filter: Critical",
+            "Sources: CoinDesk"
+          ],
+          "confidence": 0.5,
+          "score": null,
+          "timestamp": "17:32:13.887",
+          "elapsed_ms": 891,
+          "agent": "Agent B"
+        },
+        {
+          "step_type": "argument",
+          "phase": "Phase 4",
+          "title": "Agent B → 4 counter arguments (conf: 0.90)",
+          "detail": "Agent B extracted 4 counter arguments using RAG retrieval from ChromaDB.\nNLP context provided: VADER sentiment scores and named entities helped identify strongest evidence.\nConfidence score: 0.90",
+          "evidence": [
+            "Extracted 4 arguments",
+            "Agent confidence: 0.90",
+            "NLP context (VADER+spaCy) used",
+            "• The Biden administration chose to weaponize the banking system against a legal i",
+            "• Under pressure from federal regulators, banks systematically debanked lawful cry"
+          ],
+          "confidence": 0.9,
+          "score": null,
+          "timestamp": "17:32:16.032",
+          "elapsed_ms": 2145,
+          "agent": "Agent B"
+        },
+        {
+          "step_type": "retrieval",
+          "phase": "Phase 3",
+          "title": "Semantic Search — Agent C",
+          "detail": "Query: \"facts analysis evidence about Cryptocurrency Regulation\"\nRetrieved 15 relevant chunks from ChromaDB vector store.",
+          "evidence": [
+            "Retrieved 15 chunks",
+            "Sources: CoinDesk, Cointelegraph"
+          ],
+          "confidence": 1.0,
+          "score": null,
+          "timestamp": "17:32:16.669",
+          "elapsed_ms": 637,
+          "agent": "Agent C"
+        },
+        {
+          "step_type": "validation",
+          "phase": "Phase 4",
+          "title": "Hallucination Check — 24 flags",
+          "detail": "Checked 34 claims against 17 source chunks.\nFlagged 24 potentially ungrounded claims.\nMethod: TF-IDF cosine similarity (threshold=0.35)",
+          "evidence": [
+            "Total claims checked: 34",
+            "Source chunks used: 17",
+            "Claims flagged: 24",
+            "Claims verified: 10"
+          ],
+          "confidence": 0.5,
+          "score": null,
+          "timestamp": "17:32:16.685",
+          "elapsed_ms": 16,
+          "agent": "Agent C"
+        },
+        {
+          "step_type": "synthesis",
+          "phase": "Phase 4",
+          "title": "Gemini Synthesis Complete",
+          "detail": "Agent C called Gemini API with combined context:\nAgent A args + Agent B counters + RAG chunks + NLP validation data.\nResponse length: 2736 chars",
+          "evidence": [
+            "Prompt length: 5805 chars",
+            "Response length: 2736 chars"
+          ],
+          "confidence": 0.85,
+          "score": null,
+          "timestamp": "17:32:20.336",
+          "elapsed_ms": 3650,
+          "agent": "Agent C"
+        },
+        {
+          "step_type": "decision",
+          "phase": "Phase 4",
+          "title": "Bias Vector Computed → -0.4487 (Moderately Supportive)",
+          "detail": "Multi-dimensional bias vector computed:\nIdeological: -0.3353\nEmotional:   0.2370\nDiversity:   0.9755\nComposite:   -0.4487",
+          "evidence": [
+            "Ideological: -0.3353",
+            "Emotional:   0.2370",
+            "Info:        0.0000",
+            "Diversity:   0.9755",
+            "Composite:   -0.4487"
+          ],
+          "confidence": 0.85,
+          "score": -0.4487,
+          "timestamp": "17:32:20.338",
+          "elapsed_ms": 1,
+          "agent": "Agent C"
+        },
+        {
+          "step_type": "synthesis",
+          "phase": "Phase 4",
+          "title": "Agent C Synthesis → 212 words, 23 flags",
+          "detail": "Agent C synthesized arguments from both sides into a 212-word neutral report.\nHallucination check: 23 claims flagged as potentially ungrounded.\nNLP validation: The independent NLP validation data shows a slightly negative average sentiment, which aligns with the mixed sentiments observed in the synthesis, reflecting both critical and supportive arguments presented.",
+          "evidence": [
+            "Synthesis length: 212 words",
+            "Hallucination flags: 23",
+            "NLP note: The independent NLP validation data shows a slightly negative average sentiment,"
+          ],
+          "confidence": 0.5,
+          "score": null,
+          "timestamp": "17:32:20.338",
+          "elapsed_ms": 0,
+          "agent": "Agent C"
+        },
+        {
+          "step_type": "decision",
+          "phase": "Final",
+          "title": "Final Decision → -0.449 (Moderately Supportive)",
+          "detail": "Final composite bias score computed from:\n• Ideological bias (stance distribution)\n• Emotional bias (language analysis)\n• Source diversity (perspective coverage)\n• VADER validation (independent NLP)\nScore -0.4487 interpreted as: Moderately Supportive",
+          "evidence": [
+            "Final composite score: -0.4487",
+            "Interpretation: Moderately Supportive",
+            "Ideological: -0.3353",
+            "Emotional: 0.2370",
+            "Diversity: 0.9755",
+            "Entropy: 0.5119"
+          ],
+          "confidence": 0.9,
+          "score": -0.4487,
+          "timestamp": "17:32:20.338",
+          "elapsed_ms": 0,
+          "agent": "Agent C"
+        }
+      ],
+      "cot_summary": {
+        "topic": "Cryptocurrency Regulation",
+        "total_steps": 13,
+        "total_elapsed": 14.09,
+        "step_breakdown": {
+          "pipeline": 1,
+          "retrieval": 4,
+          "argument": 3,
+          "validation": 1,
+          "decision": 2,
+          "synthesis": 2
+        },
+        "phases": [
+          "Phase 4",
+          "Phase 3",
+          "Final"
+        ]
+      },
+      "agent_a": {
+        "arguments": [
+          "Western sanctions cut off targets from global finance, prompting the development of Western-proof financial channels, which the Kremlin supported through the creation of A7.",
+          "Regulators began to identify and investigate OneCoin by late 2015, with several national financial regulators adding it to their lists by 2016.",
+          "The US Department of Justice has made $40 million in assets available to compensate victims of the OneCoin Ponzi scam who purchased the cryptocurrency between 2014 and 2019 and experienced a net loss.",
+          "A7 offers A7A5, a cryptocurrency issued by Old Vector and regulated by Kyrgyz financial rules, backed by Promsvyazbank deposits, designed for sanctions evasion at an industrial scale.",
+          "The anonymity of cryptocurrency, where public ledgers record transfers between wallet addresses rather than identifiable individuals, facilitates sanctions evasion.",
+          "EU cryptocurrency regulation, MiCA, only applies to EU-based exchanges and cannot reach networks operating entirely outside European jurisdiction, such as A7/A7A5.",
+          "A7A5 turnover was estimated at $72 billion–$93 billion in 2025, equivalent to one-third of Russia’s imports bill, with A7 processing $39 billion in transactions linked to sanctions evasion.",
+          "The extra return that once justified exposure to DeFi has largely disappeared, making it less attractive compared to traditional brokerages."
+        ],
+        "evidence": [
+          "Western sanctions cut off their targets from global finance, including the SWIFT messaging network, cross-border correspondent banking relationships, and clearing mechanisms for dollar payments.",
+          "For sanctioned economies, the workaround is obvious: developing Western-proof financial channels.",
+          "This is what the Kremlin set out to do in late 2024 , when it supported the creation of A7, a Moscow-based",
+          "Bulgaria's Financial Supervision Commission issued a warning about OneCoin, after which the company ceased all operations in the country.",
+          "By 2016, several other national financial regulators also had OneCoin on their lists.",
+          "By year’s end, Norway, Bulgaria, Finland, Sweden and Latvia were all investigating the project.",
+          "On April 13, the US Department of Justice said that $40 million in assets are available to anyone who purchased OneCoin between 2014 and 2019 and experienced a net loss.",
+          "This program marks a milestone for OneCoin victims, most of whom had no recourse to get back what they lost, until now",
+          "A7 offers access to a unique product: A7A5, a cryptocurrency issued by the obscure Kyrgyz firm Old Vector and regulated by Kyrgyz financial rules.",
+          "It is also backed by Promsvyazbank’s deposits.",
+          "The Promsvyazbank backing ensures virtually unlimited liquidity.",
+          "The ledger records transfers between wallet addresses, not identifiable individuals or firms—like a highway where every car is visible but none has a license plate identifying its owner.",
+          "MiCA, the EU’s cryptocurrency regulation, only applies to EU-based exchanges.",
+          "Therefore, the legislation cannot reach networks operating entirely outside European jurisdiction, such as A7/A7A5 or even tether.",
+          "Experts estimate that A7A5 turnover stood at around $72 billion–$93 billion in 2025, a range that is equivalent to as much as one-third of Russia’s entire imports bill.",
+          "Meanwhile, A7 processed some $39 billion in transactions linked to sanctions evasion, a figure roughly equivalent to Russia’s prewar annual import bill for high-tech—and often dual-use—goods.",
+          "For investors weighing up a 2%-3% yield on DeFi against 3.14% at a traditional brokerage, that context is hard to ignore.",
+          "The extra return that once justified the exposure has largely disappeared."
+        ],
+        "key_sources": [
+          "Foreign Policy",
+          "Cointelegraph"
+        ],
+        "confidence_score": 0.8,
+        "nlp_validated_arguments": [
+          "Western sanctions cut off targets from global finance, prompting the development of Western-proof financial channels, which the Kremlin supported through the creation of A7.",
+          "Regulators began to identify and investigate OneCoin by late 2015, with several national financial regulators adding it to their lists by 2016.",
+          "The US Department of Justice has made $40 million in assets available to compensate victims of the OneCoin Ponzi scam who purchased the cryptocurrency between 2014 and 2019 and experienced a net loss.",
+          "A7 offers A7A5, a cryptocurrency issued by Old Vector and regulated by Kyrgyz financial rules, backed by Promsvyazbank deposits, designed for sanctions evasion at an industrial scale.",
+          "The anonymity of cryptocurrency, where public ledgers record transfers between wallet addresses rather than identifiable individuals, facilitates sanctions evasion.",
+          "EU cryptocurrency regulation, MiCA, only applies to EU-based exchanges and cannot reach networks operating entirely outside European jurisdiction, such as A7/A7A5.",
+          "A7A5 turnover was estimated at $72 billion–$93 billion in 2025, equivalent to one-third of Russia’s imports bill, with A7 processing $39 billion in transactions linked to sanctions evasion."
+        ],
+        "top_entities_referenced": [
+          "A7",
+          "OneCoin",
+          "A7A5",
+          "Western sanctions",
+          "Kremlin",
+          "US Department of Justice",
+          "Promsvyazbank",
+          "Old Vector",
+          "Kyrgyz financial rules",
+          "MiCA",
+          "EU",
+          "DeFi"
+        ],
+        "argument_traces": [
+          {
+            "argument": "Western sanctions cut off targets from global finance, prompting the development of Western-proof financial channels, which the Kremlin supported through the creation of A7.",
+            "evidence": "Western sanctions cut off their targets from global finance, including the SWIFT messaging network, cross-border correspondent banking relationships, and clearing mechanisms for dollar payments.",
+            "source": "Foreign Policy",
+            "url": "http://foreignpolicy.com/2026/03/31/russia-sanctions-evasion-cryptocurrency-a7a5-kyrgyzstan-exports-dual-use-technology/"
+          },
+          {
+            "argument": "Regulators began to identify and investigate OneCoin by late 2015, with several national financial regulators adding it to their lists by 2016.",
+            "evidence": "By 2016, several other national financial regulators also had OneCoin on their lists.",
+            "source": "Cointelegraph",
+            "url": "https://cointelegraph.com/features/onecoin-fallout-lingers-us-victims-recovery"
+          },
+          {
+            "argument": "The US Department of Justice has made $40 million in assets available to compensate victims of the OneCoin Ponzi scam who purchased the cryptocurrency between 2014 and 2019 and experienced a net loss.",
+            "evidence": "On April 13, the US Department of Justice said that $40 million in assets are available to anyone who purchased OneCoin between 2014 and 2019 and experienced a net loss.",
+            "source": "Cointelegraph",
+            "url": "https://cointelegraph.com/features/onecoin-fallout-lingers-us-victims-recovery"
+          },
+          {
+            "argument": "A7 offers A7A5, a cryptocurrency issued by Old Vector and regulated by Kyrgyz financial rules, backed by Promsvyazbank deposits, designed for sanctions evasion at an industrial scale.",
+            "evidence": "A7 offers access to a unique product: A7A5, a cryptocurrency issued by the obscure Kyrgyz firm Old Vector and regulated by Kyrgyz financial rules.",
+            "source": "Foreign Policy",
+            "url": "http://foreignpolicy.com/2026/03/31/russia-sanctions-evasion-cryptocurrency-a7a5-kyrgyzstan-exports-dual-use-technology/"
+          },
+          {
+            "argument": "The anonymity of cryptocurrency, where public ledgers record transfers between wallet addresses rather than identifiable individuals, facilitates sanctions evasion.",
+            "evidence": "The ledger records transfers between wallet addresses, not identifiable individuals or firms—like a highway where every car is visible but none has a license plate identifying its owner.",
+            "source": "Foreign Policy",
+            "url": "http://foreignpolicy.com/2026/03/31/russia-sanctions-evasion-cryptocurrency-a7a5-kyrgyzstan-exports-dual-use-technology/"
+          },
+          {
+            "argument": "EU cryptocurrency regulation, MiCA, only applies to EU-based exchanges and cannot reach networks operating entirely outside European jurisdiction, such as A7/A7A5.",
+            "evidence": "MiCA, the EU’s cryptocurrency regulation, only applies to EU-based exchanges.",
+            "source": "Foreign Policy",
+            "url": "http://foreignpolicy.com/2026/03/31/russia-sanctions-evasion-cryptocurrency-a7a5-kyrgyzstan-exports-dual-use-technology/"
+          },
+          {
+            "argument": "A7A5 turnover was estimated at $72 billion–$93 billion in 2025, equivalent to one-third of Russia’s imports bill, with A7 processing $39 billion in transactions linked to sanctions evasion.",
+            "evidence": "Experts estimate that A7A5 turnover stood at around $72 billion–$93 billion in 2025, a range that is equivalent to as much as one-third of Russia’s entire imports bill.",
+            "source": "Foreign Policy",
+            "url": "http://foreignpolicy.com/2026/03/31/russia-sanctions-evasion-cryptocurrency-a7a5-kyrgyzstan-exports-dual-use-technology/"
+          },
+          {
+            "argument": "The extra return that once justified exposure to DeFi has largely disappeared, making it less attractive compared to traditional brokerages.",
+            "evidence": "The extra return that once justified the exposure has largely disappeared.",
+            "source": "CoinDesk",
+            "url": "https://www.coindesk.com/business/2026/04/07/defi-yields-are-crashing-so-hard-that-they-can-t-compete-with-a-traditional-savings-account"
+          }
+        ],
+        "visual_context_used": true,
+        "nlp_context_used": true
+      },
+      "agent_b": {
+        "counter_arguments": [
+          "The Biden administration chose to weaponize the banking system against a legal industry, creating a lose-lose-lose for innovation, consumer protection and the U.S. crypto industry.",
+          "Under pressure from federal regulators, banks systematically debanked lawful crypto businesses, cutting them off from the financial system without due process, formal rulemaking, or legislative authority.",
+          "The Biden administration's approach to cryptocurrency was not a reasoned regulatory framework.",
+          "The Biden economists’ claim that no “giant tech firms” are using blockchain technology is flatly wrong."
+        ],
+        "evidence": [
+          "Instead, it chose to weaponize the banking system against a legal industry, creating a lose-lose-lose for innovation, consumer protection and the U.S. cryp",
+          "Under pressure from federal regulators, banks systematically debanked lawful crypto businesses, cutting them off from the financial system without due process, formal rulemaking, or legislative authority.",
+          "it was not a reasoned regulatory framework.",
+          "The Biden economists’ claim that no “giant tech firms” are using this technology is flatly wrong."
+        ],
+        "key_sources": [
+          "CoinDesk"
+        ],
+        "confidence_score": 0.9,
+        "nlp_validated_counter_arguments": [
+          "The Biden administration chose to weaponize the banking system against a legal industry, creating a lose-lose-lose for innovation, consumer protection and the U.S. crypto industry.",
+          "Under pressure from federal regulators, banks systematically debanked lawful crypto businesses, cutting them off from the financial system without due process, formal rulemaking, or legislative authority.",
+          "The Biden administration's approach to cryptocurrency was not a reasoned regulatory framework.",
+          "The Biden economists’ claim that no “giant tech firms” are using blockchain technology is flatly wrong."
+        ],
+        "top_critical_entities": [
+          "Biden administration",
+          "banking system",
+          "federal regulators",
+          "crypto businesses",
+          "blockchain technology",
+          "giant tech firms"
+        ],
+        "visual_context_used": true,
+        "nlp_context_used": true
+      },
+      "agent_c": {
+        "synthesis_report": "The regulation of cryptocurrency is a contentious issue, with differing perspectives on the approach taken by the U.S. administration and the motivations behind certain cryptocurrency developments. Agent A highlights how Western sanctions have spurred the creation of \"Western-proof\" financial channels, citing the example of A7, a cryptocurrency regulated by Kyrgyz financial rules and backed by Promsvyazbank deposits, designed for sanctions evasion. This perspective also points to regulatory actions against fraudulent schemes like OneCoin, with authorities identifying and investigating it by 2015-2016 and the US Department of Justice making assets available to compensate victims. Agent B, conversely, argues that the Biden administration has \"weaponized the banking system\" against the cryptocurrency industry, leading to the \"debanking\" of lawful crypto businesses without due process. This viewpoint contends that the administration's approach lacks a reasoned regulatory framework and incorrectly dismisses the use of blockchain technology by major firms. The evidence suggests a complex landscape where regulatory actions, the pursuit of sanctions evasion, and concerns about due process and innovation all play significant roles in the ongoing debate surrounding cryptocurrency regulation. The visual analysis indicates a neutral framing and tone across the provided images, while the independent NLP validation shows a slightly negative average sentiment, with a mix of positive, negative, and neutral sentiments across individual articles.",
+        "bias_score": -0.4487,
+        "loaded_language_removed": [
+          "weaponize the banking system",
+          "Western-proof financial channels",
+          "debanked lawful crypto businesses",
+          "sanctions evasion at an industrial scale"
+        ],
+        "key_agreements": [
+          "Regulators are actively involved in identifying and investigating cryptocurrency-related activities.",
+          "Sanctions have influenced the development of alternative financial channels."
+        ],
+        "key_disagreements": [
+          "The intent and impact of U.S. regulatory actions on the crypto industry (weaponization vs. necessary oversight).",
+          "The extent to which major financial institutions are utilizing blockchain technology.",
+          "The effectiveness and fairness of the current regulatory approach."
+        ],
+        "source_citations": [
+          "[1]",
+          "[2]",
+          "[3]",
+          "[4]",
+          "[5]",
+          "[6]",
+          "[7]",
+          "[8]"
+        ],
+        "hallucination_flags": [
+          "The extra return that once justified the exposure has largely disappeared.",
+          "The anonymity of cryptocurrency, where public ledgers record transfers between wallet addresses rather than identifiable individuals, facilitates sanctions evasion.",
+          "This program marks a milestone for OneCoin victims, most of whom had no recourse to get back what they lost, until now",
+          "EU cryptocurrency regulation, MiCA, only applies to EU-based exchanges and cannot reach networks operating entirely outside European jurisdiction, such as A7/A7A5.",
+          "Therefore, the legislation cannot reach networks operating entirely outside European jurisdiction, such as A7/A7A5 or even tether.",
+          "By year’s end, Norway, Bulgaria, Finland, Sweden and Latvia were all investigating the project.",
+          "Western sanctions cut off targets from global finance, prompting the development of Western-proof financial channels, which the Kremlin supported through the creation of A7.",
+          "For investors weighing up a 2%-3% yield on DeFi against 3.14% at a traditional brokerage, that context is hard to ignore.",
+          "The Promsvyazbank backing ensures virtually unlimited liquidity.",
+          "It is also backed by Promsvyazbank’s deposits.",
+          "The Biden economists’ claim that no “giant tech firms” are using this technology is flatly wrong.",
+          "Under pressure from federal regulators, banks systematically debanked lawful crypto businesses, cutting them off from the financial system without due process, formal rulemaking, or legislative authority.",
+          "The extra return that once justified exposure to DeFi has largely disappeared, making it less attractive compared to traditional brokerages.",
+          "Bulgaria's Financial Supervision Commission issued a warning about OneCoin, after which the company ceased all operations in the country.",
+          "it was not a reasoned regulatory framework.",
+          "The US Department of Justice has made $40 million in assets available to compensate victims of the OneCoin Ponzi scam who purchased the cryptocurrency between 2014 and 2019 and experienced a net loss.",
+          "The Biden economists’ claim that no “giant tech firms” are using blockchain technology is flatly wrong.",
+          "This is what the Kremlin set out to do in late 2024 , when it supported the creation of A7, a Moscow-based",
+          "MiCA, the EU’s cryptocurrency regulation, only applies to EU-based exchanges.",
+          "By 2016, several other national financial regulators also had OneCoin on their lists.",
+          "For sanctioned economies, the workaround is obvious: developing Western-proof financial channels.",
+          "The Biden administration's approach to cryptocurrency was not a reasoned regulatory framework.",
+          "Regulators began to identify and investigate OneCoin by late 2015, with several national financial regulators adding it to their lists by 2016."
+        ],
+        "nlp_validation_note": "The independent NLP validation data shows a slightly negative average sentiment, which aligns with the mixed sentiments observed in the synthesis, reflecting both critical and supportive arguments presented.",
+        "bias_vector": {
+          "ideological_bias": -0.3353,
+          "emotional_bias": 0.237,
+          "informational_bias": 0.0,
+          "source_diversity": 0.9755,
+          "stance_entropy": 0.5119,
+          "composite_score": -0.4487,
+          "confidence": 0.85,
+          "interpretation": "Moderately Supportive",
+          "dimension_labels": {
+            "ideological": "Moderately Supportive",
+            "emotional": "Moderate Emotional Bias",
+            "informational": "Mostly Factual",
+            "diversity": "High Source Diversity"
+          }
+        },
+        "visual_context_used": true,
+        "nlp_context_used": true
+      },
+      "nlp_summary": {
+        "avg_vader_compound": -0.028,
+        "sentiment_distribution": {
+          "positive": 2,
+          "neutral": 1,
+          "negative": 2
+        },
+        "manual_bias_score": -0.2215,
+        "manual_validation_note": "Sentiment near-neutral — topic may be balanced",
+        "gemini_validation": {
+          "agreement_level": "Moderate Agreement",
+          "absolute_diff": 0.2272,
+          "direction_agrees": true,
+          "agreement_score": 0.8864
+        },
+        "top_keywords": [
+          "onecoin",
+          "investors",
+          "biden",
+          "a7a5",
+          "administration",
+          "defi",
+          "financial",
+          "sanctions",
+          "yield",
+          "biden administration"
+        ],
+        "top_entities": [
+          {
+            "text": "OneCoin",
+            "label": "GPE",
+            "count": 21
+          },
+          {
+            "text": "DeFi",
+            "label": "ORG",
+            "count": 13
+          },
+          {
+            "text": "Biden",
+            "label": "PERSON",
+            "count": 10
+          },
+          {
+            "text": "Russian",
+            "label": "NORP",
+            "count": 8
+          },
+          {
+            "text": "Russia",
+            "label": "GPE",
+            "count": 8
+          },
+          {
+            "text": "EU",
+            "label": "ORG",
+            "count": 7
+          },
+          {
+            "text": "USDC",
+            "label": "ORG",
+            "count": 6
+          },
+          {
+            "text": "the United States",
+            "label": "GPE",
+            "count": 6
+          },
+          {
+            "text": "Kyrgyzstan",
+            "label": "GPE",
+            "count": 6
+          },
+          {
+            "text": "today",
+            "label": "DATE",
+            "count": 5
+          }
+        ],
+        "libraries_used": {
+          "vader": true,
+          "spacy": true,
+          "wordcloud": true
+        }
+      }
+    },
+    "topic": "Cryptocurrency Regulation",
+    "intent": {
+      "original_input": "Cryptocurrency Regulation",
+      "topic": "Cryptocurrency Regulation",
+      "entities": [],
+      "keywords": [
+        "cryptocurrency",
+        "regulation"
+      ],
+      "search_queries": [
+        "Cryptocurrency Regulation",
+        "Cryptocurrency Regulation debate analysis",
+        "Cryptocurrency Regulation India"
+      ]
+    },
+    "nlp_analysis": {
+      "per_article_sentiment": [
+        {
+          "source": "Yahoo Entertainment",
+          "stance": "Supportive",
+          "title": "Dogecoin, Ethereum, Gold Trades On Your Mind? Here",
+          "compound": 0.9972,
+          "pos": 0.147,
+          "neg": 0.027,
+          "neu": 0.826,
+          "label": "positive"
+        },
+        {
+          "source": "CoinDesk",
+          "stance": "Supportive",
+          "title": "DeFi yields are crashing so hard that they can't c",
+          "compound": 0.0364,
+          "pos": 0.0867,
+          "neg": 0.0973,
+          "neu": 0.816,
+          "label": "neutral"
+        },
+        {
+          "source": "CoinDesk",
+          "stance": "Critical",
+          "title": "Regulation by hostility: the real legacy of Biden-",
+          "compound": 0.2796,
+          "pos": 0.109,
+          "neg": 0.0655,
+          "neu": 0.825,
+          "label": "positive"
+        },
+        {
+          "source": "Cointelegraph",
+          "stance": "Supportive",
+          "title": "OneCoin’s fallout lingers as US victims get a shot",
+          "compound": -0.9914,
+          "pos": 0.0515,
+          "neg": 0.1545,
+          "neu": 0.794,
+          "label": "negative"
+        },
+        {
+          "source": "Foreign Policy",
+          "stance": "Supportive",
+          "title": "Russia’s Sanctions-Busting Cryptocurrency Empire",
+          "compound": -0.462,
+          "pos": 0.065,
+          "neg": 0.065,
+          "neu": 0.871,
+          "label": "negative"
+        }
+      ],
+      "sentiment_summary": {
+        "avg_compound": -0.028,
+        "std_compound": 0.6732,
+        "distribution": {
+          "positive": 2,
+          "neutral": 1,
+          "negative": 2
+        },
+        "most_positive_source": {
+          "source": "Yahoo Entertainment",
+          "stance": "Supportive",
+          "title": "Dogecoin, Ethereum, Gold Trades On Your Mind? Here",
+          "compound": 0.9972,
+          "pos": 0.147,
+          "neg": 0.027,
+          "neu": 0.826,
+          "label": "positive"
+        },
+        "most_negative_source": {
+          "source": "Cointelegraph",
+          "stance": "Supportive",
+          "title": "OneCoin’s fallout lingers as US victims get a shot",
+          "compound": -0.9914,
+          "pos": 0.0515,
+          "neg": 0.1545,
+          "neu": 0.794,
+          "label": "negative"
+        }
+      },
+      "entity_analysis": {
+        "top_entities": [
+          {
+            "text": "OneCoin",
+            "label": "GPE",
+            "count": 21,
+            "label_name": "Places"
+          },
+          {
+            "text": "DeFi",
+            "label": "ORG",
+            "count": 13,
+            "label_name": "Organizations"
+          },
+          {
+            "text": "Biden",
+            "label": "PERSON",
+            "count": 10,
+            "label_name": "People"
+          },
+          {
+            "text": "Russian",
+            "label": "NORP",
+            "count": 8,
+            "label_name": "Groups"
+          },
+          {
+            "text": "Russia",
+            "label": "GPE",
+            "count": 8,
+            "label_name": "Places"
+          },
+          {
+            "text": "EU",
+            "label": "ORG",
+            "count": 7,
+            "label_name": "Organizations"
+          },
+          {
+            "text": "USDC",
+            "label": "ORG",
+            "count": 6,
+            "label_name": "Organizations"
+          },
+          {
+            "text": "the United States",
+            "label": "GPE",
+            "count": 6,
+            "label_name": "Places"
+          },
+          {
+            "text": "Kyrgyzstan",
+            "label": "GPE",
+            "count": 6,
+            "label_name": "Places"
+          },
+          {
+            "text": "today",
+            "label": "DATE",
+            "count": 5,
+            "label_name": "Dates"
+          },
+          {
+            "text": "Ethena",
+            "label": "ORG",
+            "count": 5,
+            "label_name": "Organizations"
+          },
+          {
+            "text": "AI",
+            "label": "GPE",
+            "count": 4,
+            "label_name": "Places"
+          },
+          {
+            "text": "U.S.",
+            "label": "GPE",
+            "count": 4,
+            "label_name": "Places"
+          },
+          {
+            "text": "American",
+            "label": "NORP",
+            "count": 4,
+            "label_name": "Groups"
+          },
+          {
+            "text": "Ignatova",
+            "label": "ORG",
+            "count": 4,
+            "label_name": "Organizations"
+          },
+          {
+            "text": "APY",
+            "label": "ORG",
+            "count": 3,
+            "label_name": "Organizations"
+          },
+          {
+            "text": "IBKR",
+            "label": "ORG",
+            "count": 3,
+            "label_name": "Organizations"
+          },
+          {
+            "text": "Bulgaria",
+            "label": "GPE",
+            "count": 3,
+            "label_name": "Places"
+          },
+          {
+            "text": "Greenwood",
+            "label": "PERSON",
+            "count": 3,
+            "label_name": "People"
+          },
+          {
+            "text": "Germany",
+            "label": "GPE",
+            "count": 3,
+            "label_name": "Places"
+          },
+          {
+            "text": "Kyrgyz",
+            "label": "GPE",
+            "count": 3,
+            "label_name": "Places"
+          },
+          {
+            "text": "Moscow",
+            "label": "GPE",
+            "count": 3,
+            "label_name": "Places"
+          },
+          {
+            "text": "Kremlin",
+            "label": "ORG",
+            "count": 3,
+            "label_name": "Organizations"
+          },
+          {
+            "text": "KYC",
+            "label": "ORG",
+            "count": 3,
+            "label_name": "Organizations"
+          },
+          {
+            "text": "Promsvyazbank",
+            "label": "PERSON",
+            "count": 3,
+            "label_name": "People"
+          }
+        ],
+        "by_type": {
+          "GPE": [
+            {
+              "text": "OneCoin",
+              "label": "GPE",
+              "count": 21,
+              "label_name": "Places"
+            },
+            {
+              "text": "Russia",
+              "label": "GPE",
+              "count": 8,
+              "label_name": "Places"
+            },
+            {
+              "text": "the United States",
+              "label": "GPE",
+              "count": 6,
+              "label_name": "Places"
+            },
+            {
+              "text": "Kyrgyzstan",
+              "label": "GPE",
+              "count": 6,
+              "label_name": "Places"
+            },
+            {
+              "text": "AI",
+              "label": "GPE",
+              "count": 4,
+              "label_name": "Places"
+            },
+            {
+              "text": "U.S.",
+              "label": "GPE",
+              "count": 4,
+              "label_name": "Places"
+            },
+            {
+              "text": "Bulgaria",
+              "label": "GPE",
+              "count": 3,
+              "label_name": "Places"
+            },
+            {
+              "text": "Germany",
+              "label": "GPE",
+              "count": 3,
+              "label_name": "Places"
+            },
+            {
+              "text": "Kyrgyz",
+              "label": "GPE",
+              "count": 3,
+              "label_name": "Places"
+            },
+            {
+              "text": "Moscow",
+              "label": "GPE",
+              "count": 3,
+              "label_name": "Places"
+            }
+          ],
+          "ORG": [
+            {
+              "text": "DeFi",
+              "label": "ORG",
+              "count": 13,
+              "label_name": "Organizations"
+            },
+            {
+              "text": "EU",
+              "label": "ORG",
+              "count": 7,
+              "label_name": "Organizations"
+            },
+            {
+              "text": "USDC",
+              "label": "ORG",
+              "count": 6,
+              "label_name": "Organizations"
+            },
+            {
+              "text": "Ethena",
+              "label": "ORG",
+              "count": 5,
+              "label_name": "Organizations"
+            },
+            {
+              "text": "Ignatova",
+              "label": "ORG",
+              "count": 4,
+              "label_name": "Organizations"
+            },
+            {
+              "text": "APY",
+              "label": "ORG",
+              "count": 3,
+              "label_name": "Organizations"
+            },
+            {
+              "text": "IBKR",
+              "label": "ORG",
+              "count": 3,
+              "label_name": "Organizations"
+            },
+            {
+              "text": "Kremlin",
+              "label": "ORG",
+              "count": 3,
+              "label_name": "Organizations"
+            },
+            {
+              "text": "KYC",
+              "label": "ORG",
+              "count": 3,
+              "label_name": "Organizations"
+            }
+          ],
+          "PERSON": [
+            {
+              "text": "Biden",
+              "label": "PERSON",
+              "count": 10,
+              "label_name": "People"
+            },
+            {
+              "text": "Greenwood",
+              "label": "PERSON",
+              "count": 3,
+              "label_name": "People"
+            },
+            {
+              "text": "Promsvyazbank",
+              "label": "PERSON",
+              "count": 3,
+              "label_name": "People"
+            }
+          ],
+          "NORP": [
+            {
+              "text": "Russian",
+              "label": "NORP",
+              "count": 8,
+              "label_name": "Groups"
+            },
+            {
+              "text": "American",
+              "label": "NORP",
+              "count": 4,
+              "label_name": "Groups"
+            }
+          ],
+          "DATE": [
+            {
+              "text": "today",
+              "label": "DATE",
+              "count": 5,
+              "label_name": "Dates"
+            }
+          ]
+        },
+        "per_article": [
+          {
+            "source": "Yahoo Entertainment",
+            "stance": "Supportive",
+            "entities": [
+              {
+                "text": "AI",
+                "count": 4,
+                "label": "GPE",
+                "label_name": "Places"
+              },
+              {
+                "text": "Americans",
+                "count": 2,
+                "label": "NORP",
+                "label_name": "Groups"
+              },
+              {
+                "text": "Dogecoin",
+                "count": 2,
+                "label": "ORG",
+                "label_name": "Organizations"
+              },
+              {
+                "text": "Rad AI",
+                "count": 2,
+                "label": "PERSON",
+                "label_name": "People"
+              },
+              {
+                "text": "Paladin",
+                "count": 2,
+                "label": "PERSON",
+                "label_name": "People"
+              },
+              {
+                "text": "Shutterstock.com",
+                "count": 1,
+                "label": "ORG",
+                "label_name": "Organizations"
+              },
+              {
+                "text": "AI",
+                "count": 1,
+                "label": "ORG",
+                "label_name": "Organizations"
+              },
+              {
+                "text": "ESS",
+                "count": 1,
+                "label": "ORG",
+                "label_name": "Organizations"
+              },
+              {
+                "text": "NYSE",
+                "count": 1,
+                "label": "ORG",
+                "label_name": "Organizations"
+              },
+              {
+                "text": "IPO",
+                "count": 1,
+                "label": "ORG",
+                "label_name": "Organizations"
+              }
+            ]
+          },
+          {
+            "source": "CoinDesk",
+            "stance": "Supportive",
+            "entities": [
+              {
+                "text": "DeFi",
+                "count": 13,
+                "label": "ORG",
+                "label_name": "Organizations"
+              },
+              {
+                "text": "USDC",
+                "count": 6,
+                "label": "ORG",
+                "label_name": "Organizations"
+              },
+              {
+                "text": "Ethena",
+                "count": 5,
+                "label": "ORG",
+                "label_name": "Organizations"
+              },
+              {
+                "text": "today",
+                "count": 3,
+                "label": "DATE",
+                "label_name": "Dates"
+              },
+              {
+                "text": "APY",
+                "count": 3,
+                "label": "ORG",
+                "label_name": "Organizations"
+              },
+              {
+                "text": "IBKR",
+                "count": 3,
+                "label": "ORG",
+                "label_name": "Organizations"
+              },
+              {
+                "text": "Interactive Brokers",
+                "count": 2,
+                "label": "ORG",
+                "label_name": "Organizations"
+              },
+              {
+                "text": "Sky",
+                "count": 2,
+                "label": "ORG",
+                "label_name": "Organizations"
+              },
+              {
+                "text": "USR",
+                "count": 2,
+                "label": "ORG",
+                "label_name": "Organizations"
+              },
+              {
+                "text": "3.14%",
+                "count": 2,
+                "label": "PERCENT",
+                "label_name": "Percentages"
+              }
+            ]
+          },
+          {
+            "source": "CoinDesk",
+            "stance": "Critical",
+            "entities": [
+              {
+                "text": "Biden",
+                "count": 10,
+                "label": "PERSON",
+                "label_name": "People"
+              },
+              {
+                "text": "American",
+                "count": 4,
+                "label": "NORP",
+                "label_name": "Groups"
+              },
+              {
+                "text": "Bernstein",
+                "count": 2,
+                "label": "PERSON",
+                "label_name": "People"
+              },
+              {
+                "text": "Bankman-Fried",
+                "count": 2,
+                "label": "ORG",
+                "label_name": "Organizations"
+              },
+              {
+                "text": "Ryan Cummings",
+                "count": 1,
+                "label": "PERSON",
+                "label_name": "People"
+              },
+              {
+                "text": "Jared Bernstein",
+                "count": 1,
+                "label": "PERSON",
+                "label_name": "People"
+              },
+              {
+                "text": "Sam Bankman-Fried",
+                "count": 1,
+                "label": "PERSON",
+                "label_name": "People"
+              },
+              {
+                "text": "Gary Gensler",
+                "count": 1,
+                "label": "PERSON",
+                "label_name": "People"
+              },
+              {
+                "text": "BNY Mellon",
+                "count": 1,
+                "label": "PERSON",
+                "label_name": "People"
+              },
+              {
+                "text": "Franklin Templeton",
+                "count": 1,
+                "label": "PERSON",
+                "label_name": "People"
+              }
+            ]
+          },
+          {
+            "source": "Cointelegraph",
+            "stance": "Supportive",
+            "entities": [
+              {
+                "text": "OneCoin",
+                "count": 21,
+                "label": "GPE",
+                "label_name": "Places"
+              },
+              {
+                "text": "Ignatova",
+                "count": 4,
+                "label": "ORG",
+                "label_name": "Organizations"
+              },
+              {
+                "text": "the United States",
+                "count": 3,
+                "label": "GPE",
+                "label_name": "Places"
+              },
+              {
+                "text": "Bulgaria",
+                "count": 3,
+                "label": "GPE",
+                "label_name": "Places"
+              },
+              {
+                "text": "Greenwood",
+                "count": 3,
+                "label": "PERSON",
+                "label_name": "People"
+              },
+              {
+                "text": "Belize",
+                "count": 2,
+                "label": "GPE",
+                "label_name": "Places"
+              },
+              {
+                "text": "China",
+                "count": 2,
+                "label": "GPE",
+                "label_name": "Places"
+              },
+              {
+                "text": "Germany",
+                "count": 2,
+                "label": "GPE",
+                "label_name": "Places"
+              },
+              {
+                "text": "Thailand",
+                "count": 2,
+                "label": "GPE",
+                "label_name": "Places"
+              },
+              {
+                "text": "Sofia",
+                "count": 2,
+                "label": "GPE",
+                "label_name": "Places"
+              }
+            ]
+          },
+          {
+            "source": "Foreign Policy",
+            "stance": "Supportive",
+            "entities": [
+              {
+                "text": "Russian",
+                "count": 8,
+                "label": "NORP",
+                "label_name": "Groups"
+              },
+              {
+                "text": "Russia",
+                "count": 8,
+                "label": "GPE",
+                "label_name": "Places"
+              },
+              {
+                "text": "EU",
+                "count": 7,
+                "label": "ORG",
+                "label_name": "Organizations"
+              },
+              {
+                "text": "Kyrgyzstan",
+                "count": 6,
+                "label": "GPE",
+                "label_name": "Places"
+              },
+              {
+                "text": "Kyrgyz",
+                "count": 3,
+                "label": "GPE",
+                "label_name": "Places"
+              },
+              {
+                "text": "Moscow",
+                "count": 3,
+                "label": "GPE",
+                "label_name": "Places"
+              },
+              {
+                "text": "Kremlin",
+                "count": 3,
+                "label": "ORG",
+                "label_name": "Organizations"
+              },
+              {
+                "text": "KYC",
+                "count": 3,
+                "label": "ORG",
+                "label_name": "Organizations"
+              },
+              {
+                "text": "Promsvyazbank",
+                "count": 3,
+                "label": "PERSON",
+                "label_name": "People"
+              },
+              {
+                "text": "European",
+                "count": 2,
+                "label": "NORP",
+                "label_name": "Groups"
+              }
+            ]
+          }
+        ],
+        "entity_by_stance": {
+          "Supportive": [
+            [
+              "OneCoin|GPE",
+              21
+            ],
+            [
+              "DeFi|ORG",
+              13
+            ],
+            [
+              "Russian|NORP",
+              8
+            ],
+            [
+              "Russia|GPE",
+              8
+            ],
+            [
+              "EU|ORG",
+              7
+            ],
+            [
+              "USDC|ORG",
+              6
+            ],
+            [
+              "Kyrgyzstan|GPE",
+              6
+            ],
+            [
+              "today|DATE",
+              5
+            ],
+            [
+              "Ethena|ORG",
+              5
+            ],
+            [
+              "the United States|GPE",
+              5
+            ]
+          ],
+          "Critical": [
+            [
+              "Biden|PERSON",
+              10
+            ],
+            [
+              "American|NORP",
+              4
+            ],
+            [
+              "Bernstein|PERSON",
+              2
+            ],
+            [
+              "Bankman-Fried|ORG",
+              2
+            ],
+            [
+              "Ryan Cummings|PERSON",
+              1
+            ],
+            [
+              "Jared Bernstein|PERSON",
+              1
+            ],
+            [
+              "Sam Bankman-Fried|PERSON",
+              1
+            ],
+            [
+              "Gary Gensler|PERSON",
+              1
+            ],
+            [
+              "BNY Mellon|PERSON",
+              1
+            ],
+            [
+              "Franklin Templeton|PERSON",
+              1
+            ]
+          ]
+        }
+      },
+      "keyword_analysis": {
+        "top_keywords": [
+          {
+            "word": "onecoin",
+            "score": 0.7155,
+            "rank": 1
+          },
+          {
+            "word": "investors",
+            "score": 0.524,
+            "rank": 2
+          },
+          {
+            "word": "biden",
+            "score": 0.4655,
+            "rank": 3
+          },
+          {
+            "word": "a7a5",
+            "score": 0.4505,
+            "rank": 4
+          },
+          {
+            "word": "administration",
+            "score": 0.4268,
+            "rank": 5
+          },
+          {
+            "word": "defi",
+            "score": 0.4163,
+            "rank": 6
+          },
+          {
+            "word": "financial",
+            "score": 0.3448,
+            "rank": 7
+          },
+          {
+            "word": "sanctions",
+            "score": 0.3303,
+            "rank": 8
+          },
+          {
+            "word": "yield",
+            "score": 0.2914,
+            "rank": 9
+          },
+          {
+            "word": "biden administration",
+            "score": 0.2716,
+            "rank": 10
+          },
+          {
+            "word": "million",
+            "score": 0.2646,
+            "rank": 11
+          },
+          {
+            "word": "yields",
+            "score": 0.2498,
+            "rank": 12
+          },
+          {
+            "word": "aave",
+            "score": 0.2498,
+            "rank": 13
+          },
+          {
+            "word": "returns",
+            "score": 0.2438,
+            "rank": 14
+          },
+          {
+            "word": "russia",
+            "score": 0.2402,
+            "rank": 15
+          },
+          {
+            "word": "russian",
+            "score": 0.2402,
+            "rank": 16
+          },
+          {
+            "word": "technology",
+            "score": 0.2299,
+            "rank": 17
+          },
+          {
+            "word": "risk",
+            "score": 0.227,
+            "rank": 18
+          },
+          {
+            "word": "long",
+            "score": 0.2214,
+            "rank": 19
+          },
+          {
+            "word": "ignatova",
+            "score": 0.2178,
+            "rank": 20
+          }
+        ],
+        "per_stance": {
+          "Supportive": [
+            {
+              "word": "onecoin",
+              "score": 0.8328
+            },
+            {
+              "word": "investors",
+              "score": 0.6
+            },
+            {
+              "word": "a7a5",
+              "score": 0.5355
+            },
+            {
+              "word": "defi",
+              "score": 0.4863
+            },
+            {
+              "word": "sanctions",
+              "score": 0.3927
+            },
+            {
+              "word": "yield",
+              "score": 0.3404
+            },
+            {
+              "word": "financial",
+              "score": 0.3228
+            },
+            {
+              "word": "crypto",
+              "score": 0.2995
+            },
+            {
+              "word": "million",
+              "score": 0.2961
+            },
+            {
+              "word": "aave",
+              "score": 0.2918
+            }
+          ],
+          "Critical": [
+            {
+              "word": "biden",
+              "score": 0.3785
+            },
+            {
+              "word": "crypto",
+              "score": 0.3785
+            },
+            {
+              "word": "administration",
+              "score": 0.347
+            },
+            {
+              "word": "biden administration",
+              "score": 0.2208
+            },
+            {
+              "word": "industry",
+              "score": 0.1577
+            },
+            {
+              "word": "financial",
+              "score": 0.1577
+            },
+            {
+              "word": "political",
+              "score": 0.1577
+            },
+            {
+              "word": "authors",
+              "score": 0.1577
+            },
+            {
+              "word": "bernstein",
+              "score": 0.1262
+            },
+            {
+              "word": "bitcoin",
+              "score": 0.1262
+            }
+          ]
+        },
+        "word_frequencies": {
+          "investors": 30,
+          "crypto": 30,
+          "onecoin": 23,
+          "financial": 20,
+          "defi": 20,
+          "million": 15,
+          "still": 14,
+          "returns": 14,
+          "billion": 14,
+          "yield": 14,
+          "risk": 13,
+          "technology": 12,
+          "yields": 12,
+          "aave": 12,
+          "biden": 12,
+          "real": 11,
+          "money": 11,
+          "cryptocurrency": 11,
+          "administration": 11,
+          "sanctions": 11,
+          "market": 10,
+          "long": 10,
+          "stablecoin": 10,
+          "across": 9,
+          "asset": 9,
+          "term": 9,
+          "company": 9,
+          "system": 9,
+          "over": 9,
+          "public": 9,
+          "protocol": 9,
+          "lithium": 8,
+          "energy": 8,
+          "industry": 8,
+          "designed": 8,
+          "backed": 8,
+          "finance": 8,
+          "assets": 8,
+          "rates": 8,
+          "higher": 8,
+          "only": 8,
+          "russia": 8,
+          "russian": 8,
+          "income": 7,
+          "tied": 7,
+          "regulation": 7,
+          "offering": 7,
+          "offers": 7,
+          "instead": 7,
+          "global": 7,
+          "platform": 7,
+          "firms": 7,
+          "advisors": 7,
+          "transactions": 7,
+          "blockchain": 7,
+          "usdc": 7,
+          "deposits": 7,
+          "cryptocurrencies": 7,
+          "ignatova": 7,
+          "project": 7,
+          "western": 7,
+          "building": 6,
+          "beyond": 6,
+          "retirement": 6,
+          "exposure": 6,
+          "demand": 6,
+          "today": 6,
+          "based": 6,
+          "costs": 6,
+          "now": 6,
+          "clear": 6,
+          "largest": 6,
+          "lending": 6,
+          "dollar": 6,
+          "stablecoins": 6,
+          "rules": 6,
+          "fraud": 6,
+          "meanwhile": 6,
+          "political": 6,
+          "between": 6,
+          "bank": 6,
+          "united": 6,
+          "states": 6,
+          "kyrgyzstan": 6,
+          "during": 5,
+          "next": 5,
+          "back": 5,
+          "wealth": 5,
+          "single": 5,
+          "investment": 5,
+          "diversify": 5,
+          "even": 5,
+          "high": 5,
+          "innovation": 5,
+          "growing": 5,
+          "driven": 5,
+          "service": 5,
+          "infrastructure": 5,
+          "including": 5,
+          "without": 5,
+          "tax": 5,
+          "planning": 5,
+          "rather": 5,
+          "products": 5,
+          "strategies": 5,
+          "scale": 5,
+          "traditional": 5,
+          "lower": 5,
+          "firm": 5,
+          "remains": 5,
+          "once": 5,
+          "protocols": 5,
+          "lose": 5,
+          "off": 5,
+          "ethena": 5,
+          "largely": 5,
+          "roughly": 5,
+          "coindesk": 5,
+          "there": 5,
+          "exchange": 5,
+          "bitcoin": 5,
+          "authors": 5,
+          "regulators": 5,
+          "dual": 5,
+          "evasion": 5,
+          "quick": 4,
+          "ethereum": 4,
+          "march": 4,
+          "access": 4,
+          "estate": 4,
+          "guidance": 4,
+          "helps": 4,
+          "participate": 4,
+          "opportunity": 4,
+          "early": 4,
+          "rapidly": 4,
+          "tech": 4,
+          "growth": 4,
+          "story": 4,
+          "paladin": 4,
+          "state": 4,
+          "strong": 4,
+          "already": 4,
+          "decentralized": 4,
+          "immersed": 4,
+          "tools": 4,
+          "currently": 4,
+          "investing": 4,
+          "low": 4,
+          "little": 4,
+          "class": 4,
+          "clarity": 4,
+          "free": 4,
+          "individuals": 4,
+          "options": 4,
+          "itself": 4,
+          "strategy": 4,
+          "pressure": 4,
+          "atari": 4,
+          "using": 4,
+          "model": 4,
+          "markets": 4,
+          "funds": 4,
+          "top": 4,
+          "banking": 4,
+          "around": 4,
+          "below": 4,
+          "product": 4,
+          "peak": 4,
+          "trading": 4,
+          "rate": 4,
+          "borrowing": 4,
+          "several": 4,
+          "average": 4,
+          "collateral": 4,
+          "different": 4,
+          "part": 4,
+          "much": 4,
+          "contract": 4,
+          "lost": 4,
+          "program": 4,
+          "regulatory": 4,
+          "ban": 4,
+          "payments": 4,
+          "cummings": 4,
+          "bernstein": 4,
+          "price": 4,
+          "american": 4,
+          "under": 4,
+          "networks": 4,
+          "trump": 4,
+          "greenwood": 4,
+          "authorities": 4,
+          "activities": 4,
+          "arrested": 4,
+          "organizers": 4,
+          "laundering": 4,
+          "european": 4,
+          "goods": 4,
+          "sanctioned": 4
+        },
+        "n_articles": 5
+      },
+      "manual_bias": {
+        "manual_bias_score": -0.2215,
+        "avg_vader_compound": -0.028,
+        "avg_stance_score": -0.6,
+        "sentiment_extremity": 0.6732,
+        "sentiment_distribution": {
+          "positive": 2,
+          "neutral": 1,
+          "negative": 2
+        },
+        "validation_note": "Sentiment near-neutral — topic may be balanced",
+        "n_articles_scored": 5
+      },
+      "gemini_validation": {
+        "manual_score": -0.2215,
+        "gemini_score": -0.4487,
+        "absolute_diff": 0.2272,
+        "agreement_score": 0.8864,
+        "agreement_level": "Moderate Agreement",
+        "direction_agrees": true,
+        "validation_note": "Some divergence between manual NLP and Gemini AI. This may reflect different aspects of bias being measured."
+      },
+      "elapsed_seconds": 1.35,
+      "n_articles": 5,
+      "libraries_used": {
+        "vader": true,
+        "spacy": true,
+        "wordcloud": true
+      },
+      "agent_context": "NLP ANALYSIS RESULTS (Manual — Independent of AI):\n\nSentiment Distribution: Positive=2, Negative=2, Neutral=1 | Average VADER compound: -0.028\n\nPer-Article Sentiment (VADER compound):\n  [Supportive] Yahoo Entertainment: compound=+0.997 (positive)\n  [Supportive] CoinDesk: compound=+0.036 (neutral)\n  [Critical] CoinDesk: compound=+0.280 (positive)\n  [Supportive] Cointelegraph: compound=-0.991 (negative)\n  [Supportive] Foreign Policy: compound=-0.462 (negative)\n\nMost Mentioned Entities: OneCoin (Places, 21x), DeFi (Organizations, 13x), Biden (People, 10x), Russian (Groups, 8x), Russia (Places, 8x)\n\nTop TF-IDF Keywords: onecoin, investors, biden, a7a5, administration, defi, financial, sanctions, yield, biden administration\n\nManual NLP Bias Estimate: -0.222 | Sentiment near-neutral — topic may be balanced\nGemini vs Manual Validation: Moderate Agreement (diff=0.227, direction=agrees)"
+    },
+    "image_analysis": {
+      "article_analyses": [
+        {
+          "article_url": "https://www.coindesk.com/business/2026/04/07/defi-yields-are-crashing-so-hard-that-they-can-t-compete-with-a-traditional-savings-account",
+          "source": "CoinDesk",
+          "title": "DeFi yields are crashing so hard that they can't compete wit",
+          "images": [
+            {
+              "image_url": "https://cdn.sanity.io/images/s3y3vcno/production/c344e96535fc5b6afbd13a1245861a08a36bc293-2459x1383.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+              "visual_bias_score": 0.0599,
+              "visual_framing": "neutral",
+              "emotional_tone": "neutral",
+              "confidence": 0.3532,
+              "description": "DeFi yields are crashing so hard that th — moderate-light image, CNN: neutral sentiment",
+              "cnn_class": "neutral",
+              "cnn_probabilities": [
+                0.3232,
+                0.3532,
+                0.3236
+              ],
+              "cnn_confidence": 0.3532,
+              "cnn_method": "cnn_resnet50",
+              "color_score": 0.1712,
+              "brightness": 123.6,
+              "is_dark": false,
+              "contrast": 0.547,
+              "edge_density": 0.137,
+              "aspect_ratio": 1.778,
+              "image_size": "960x540",
+              "error": null
+            }
+          ],
+          "image_count": 2,
+          "analyzed_count": 1
+        },
+        {
+          "article_url": "https://finance.yahoo.com/markets/crypto/articles/dogecoin-ethereum-gold-trades-mind-133108468.html",
+          "source": "Yahoo Entertainment",
+          "title": "Dogecoin, Ethereum, Gold Trades On Your Mind? Here's What Th",
+          "images": [
+            {
+              "image_url": "https://s.yimg.com/os/en/benzinga_79/d431ef777576538d6961125a7e67aac9",
+              "visual_bias_score": -0.0351,
+              "visual_framing": "neutral",
+              "emotional_tone": "neutral",
+              "confidence": 0.3575,
+              "description": "Dogecoin, Ethereum, Gold Trades On Your  — bright image, CNN: neutral sentiment",
+              "cnn_class": "neutral",
+              "cnn_probabilities": [
+                0.3182,
+                0.3575,
+                0.3242
+              ],
+              "cnn_confidence": 0.3575,
+              "cnn_method": "cnn_resnet50",
+              "color_score": -0.1004,
+              "brightness": 217.4,
+              "is_dark": false,
+              "contrast": 0.2556,
+              "edge_density": 0.0391,
+              "aspect_ratio": 1.499,
+              "image_size": "1024x683",
+              "error": null
+            },
+            {
+              "image_url": "https://s.yimg.com/ny/api/res/1.2/EIJEKhvKRUMCKhtvTWFinA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE5NDtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-11/f4b4e310-2b77-11eb-afee-ca1478f0e9ef",
+              "visual_bias_score": 0.0,
+              "visual_framing": "neutral",
+              "emotional_tone": "neutral",
+              "confidence": 0.0,
+              "description": "Skipped: Image too small: 194x48",
+              "cnn_class": "neutral",
+              "cnn_probabilities": [
+                0.33,
+                0.34,
+                0.33
+              ],
+              "error": "Image too small: 194x48"
+            }
+          ],
+          "image_count": 2,
+          "analyzed_count": 2
+        },
+        {
+          "article_url": "http://foreignpolicy.com/2026/03/31/russia-sanctions-evasion-cryptocurrency-a7a5-kyrgyzstan-exports-dual-use-technology/",
+          "source": "Foreign Policy",
+          "title": "Russia’s Sanctions-Busting Cryptocurrency Empire",
+          "images": [
+            {
+              "image_url": "https://foreignpolicy.com/wp-content/uploads/2026/03/russia-crypto-a7a5-GettyImages-2163911919-e1774952913817.jpg",
+              "visual_bias_score": -0.0455,
+              "visual_framing": "neutral",
+              "emotional_tone": "neutral",
+              "confidence": 0.3489,
+              "description": "Russia’s Sanctions-Busting Cryptocurrenc — moderate-light image, CNN: neutral sentiment",
+              "cnn_class": "neutral",
+              "cnn_probabilities": [
+                0.3302,
+                0.3489,
+                0.3209
+              ],
+              "cnn_confidence": 0.3489,
+              "cnn_method": "cnn_resnet50",
+              "color_score": -0.1301,
+              "brightness": 130.1,
+              "is_dark": false,
+              "contrast": 0.3236,
+              "edge_density": 0.1365,
+              "aspect_ratio": 1.5,
+              "image_size": "1500x1000",
+              "error": null
+            },
+            {
+              "image_url": "https://foreignpolicy.com/wp-content/uploads/2021/09/Ones-and-Tooze-podcast-foreign-policy-logo-3000x3000-1.jpg?w=150&quality=90",
+              "visual_bias_score": 0.0727,
+              "visual_framing": "neutral",
+              "emotional_tone": "neutral",
+              "confidence": 0.3409,
+              "description": "Russia’s Sanctions-Busting Cryptocurrenc — moderate-light image, CNN: neutral sentiment",
+              "cnn_class": "neutral",
+              "cnn_probabilities": [
+                0.3318,
+                0.3409,
+                0.3273
+              ],
+              "cnn_confidence": 0.3409,
+              "cnn_method": "cnn_resnet50",
+              "color_score": 0.2076,
+              "brightness": 113.2,
+              "is_dark": false,
+              "contrast": 0.3999,
+              "edge_density": 0.1329,
+              "aspect_ratio": 1.0,
+              "image_size": "150x150",
+              "error": null
+            }
+          ],
+          "image_count": 2,
+          "analyzed_count": 2
+        },
+        {
+          "article_url": "https://cointelegraph.com/features/onecoin-fallout-lingers-us-victims-recovery",
+          "source": "Cointelegraph",
+          "title": "OneCoin’s fallout lingers as US victims get a shot at recove",
+          "images": [
+            {
+              "image_url": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d9678-6280-764b-a3ca-7a6868f1b98d.jpg",
+              "visual_bias_score": -0.0683,
+              "visual_framing": "neutral",
+              "emotional_tone": "neutral",
+              "confidence": 0.3579,
+              "description": "OneCoin’s fallout lingers as US victims  — moderate-light image, CNN: neutral sentiment",
+              "cnn_class": "neutral",
+              "cnn_probabilities": [
+                0.3194,
+                0.3579,
+                0.3227
+              ],
+              "cnn_confidence": 0.3579,
+              "cnn_method": "cnn_resnet50",
+              "color_score": -0.1952,
+              "brightness": 156.3,
+              "is_dark": false,
+              "contrast": 0.4308,
+              "edge_density": 0.1505,
+              "aspect_ratio": 1.502,
+              "image_size": "1200x799",
+              "error": null
+            },
+            {
+              "image_url": "https://images.cointelegraph.com/images/373_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNGFkNDk1ZmMwNGJkOTdmNzE2NDlhNDhkNjAwM2QwMC5wbmc=.png",
+              "visual_bias_score": 0.0445,
+              "visual_framing": "neutral",
+              "emotional_tone": "neutral",
+              "confidence": 0.3513,
+              "description": "OneCoin’s fallout lingers as US victims  — moderate-light image, high contrast, CNN: neutral sentiment",
+              "cnn_class": "neutral",
+              "cnn_probabilities": [
+                0.3397,
+                0.3513,
+                0.3091
+              ],
+              "cnn_confidence": 0.3513,
+              "cnn_method": "cnn_resnet50",
+              "color_score": 0.1272,
+              "brightness": 87.7,
+              "is_dark": false,
+              "contrast": 0.6949,
+              "edge_density": 0.1478,
+              "aspect_ratio": 1.177,
+              "image_size": "373x317",
+              "error": null
+            }
+          ],
+          "image_count": 2,
+          "analyzed_count": 2
+        }
+      ],
+      "summary": {
+        "visual_bias_score": 0.0003,
+        "mean_confidence": 0.3516,
+        "dominant_framing": "neutral",
+        "dominant_tone": "neutral",
+        "image_count": 7,
+        "high_confidence_count": 0,
+        "framing_distribution": {
+          "neutral": 6
+        },
+        "tone_distribution": {
+          "neutral": 6
+        },
+        "cnn_used": true,
+        "visual_context_summary": "VISUAL ANALYSIS — 7 images [Method: CNN (ResNet-50) + Color Analysis]:\nVisual bias: +0.00 (neutral)\nDominant framing: neutral | Dominant tone: neutral\nImage descriptions:\n[CoinDesk] DeFi yields are crashing so hard that th — moderate-light im (CNN: neutral, conf=0.35, framing=neutral)\n[Yahoo Entertainment] Dogecoin, Ethereum, Gold Trades On Your  — bright image, CNN (CNN: neutral, conf=0.36, framing=neutral)\n[Foreign Policy] Russia’s Sanctions-Busting Cryptocurrenc — moderate-light im (CNN: neutral, conf=0.35, framing=neutral)\n[Foreign Policy] Russia’s Sanctions-Busting Cryptocurrenc — moderate-light im (CNN: neutral, conf=0.34, framing=neutral)"
+      },
+      "visual_context": "VISUAL ANALYSIS — 7 images [Method: CNN (ResNet-50) + Color Analysis]:\nVisual bias: +0.00 (neutral)\nDominant framing: neutral | Dominant tone: neutral\nImage descriptions:\n[CoinDesk] DeFi yields are crashing so hard that th — moderate-light im (CNN: neutral, conf=0.35, framing=neutral)\n[Yahoo Entertainment] Dogecoin, Ethereum, Gold Trades On Your  — bright image, CNN (CNN: neutral, conf=0.36, framing=neutral)\n[Foreign Policy] Russia’s Sanctions-Busting Cryptocurrenc — moderate-light im (CNN: neutral, conf=0.35, framing=neutral)\n[Foreign Policy] Russia’s Sanctions-Busting Cryptocurrenc — moderate-light im (CNN: neutral, conf=0.34, framing=neutral)",
+      "total_images": 7,
+      "elapsed_seconds": 5.99,
+      "cnn_available": true
+    },
+    "visual_context": "VISUAL ANALYSIS — 7 images [Method: CNN (ResNet-50) + Color Analysis]:\nVisual bias: +0.00 (neutral)\nDominant framing: neutral | Dominant tone: neutral\nImage descriptions:\n[CoinDesk] DeFi yields are crashing so hard that th — moderate-light im (CNN: neutral, conf=0.35, framing=neutral)\n[Yahoo Entertainment] Dogecoin, Ethereum, Gold Trades On Your  — bright image, CNN (CNN: neutral, conf=0.36, framing=neutral)\n[Foreign Policy] Russia’s Sanctions-Busting Cryptocurrenc — moderate-light im (CNN: neutral, conf=0.35, framing=neutral)\n[Foreign Policy] Russia’s Sanctions-Busting Cryptocurrenc — moderate-light im (CNN: neutral, conf=0.34, framing=neutral)",
+    "elapsed_seconds": 101.79,
+    "phase_timings": {
+      "phase2_data_engineering": 66.07,
+      "phase2_5_nlp": 1.35,
+      "phase2_6_images": 5.99,
+      "phase3_embeddings": 14.27,
+      "phase4_agents": 14.09,
+      "total": 101.79
+    },
+    "evaluation": {}
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "emotional_tone": "negative",
+  "visual_framing": "threat",
+  "subjects_detected": [
+    "two men in suits",
+    "money bag"
+  ],
+  "narrative_suggested": "The image suggests a clandestine exchange of money, implying corruption or a backroom deal.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [
+    "man hiding money bag behind his back",
+    "dark silhouettes of men"
+  ],
+  "visual_bias_score": 0.8,
+  "visual_bias_direction": "critical",
+  "confidence": 0.9,
+  "description": "Two silhouetted figures in suits are depicted. One figure, facing away from the viewer, is shown hiding a red bag with a dollar sign behind their back, while extending a hand towards the other figure. The second figure, facing the viewer, is reaching out to shake hands.",
+  "image_url": "https://img.etimg.com/thumb/msid-130257911,imgsize-167441,width-138,height-104/prime/corporate-governance/is-private-sector-corruption-free-heres-the-reality-.jpg",
+  "error": null
+}

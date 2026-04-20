@@ -1,0 +1,17 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [
+    "business people",
+    "meeting"
+  ],
+  "narrative_suggested": "A group of business professionals are engaged in a discussion.",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.9,
+  "description": "A group of five business professionals, dressed in suits, are seated in a modern office setting, facing each other in a circular discussion.",
+  "image_url": "https://www.newyorkfed.org/medialibrary/media/images/v4/fisg/mega_menu/governance-culture-reform-140x88.jpg",
+  "error": null
+}

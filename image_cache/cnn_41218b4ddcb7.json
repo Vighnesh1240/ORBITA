@@ -1,0 +1,24 @@
+{
+  "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7186x4042+0+69/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0e%2F27%2F2d71ec2448cca53611dbeb38be60%2Fap26062784142732.jpg",
+  "visual_bias_score": 0.1174,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3665,
+  "description": "Jury finds Elon Musk misled investors du \u2014 moderate-light image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.3067,
+    0.3665,
+    0.3269
+  ],
+  "cnn_confidence": 0.3665,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.3354,
+  "brightness": 113.8,
+  "is_dark": false,
+  "contrast": 0.3998,
+  "edge_density": 0.0714,
+  "aspect_ratio": 1.779,
+  "image_size": "1400x787",
+  "error": null
+}

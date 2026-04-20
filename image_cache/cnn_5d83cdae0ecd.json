@@ -1,0 +1,24 @@
+{
+  "image_url": "https://www.medianama.com/wp-content/uploads/2019/09/ecommerce-3.jpg.jpg",
+  "visual_bias_score": 0.2716,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3496,
+  "description": "RBI mulls bringing e-commerce marketplac \u2014 moderate-light image, CNN: negative sentiment",
+  "cnn_class": "negative",
+  "cnn_probabilities": [
+    0.3065,
+    0.3439,
+    0.3496
+  ],
+  "cnn_confidence": 0.3496,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.1266,
+  "brightness": 130.2,
+  "is_dark": false,
+  "contrast": 0.4675,
+  "edge_density": 0.0706,
+  "aspect_ratio": 1.5,
+  "image_size": "960x640",
+  "error": null
+}

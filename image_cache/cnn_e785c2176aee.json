@@ -1,0 +1,24 @@
+{
+  "image_url": "https://www.livemint.com/lm-img/img/2026/03/24/600x338/2-0-659650980-sugarcane-0_1680250171781_1774336910876.jpg",
+  "visual_bias_score": -0.0276,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3682,
+  "description": "Sugar, grain lobbies next push for ethan \u2014 moderate-light image, CNN: neutral sentiment",
+  "cnn_class": "neutral",
+  "cnn_probabilities": [
+    0.3007,
+    0.3682,
+    0.3311
+  ],
+  "cnn_confidence": 0.3682,
+  "cnn_method": "cnn_resnet50",
+  "color_score": -0.0788,
+  "brightness": 153.8,
+  "is_dark": false,
+  "contrast": 0.3248,
+  "edge_density": 0.0727,
+  "aspect_ratio": 1.78,
+  "image_size": "600x337",
+  "error": null
+}

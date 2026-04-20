@@ -1,0 +1,14 @@
+{
+  "emotional_tone": "neutral",
+  "visual_framing": "neutral",
+  "subjects_detected": [],
+  "narrative_suggested": "Analysis unavailable",
+  "image_text_consistent": true,
+  "loaded_visual_elements": [],
+  "visual_bias_score": 0.0,
+  "visual_bias_direction": "neutral",
+  "confidence": 0.0,
+  "description": "Gemini Vision API unavailable",
+  "image_url": "https://www.aljazeera.com/wp-content/uploads/2024/05/2017-06-08T131939Z_1189275883_RC11B0FE7F20_RTRMADP_3_GULF-QATAR-JAZEERA-1714943623.jpg?resize=96%2C96&quality=80",
+  "error": "API unavailable"
+}

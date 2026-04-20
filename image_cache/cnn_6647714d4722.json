@@ -1,0 +1,24 @@
+{
+  "image_url": "https://www.medianama.com/wp-content/uploads/2026/04/MN-event-on-IT-rules-partners.jpeg",
+  "visual_bias_score": 0.2646,
+  "visual_framing": "neutral",
+  "emotional_tone": "neutral",
+  "confidence": 0.3354,
+  "description": "Reading List: IT Rules and the future of \u2014 bright image, CNN: negative sentiment",
+  "cnn_class": "negative",
+  "cnn_probabilities": [
+    0.3345,
+    0.3301,
+    0.3354
+  ],
+  "cnn_confidence": 0.3354,
+  "cnn_method": "cnn_resnet50",
+  "color_score": 0.1332,
+  "brightness": 209.4,
+  "is_dark": false,
+  "contrast": 0.2932,
+  "edge_density": 0.0772,
+  "aspect_ratio": 1.778,
+  "image_size": "1280x720",
+  "error": null
+}
