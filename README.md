@@ -65,7 +65,7 @@ ORBITA is a multi-agent AI system for news bias analysis. It combines article re
 ## 1) Clone and open
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Vighnesh1240/ORBITA.git
 cd ORBITA
 ```
 
