@@ -452,6 +452,305 @@
           }
         }
       ]
+    },
+    "elon_musk_twitter": {
+      "display": "Elon Musk Twitter",
+      "runs": [
+        {
+          "timestamp": "2026-04-20T20:02:22.933521",
+          "overall_bias": -0.6397,
+          "per_source": {
+            "The Verge": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.78
+            },
+            "BBC News": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.93
+            },
+            "Business Insider": {
+              "bias": -0.6667,
+              "n_articles": 3,
+              "credibility": 0.7
+            },
+            "NPR": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Reason": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            }
+          }
+        },
+        {
+          "timestamp": "2026-04-22T17:43:39.353369",
+          "overall_bias": -0.6397,
+          "per_source": {
+            "The Verge": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.78
+            },
+            "BBC News": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.93
+            },
+            "Business Insider": {
+              "bias": -0.6667,
+              "n_articles": 3,
+              "credibility": 0.7
+            },
+            "NPR": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Reason": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            }
+          }
+        },
+        {
+          "timestamp": "2026-04-22T17:44:22.104564",
+          "overall_bias": -0.6397,
+          "per_source": {
+            "The Verge": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.78
+            },
+            "BBC News": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.93
+            },
+            "Business Insider": {
+              "bias": -0.6667,
+              "n_articles": 3,
+              "credibility": 0.7
+            },
+            "NPR": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Reason": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            }
+          }
+        }
+      ]
+    },
+    "india_elections_2024": {
+      "display": "India Elections 2024",
+      "runs": [
+        {
+          "timestamp": "2026-04-20T20:02:37.459565",
+          "overall_bias": -0.6152,
+          "per_source": {
+            "Al Jazeera English": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.78
+            },
+            "The Verge": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.78
+            },
+            "Business Insider": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.7
+            },
+            "The Indian Express": {
+              "bias": -0.3333,
+              "n_articles": 3,
+              "credibility": 0.87
+            },
+            "Theregister.com": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "BGR": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Nature.com": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            }
+          }
+        },
+        {
+          "timestamp": "2026-04-21T11:48:21.372911",
+          "overall_bias": -0.6152,
+          "per_source": {
+            "Al Jazeera English": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.78
+            },
+            "The Verge": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.78
+            },
+            "Business Insider": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.7
+            },
+            "The Indian Express": {
+              "bias": -0.3333,
+              "n_articles": 3,
+              "credibility": 0.87
+            },
+            "Theregister.com": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "BGR": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Nature.com": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            }
+          }
+        }
+      ]
+    },
+    "ai_regulation_usa": {
+      "display": "AI Regulation USA",
+      "runs": [
+        {
+          "timestamp": "2026-04-22T17:29:10.512185",
+          "overall_bias": -0.5984,
+          "per_source": {
+            "Nature.com": {
+              "bias": -0.5,
+              "n_articles": 2,
+              "credibility": 0.6
+            },
+            "GlobeNewswire": {
+              "bias": -0.75,
+              "n_articles": 4,
+              "credibility": 0.6
+            },
+            "Plos.org": {
+              "bias": 0.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Wattsupwiththat.com": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            }
+          }
+        },
+        {
+          "timestamp": "2026-04-22T17:35:43.434884",
+          "overall_bias": -0.5616,
+          "per_source": {
+            "Nature.com": {
+              "bias": -0.5,
+              "n_articles": 2,
+              "credibility": 0.6
+            },
+            "GlobeNewswire": {
+              "bias": -0.75,
+              "n_articles": 4,
+              "credibility": 0.6
+            },
+            "Plos.org": {
+              "bias": 0.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "Wattsupwiththat.com": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            }
+          }
+        }
+      ]
+    },
+    "russia_ukraine_war": {
+      "display": "Russia Ukraine War",
+      "runs": [
+        {
+          "timestamp": "2026-04-22T17:43:08.444005",
+          "overall_bias": -0.3878,
+          "per_source": {
+            "Business Insider": {
+              "bias": -0.5,
+              "n_articles": 4,
+              "credibility": 0.7
+            },
+            "Yahoo Entertainment": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.55
+            },
+            "Theregister.com": {
+              "bias": 1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "MacRumors": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            }
+          }
+        },
+        {
+          "timestamp": "2026-04-22T17:52:50.519451",
+          "overall_bias": -0.3878,
+          "per_source": {
+            "Business Insider": {
+              "bias": -0.5,
+              "n_articles": 4,
+              "credibility": 0.7
+            },
+            "Yahoo Entertainment": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.55
+            },
+            "Theregister.com": {
+              "bias": 1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            },
+            "MacRumors": {
+              "bias": -1.0,
+              "n_articles": 1,
+              "credibility": 0.6
+            }
+          }
+        }
+      ]
     }
   },
   "sources": {
@@ -486,6 +785,16 @@
     "Slate Magazine": true,
     "Wired": true,
     "CNET": true,
-    "Rediff.com": true
+    "Rediff.com": true,
+    "Business Insider": true,
+    "Reason": true,
+    "Theregister.com": true,
+    "BGR": true,
+    "Nature.com": true,
+    "GlobeNewswire": true,
+    "Plos.org": true,
+    "Wattsupwiththat.com": true,
+    "Yahoo Entertainment": true,
+    "MacRumors": true
   }
 }

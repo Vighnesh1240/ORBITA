@@ -409,8 +409,10 @@ for col, topic, synth, color in [
             f'border:1px solid {color}22;border-radius:10px;'
             f'padding:1rem;font-size:0.84rem;'
             f'line-height:1.7;color:{TEXT_2};'
-            f'max-height:320px;overflow-y:auto;overflow-x:hidden;'
-            f'white-space:normal;overflow-wrap:anywhere">'
+            f'max-height:60vh;'
+            f'overflow-y:auto;overflow-x:hidden;'
+            f'white-space:normal;overflow-wrap:anywhere;'
+            f'scrollbar-gutter:stable;">'
             f'{synth}'
             f'</div>',
             unsafe_allow_html=True,

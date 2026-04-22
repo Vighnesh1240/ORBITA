@@ -1,0 +1,66 @@
+[
+  {
+    "url": "https://www.nature.com/articles/s41593-026-02220-4",
+    "title": "Adversarial AI reveals mechanisms and treatments for disorders of consciousness",
+    "source": "Nature.com",
+    "stance": "Supportive",
+    "word_count": 2134,
+    "fact_density": 0.16055045871559634
+  },
+  {
+    "url": "https://www.globenewswire.com/news-release/2026/04/14/3273216/28124/en/Global-Market-Access-for-Medical-Device-Software-Training-Course-Hands-on-Exercises-and-Case-Studies-to-Guide-You-Through-Intricate-Decisions-June-8th-June-9th-2026.html",
+    "title": "Global Market Access for Medical Device Software Training Course: Hands-on Exercises, and Case Studies to Guide You Through Intricate Decisions (June 8th - June 9th, 2026)",
+    "source": "GlobeNewswire",
+    "stance": "Supportive",
+    "word_count": 636,
+    "fact_density": 0.1935483870967742
+  },
+  {
+    "url": "https://www.globenewswire.com/news-release/2026/04/01/3266834/0/en/DIAGNOS-Successfully-Completes-the-Renewal-of-US-FDA-Medical-Device-Establishment-Registration.html",
+    "title": "DIAGNOS Successfully Completes the Renewal of US-FDA Medical Device Establishment Registration",
+    "source": "GlobeNewswire",
+    "stance": "Supportive",
+    "word_count": 399,
+    "fact_density": 0.28
+  },
+  {
+    "url": "https://www.nature.com/articles/s41598-026-41747-1",
+    "title": "AI-enhanced techno-economic and environmental optimization for nearly zero-energy building retrofitting: a case study of university campus",
+    "source": "Nature.com",
+    "stance": "Neutral",
+    "word_count": 1797,
+    "fact_density": 0.31008902077151335
+  },
+  {
+    "url": "https://www.globenewswire.com/news-release/2026/04/17/3276460/0/en/Evaxion-s-AI-Immunology-platform-demonstrates-86-vaccine-target-precision-in-phase-2-personalized-cancer-vaccine-trial.html",
+    "title": "Evaxion’s AI-Immunology™ platform demonstrates 86% vaccine target precision in phase 2 personalized cancer vaccine trial",
+    "source": "GlobeNewswire",
+    "stance": "Neutral",
+    "word_count": 933,
+    "fact_density": 0.38461538461538464
+  },
+  {
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344698",
+    "title": "Attitudes toward psychedelic therapy among medical and nursing students: A cross-sectional survey study",
+    "source": "Plos.org",
+    "stance": "Neutral",
+    "word_count": 5133,
+    "fact_density": 0.6189024390243902
+  },
+  {
+    "url": "https://www.globenewswire.com/news-release/2026/04/15/3274266/28124/en/Practical-Guide-to-FDA-Medical-Device-Submissions-510-k-PMA-and-Exemption-Pathways-WEBINAR.html",
+    "title": "Practical Guide to FDA Medical Device Submissions: 510(k), PMA and Exemption Pathways (WEBINAR)",
+    "source": "GlobeNewswire",
+    "stance": "Supportive",
+    "word_count": 532,
+    "fact_density": 0.38461538461538464
+  },
+  {
+    "url": "https://wattsupwiththat.com/2026/04/20/weekly-climate-and-energy-news-roundup-687/",
+    "title": "Weekly Climate and Energy News Roundup #687",
+    "source": "Wattsupwiththat.com",
+    "stance": "Supportive",
+    "word_count": 9577,
+    "fact_density": 0.3548387096774194
+  }
+]

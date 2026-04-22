@@ -157,47 +157,97 @@ pipeline_steps = [
     ("📊", "Bias Vector",      "4-dimensional bias score: ideological · emotional · informational · diversity"),
 ]
 
+# ── Render 2 rows of 4, with step numbers + arrows ────────────
 n_cols = 4
-for i in range(0, len(pipeline_steps), n_cols):
-    row   = pipeline_steps[i:i + n_cols]
-    cols  = st.columns(n_cols)
-    for col, (icon, title, desc) in zip(cols, row):
-        step_n = i + pipeline_steps.index(
-            next(s for s in pipeline_steps if s[1] == title)
-        ) + 1 if False else i + 1 + pipeline_steps[i:i+n_cols].index(
-            (icon, title, desc)
-        )
+
+for row_idx in range(0, len(pipeline_steps), n_cols):
+    row_steps = pipeline_steps[row_idx : row_idx + n_cols]
+
+    # Build interleaved columns: card + arrow + card + arrow ...
+    # For 4 steps we need: col col arrow col col arrow col col arrow col col
+    # Simpler: render 4 card cols with arrows as overlaid HTML
+    cols = st.columns(n_cols)
+
+    for col_idx, (col, (icon, title, desc)) in enumerate(
+        zip(cols, row_steps)
+    ):
+        global_step = row_idx + col_idx + 1
+        is_last_in_row = (col_idx == len(row_steps) - 1)
+
+        # Color cycles through accent colors
+        step_colors = [GOLD, BLUE, GREEN, RED]
+        color = step_colors[col_idx % len(step_colors)]
+
         with col:
+            # Arrow after card (not after last in row)
+            arrow_html = ""
+            if not is_last_in_row:
+                arrow_html = (
+                    f'<div style="position:absolute;'
+                    f'right:-18px;top:50%;transform:translateY(-50%);'
+                    f'font-size:1.1rem;color:{GOLD};'
+                    f'z-index:10;opacity:0.7">→</div>'
+                )
+
             st.markdown(
-                f'<div style="background:{NAVY_CARD};'
-                f'border:1px solid rgba(255,255,255,0.05);'
-                f'border-radius:10px;padding:1rem;'
-                f'margin-bottom:0.6rem;height:130px;'
-                f'animation:fadeInUp 0.4s ease both;'
+                f'<div style="position:relative">'
+
+                # Step number badge (top-left corner)
+                f'<div style="'
+                f'position:absolute;top:-10px;left:10px;'
+                f'width:22px;height:22px;'
+                f'background:{color};'
+                f'border-radius:50%;'
+                f'display:flex;align-items:center;'
+                f'justify-content:center;'
+                f'font-family:\'DM Mono\',monospace;'
+                f'font-size:0.65rem;font-weight:700;'
+                f'color:#0a0f1e;'
+                f'z-index:5;'
+                f'box-shadow:0 0 8px {color}66">'
+                f'{global_step}'
+                f'</div>'
+
+                # Main card
+                f'<div style="'
+                f'background:#141c2e;'
+                f'border:1px solid rgba(255,255,255,0.06);'
+                f'border-top:2px solid {color}66;'
+                f'border-radius:10px;'
+                f'padding:1.1rem 0.9rem 0.9rem;'
+                f'margin-bottom:0.6rem;'
+                f'height:130px;'
+                f'animation:fadeInUp 0.4s ease {col_idx*0.1:.1f}s both;'
                 f'transition:all 0.2s">'
 
+                # Icon + title row
                 f'<div style="display:flex;align-items:center;'
                 f'gap:0.5rem;margin-bottom:0.5rem">'
-                f'<span style="font-size:1.2rem">{icon}</span>'
+                f'<span style="font-size:1.1rem">{icon}</span>'
                 f'<span style="font-family:\'DM Mono\',monospace;'
                 f'font-size:0.58rem;letter-spacing:2px;'
-                f'color:{GOLD};text-transform:uppercase">'
+                f'color:{color};text-transform:uppercase">'
                 f'{title}</span>'
                 f'</div>'
 
+                # Description
                 f'<div style="font-family:\'DM Sans\',sans-serif;'
-                f'font-size:0.78rem;color:{TEXT_2};'
+                f'font-size:0.76rem;color:#9ba8bb;'
                 f'line-height:1.55">'
                 f'{desc}'
                 f'</div>'
+
+                f'</div>'
+
+                # Arrow connector (between cards)
+                f'{arrow_html}'
 
                 f'</div>',
                 unsafe_allow_html=True,
             )
 
-    st.markdown("", unsafe_allow_html=True)
-
-st.markdown("<br>", unsafe_allow_html=True)
+    # Add row spacing between pipeline rows.
+    st.markdown("<br>", unsafe_allow_html=True)
 
 # ─────────────────────────────────────────────────────────────
 # FEATURE CARDS

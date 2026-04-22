@@ -1,0 +1,469 @@
+{
+  "topic": "AI Regulation USA",
+  "bias_score": -0.5616,
+  "bias_vector": {
+    "ideological_bias": -0.4481,
+    "emotional_bias": 0.1728,
+    "informational_bias": 0.0,
+    "source_diversity": 0.9802,
+    "stance_entropy": 0.5446,
+    "composite_score": -0.5616,
+    "confidence": 0.922,
+    "interpretation": "Moderately Supportive",
+    "dimension_labels": {
+      "ideological": "Moderately Supportive",
+      "emotional": "Moderate Emotional Bias",
+      "informational": "Mostly Factual",
+      "diversity": "High Source Diversity"
+    }
+  },
+  "synthesis_report": "The regulation of Artificial Intelligence (AI) in the United States, particularly concerning medical devices, involves several established pathways and ongoing considerations. The U.S. Food and Drug Administration (FDA) offers distinct processes for device approval, including the Premarket Approval (PMA) for high-risk devices, the De Novo Process for novel low- to moderate-risk devices, and a modified 510(k) program. The 510(k) program has been updated to facilitate the adoption of new technologies and safer products by offering a less rigorous pathway than the PMA when significant safety and efficacy questions are not present. Training courses are available to help navigate these market access requirements for medical device software and Digital Health (DH) solutions. Companies like Diagnos Inc. are actively engaging with these regulatory frameworks, as evidenced by their annual registration with the FDA for their AI-based eye-health detection system. However, the complexity of these processes, particularly the PMA's substantial data requirements and review steps, can still present significant hurdles. Furthermore, the broader context of scientific evidence and its presentation is sometimes debated, with concerns raised about certain documents being perceived as advocacy rather than neutral descriptions. Forward-looking statements regarding development and commercialization also carry inherent risks that may affect actual outcomes.",
+  "loaded_language_removed": [
+    "disturbing letter",
+    "improprieties"
+  ],
+  "key_agreements": [
+    "The FDA has established processes for medical device approval, including PMA, De Novo, and 510(k).",
+    "The 510(k) program has been modified to encourage new technology.",
+    "The PMA process for high-risk devices involves significant data requirements and review steps."
+  ],
+  "key_disagreements": [
+    "Agent B views the Reference Manual on Scientific Evidence as an advocacy document, while Agent A does not explicitly address this point but focuses on regulatory processes.",
+    "Agent B highlights risks associated with forward-looking statements, which Agent A does not directly counter but implies a focus on established processes."
+  ],
+  "source_citations": [
+    "[1]",
+    "[2]",
+    "[3]",
+    "[4]",
+    "[5]",
+    "[6]",
+    "[7]",
+    "[8]"
+  ],
+  "hallucination_flags": [
+    "Regulatory constraints also extend to other health-related domains, including veterinary medicine",
+    "asserting that even with the removal of the chapter on climate change, the Reference Manual on Scientific Evidence, Fourth Edition is an advocacy document, not a neutral description of scientific practi",
+    "The PMA process for high-risk devices involves significant data requirements and review steps.",
+    "The 510(k) program, while modified, still involves a longer, more involved, and more expensive route (PMA) when safety and efficacy issues remain substantially.",
+    "The De Novo Process: Exploring the pathway for novel low- to moderate-risk devices that lack a predicate.",
+    "Actual results may differ materially from those indicated by forward-looking statements due to various factors, including financial condition, development work, and commercialization risks.",
+    "In-depth look at the PMA process for high-risk devices, including data requirements and review steps.",
+    "Regulatory constraints extend to other health-related domains, including veterinary medicine.",
+    "The Reference Manual on Scientific Evidence, Fourth Edition is an advocacy document, not a neutral description of scientific practice, even after the removal of the chapter on climate change.",
+    "rather than the longer, more involved and more expensive PMA route when safety and efficacy issues remain substantially",
+    "Diagnos Inc. has completed its annual registration for its medical device establishment with the U.S. Food and Drug Administration (FDA).",
+    "Diagnos Inc. ... is pleased to announce that the annual registration for its medical device establishment with the U.S. Food and Drug Administration (FDA) has be",
+    "Training courses are available that provide a clear understanding of different market access requirements for medical device software, including those for Digital Health (DH) solutions."
+  ],
+  "nlp_validation_note": "The manual NLP analysis indicates a predominantly positive sentiment distribution, aligning with the overall supportive tone of the provided source excerpts regarding AI regulation in the US medical device sector.",
+  "visual_context": "",
+  "nlp_context_used": true,
+  "chain_of_thought": [
+    {
+      "step_type": "pipeline",
+      "phase": "Phase 4",
+      "title": "Multi-Agent RAG Synthesis Started",
+      "detail": "Topic: AI Regulation USA\nVisual context: No\nNLP context: Yes",
+      "evidence": [
+        "Topic: AI Regulation USA",
+        "Visual context available: False",
+        "NLP context available: True"
+      ],
+      "confidence": 1.0,
+      "score": null,
+      "timestamp": "17:35:22.171",
+      "elapsed_ms": 0,
+      "agent": ""
+    },
+    {
+      "step_type": "retrieval",
+      "phase": "Phase 4",
+      "title": "ChromaDB Ready — 117 chunks",
+      "detail": "Vector store verified.\nTotal chunks: 117\nStance breakdown: {'Supportive': 66, 'Critical': 0, 'Neutral': 51}",
+      "evidence": [
+        "Total chunks: 117",
+        "Supportive: 66",
+        "Critical:   0",
+        "Neutral:    51"
+      ],
+      "confidence": 1.0,
+      "score": null,
+      "timestamp": "17:35:22.210",
+      "elapsed_ms": 38,
+      "agent": "Pipeline"
+    },
+    {
+      "step_type": "retrieval",
+      "phase": "Phase 3",
+      "title": "Semantic Search — Agent A",
+      "detail": "Query: \"benefits advantages support arguments in favour of AI Regulation USA\"\nRetrieved 12 relevant chunks from ChromaDB vector store. Filtered by stance: Supportive.",
+      "evidence": [
+        "Retrieved 12 chunks",
+        "Stance filter: Supportive",
+        "Sources: GlobeNewswire, Wattsupwiththat.com"
+      ],
+      "confidence": 1.0,
+      "score": null,
+      "timestamp": "17:35:23.646",
+      "elapsed_ms": 1435,
+      "agent": "Agent A"
+    },
+    {
+      "step_type": "argument",
+      "phase": "Phase 4",
+      "title": "Agent A — Building Prompt",
+      "detail": "Constructed prompt with:\n• 12 RAG chunks\n• Visual context: no\n• NLP context: yes",
+      "evidence": [
+        "RAG chunks: 12",
+        "Prompt length: 6209 chars"
+      ],
+      "confidence": 0.9,
+      "score": null,
+      "timestamp": "17:35:23.646",
+      "elapsed_ms": 0,
+      "agent": "Agent A"
+    },
+    {
+      "step_type": "argument",
+      "phase": "Phase 4",
+      "title": "Agent A → 5 supporting arguments (conf: 0.99)",
+      "detail": "Agent A extracted 5 supporting arguments using RAG retrieval from ChromaDB.\nNLP context provided: VADER sentiment scores and named entities helped identify strongest evidence.\nConfidence score: 0.99",
+      "evidence": [
+        "Extracted 5 arguments",
+        "Agent confidence: 0.99",
+        "NLP context (VADER+spaCy) used",
+        "• The U.S. Food and Drug Administration (FDA) has a Premarket Approval (PMA) proce",
+        "• The 510(k) program has been modified to encourage new technology and/or safer pr"
+      ],
+      "confidence": 0.994,
+      "score": null,
+      "timestamp": "17:35:29.484",
+      "elapsed_ms": 5838,
+      "agent": "Agent A"
+    },
+    {
+      "step_type": "retrieval",
+      "phase": "Phase 3",
+      "title": "Semantic Search — Agent B",
+      "detail": "Query: \"criticism problems risks opposition concerns about AI Regulation USA\"\nRetrieved 12 relevant chunks from ChromaDB vector store. Filtered by stance: Critical.",
+      "evidence": [
+        "Retrieved 12 chunks",
+        "Stance filter: Critical",
+        "Sources: GlobeNewswire, Wattsupwiththat.com"
+      ],
+      "confidence": 1.0,
+      "score": null,
+      "timestamp": "17:35:32.052",
+      "elapsed_ms": 2567,
+      "agent": "Agent B"
+    },
+    {
+      "step_type": "argument",
+      "phase": "Phase 4",
+      "title": "Agent B → 5 counter arguments (conf: 0.85)",
+      "detail": "Agent B extracted 5 counter arguments using RAG retrieval from ChromaDB.\nNLP context provided: VADER sentiment scores and named entities helped identify strongest evidence.\nConfidence score: 0.85",
+      "evidence": [
+        "Extracted 5 arguments",
+        "Agent confidence: 0.85",
+        "NLP context (VADER+spaCy) used",
+        "• The Reference Manual on Scientific Evidence, Fourth Edition is an advocacy docum",
+        "• Actual results may differ materially from those indicated by forward-looking sta"
+      ],
+      "confidence": 0.85,
+      "score": null,
+      "timestamp": "17:35:36.246",
+      "elapsed_ms": 4194,
+      "agent": "Agent B"
+    },
+    {
+      "step_type": "retrieval",
+      "phase": "Phase 3",
+      "title": "Semantic Search — Agent C",
+      "detail": "Query: \"facts analysis evidence about AI Regulation USA\"\nRetrieved 15 relevant chunks from ChromaDB vector store.",
+      "evidence": [
+        "Retrieved 15 chunks",
+        "Sources: GlobeNewswire, Wattsupwiththat.com"
+      ],
+      "confidence": 1.0,
+      "score": null,
+      "timestamp": "17:35:37.273",
+      "elapsed_ms": 1027,
+      "agent": "Agent C"
+    },
+    {
+      "step_type": "validation",
+      "phase": "Phase 4",
+      "title": "Hallucination Check — 13 flags",
+      "detail": "Checked 23 claims against 20 source chunks.\nFlagged 13 potentially ungrounded claims.\nMethod: TF-IDF cosine similarity (threshold=0.35)",
+      "evidence": [
+        "Total claims checked: 23",
+        "Source chunks used: 20",
+        "Claims flagged: 13",
+        "Claims verified: 10"
+      ],
+      "confidence": 0.5,
+      "score": null,
+      "timestamp": "17:35:37.300",
+      "elapsed_ms": 26,
+      "agent": "Agent C"
+    },
+    {
+      "step_type": "synthesis",
+      "phase": "Phase 4",
+      "title": "Gemini Synthesis Complete",
+      "detail": "Agent C called Gemini API with combined context:\nAgent A args + Agent B counters + RAG chunks + NLP validation data.\nResponse length: 2651 chars",
+      "evidence": [
+        "Prompt length: 5727 chars",
+        "Response length: 2651 chars"
+      ],
+      "confidence": 0.85,
+      "score": null,
+      "timestamp": "17:35:43.412",
+      "elapsed_ms": 6111,
+      "agent": "Agent C"
+    },
+    {
+      "step_type": "decision",
+      "phase": "Phase 4",
+      "title": "Bias Vector Computed → -0.5616 (Moderately Supportive)",
+      "detail": "Multi-dimensional bias vector computed:\nIdeological: -0.4481\nEmotional:   0.1728\nDiversity:   0.9802\nComposite:   -0.5616",
+      "evidence": [
+        "Ideological: -0.4481",
+        "Emotional:   0.1728",
+        "Info:        0.0000",
+        "Diversity:   0.9802",
+        "Composite:   -0.5616"
+      ],
+      "confidence": 0.922,
+      "score": -0.5616,
+      "timestamp": "17:35:43.417",
+      "elapsed_ms": 5,
+      "agent": "Agent C"
+    },
+    {
+      "step_type": "synthesis",
+      "phase": "Phase 4",
+      "title": "Agent C Synthesis → 199 words, 13 flags",
+      "detail": "Agent C synthesized arguments from both sides into a 199-word neutral report.\nHallucination check: 13 claims flagged as potentially ungrounded.\nNLP validation: The manual NLP analysis indicates a predominantly positive sentiment distribution, aligning with the overall supportive tone of the provided source excerpts regarding AI regulation in the US medical device sector.",
+      "evidence": [
+        "Synthesis length: 199 words",
+        "Hallucination flags: 13",
+        "NLP note: The manual NLP analysis indicates a predominantly positive sentiment distributio"
+      ],
+      "confidence": 0.5,
+      "score": null,
+      "timestamp": "17:35:43.417",
+      "elapsed_ms": 0,
+      "agent": "Agent C"
+    },
+    {
+      "step_type": "decision",
+      "phase": "Final",
+      "title": "Final Decision → -0.562 (Moderately Supportive)",
+      "detail": "Final composite bias score computed from:\n• Ideological bias (stance distribution)\n• Emotional bias (language analysis)\n• Source diversity (perspective coverage)\n• VADER validation (independent NLP)\nScore -0.5616 interpreted as: Moderately Supportive",
+      "evidence": [
+        "Final composite score: -0.5616",
+        "Interpretation: Moderately Supportive",
+        "Ideological: -0.4481",
+        "Emotional: 0.1728",
+        "Diversity: 0.9802",
+        "Entropy: 0.5446"
+      ],
+      "confidence": 0.9,
+      "score": -0.5616,
+      "timestamp": "17:35:43.417",
+      "elapsed_ms": 0,
+      "agent": "Agent C"
+    }
+  ],
+  "cot_summary": {
+    "topic": "AI Regulation USA",
+    "total_steps": 13,
+    "total_elapsed": 21.26,
+    "step_breakdown": {
+      "pipeline": 1,
+      "retrieval": 4,
+      "argument": 3,
+      "validation": 1,
+      "decision": 2,
+      "synthesis": 2
+    },
+    "phases": [
+      "Phase 4",
+      "Phase 3",
+      "Final"
+    ]
+  },
+  "agent_a": {
+    "arguments": [
+      "The U.S. Food and Drug Administration (FDA) has a Premarket Approval (PMA) process for high-risk devices, a De Novo Process for novel low- to moderate-risk devices lacking a predicate, and a modified 510(k) program and Q-Submission (Q-Sub) process for early FDA interaction.",
+      "The 510(k) program has been modified to encourage new technology and/or safer products to be submitted under a less severe process to advance the state of the art, rather than the longer, more involved, and more expensive PMA route when safety and efficacy issues remain substantially.",
+      "Diagnos Inc. has completed its annual registration for its medical device establishment with the U.S. Food and Drug Administration (FDA).",
+      "Training courses are available that provide a clear understanding of different market access requirements for medical device software, including those for Digital Health (DH) solutions.",
+      "Nuclear power is a major source of clean energy in the U.S., preventing hundreds of millions of metric tons of emissions annually and helping to maintain grid stability."
+    ],
+    "evidence": [
+      "The PMA Process: In-depth look at the PMA process for high-risk devices, including data requirements and review steps.",
+      "The De Novo Process: Exploring the pathway for novel low- to moderate-risk devices that lack a predicate.",
+      "New 510(k) Mod Program and Q-Sub Process: Overview of the streamlined 510(k) modification program and the Q-Submission (Q-Sub) process for early FDA int",
+      "The 510(k) program has recently been \"modified\" to encourage new technology and/or safer products to be submitted under the less severe 510(k) process to advance the state of the art, rather than the longer, more involved and more expensive PMA route when safety and efficacy issues remain substantially",
+      "Diagnos Inc. ... is pleased to announce that the annual registration for its medical device establishment with the U.S. Food and Drug Administration (FDA) has be",
+      "The \"Global Market Access for Medical Device Software (June 8th - June 9th, 2026)\" training has been added to ResearchAndMarkets.com's offering.",
+      "This course will provide a clear understanding of different market access requirements for medical device software.",
+      "Nuclear power is consistent and is already a major source of clean energy in the U.S., preventing hundreds of millions of metric tons of emissions annually."
+    ],
+    "key_sources": [
+      "GlobeNewswire"
+    ],
+    "confidence_score": 0.994,
+    "nlp_validated_arguments": [
+      "The U.S. Food and Drug Administration (FDA) has a Premarket Approval (PMA) process for high-risk devices, a De Novo Process for novel low- to moderate-risk devices lacking a predicate, and a modified 510(k) program and Q-Submission (Q-Sub) process for early FDA interaction.",
+      "The 510(k) program has been modified to encourage new technology and/or safer products to be submitted under a less severe process to advance the state of the art, rather than the longer, more involved, and more expensive PMA route when safety and efficacy issues remain substantially.",
+      "Diagnos Inc. has completed its annual registration for its medical device establishment with the U.S. Food and Drug Administration (FDA).",
+      "Training courses are available that provide a clear understanding of different market access requirements for medical device software, including those for Digital Health (DH) solutions.",
+      "Nuclear power is a major source of clean energy in the U.S., preventing hundreds of millions of metric tons of emissions annually and helping to maintain grid stability."
+    ],
+    "top_entities_referenced": [
+      "FDA",
+      "PMA",
+      "510(k)",
+      "De Novo Process",
+      "Q-Sub Process",
+      "Diagnos Inc.",
+      "medical device software",
+      "Digital Health",
+      "Nuclear power",
+      "U.S."
+    ],
+    "argument_traces": [
+      {
+        "argument": "The U.S. Food and Drug Administration (FDA) has a Premarket Approval (PMA) process for high-risk devices, a De Novo Process for novel low- to moderate-risk devices lacking a predicate, and a modified 510(k) program and Q-Submission (Q-Sub) process for early FDA interaction.",
+        "evidence": "The De Novo Process: Exploring the pathway for novel low- to moderate-risk devices that lack a predicate.",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/04/15/3274266/28124/en/Practical-Guide-to-FDA-Medical-Device-Submissions-510-k-PMA-and-Exemption-Pathways-WEBINAR.html"
+      },
+      {
+        "argument": "The 510(k) program has been modified to encourage new technology and/or safer products to be submitted under a less severe process to advance the state of the art, rather than the longer, more involved, and more expensive PMA route when safety and efficacy issues remain substantially.",
+        "evidence": "The 510(k) program has recently been \"modified\" to encourage new technology and/or safer products to be submitted under the less severe 510(k) process to advance the state of the art, rather than the longer, more involved and more expensive PMA route when safety and efficacy issues remain substantially",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/04/15/3274266/28124/en/Practical-Guide-to-FDA-Medical-Device-Submissions-510-k-PMA-and-Exemption-Pathways-WEBINAR.html"
+      },
+      {
+        "argument": "Diagnos Inc. has completed its annual registration for its medical device establishment with the U.S. Food and Drug Administration (FDA).",
+        "evidence": "Diagnos Inc. ... is pleased to announce that the annual registration for its medical device establishment with the U.S. Food and Drug Administration (FDA) has be",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/04/01/3266834/0/en/DIAGNOS-Successfully-Completes-the-Renewal-of-US-FDA-Medical-Device-Establishment-Registration.html"
+      },
+      {
+        "argument": "Training courses are available that provide a clear understanding of different market access requirements for medical device software, including those for Digital Health (DH) solutions.",
+        "evidence": "This course will provide a clear understanding of different market access requirements for medical device software.",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/04/14/3273216/28124/en/Global-Market-Access-for-Medical-Device-Software-Training-Course-Hands-on-Exercises-and-Case-Studies-to-Guide-You-Through-Intricate-Decisions-June-8th-June-9th-2026.html"
+      },
+      {
+        "argument": "Nuclear power is a major source of clean energy in the U.S., preventing hundreds of millions of metric tons of emissions annually and helping to maintain grid stability.",
+        "evidence": "Nuclear power is consistent and is already a major source of clean energy in the U.S., preventing hundreds of millions of metric tons of emissions annually.",
+        "source": "Wattsupwiththat.com",
+        "url": "https://wattsupwiththat.com/2026/04/20/weekly-climate-and-energy-news-roundup-687/"
+      }
+    ],
+    "visual_context_used": false,
+    "nlp_context_used": true
+  },
+  "agent_b": {
+    "counter_arguments": [
+      "The Reference Manual on Scientific Evidence, Fourth Edition is an advocacy document, not a neutral description of scientific practice, even after the removal of the chapter on climate change.",
+      "Actual results may differ materially from those indicated by forward-looking statements due to various factors, including financial condition, development work, and commercialization risks.",
+      "The PMA process for high-risk devices involves significant data requirements and review steps.",
+      "The 510(k) program, while modified, still involves a longer, more involved, and more expensive route (PMA) when safety and efficacy issues remain substantially.",
+      "Regulatory constraints extend to other health-related domains, including veterinary medicine."
+    ],
+    "evidence": [
+      "asserting that even with the removal of the chapter on climate change, the Reference Manual on Scientific Evidence, Fourth Edition is an advocacy document, not a neutral description of scientific practi",
+      "Actual results may differ materially from those indicated by such forward-looking statements as a result of various factors, including, but not limited to, risks related to: our financial condition and need for additional capital; our development work; cost and success of our product development activities and preclinical and clinical trials; commercializing any approved pharmaceutical product d",
+      "In-depth look at the PMA process for high-risk devices, including data requirements and review steps.",
+      "rather than the longer, more involved and more expensive PMA route when safety and efficacy issues remain substantially",
+      "Regulatory constraints also extend to other health-related domains, including veterinary medicine"
+    ],
+    "key_sources": [
+      "Wattsupwiththat.com",
+      "GlobeNewswire",
+      "Plos.org"
+    ],
+    "confidence_score": 0.85,
+    "nlp_validated_counter_arguments": [
+      "The Reference Manual on Scientific Evidence, Fourth Edition is an advocacy document, not a neutral description of scientific practice, even after the removal of the chapter on climate change."
+    ],
+    "top_critical_entities": [
+      "Richard Lindzen",
+      "William Happer",
+      "Steven Koonin",
+      "John Roberts",
+      "FDA"
+    ],
+    "visual_context_used": false,
+    "nlp_context_used": true
+  },
+  "agent_c": {
+    "synthesis_report": "The regulation of Artificial Intelligence (AI) in the United States, particularly concerning medical devices, involves several established pathways and ongoing considerations. The U.S. Food and Drug Administration (FDA) offers distinct processes for device approval, including the Premarket Approval (PMA) for high-risk devices, the De Novo Process for novel low- to moderate-risk devices, and a modified 510(k) program. The 510(k) program has been updated to facilitate the adoption of new technologies and safer products by offering a less rigorous pathway than the PMA when significant safety and efficacy questions are not present. Training courses are available to help navigate these market access requirements for medical device software and Digital Health (DH) solutions. Companies like Diagnos Inc. are actively engaging with these regulatory frameworks, as evidenced by their annual registration with the FDA for their AI-based eye-health detection system. However, the complexity of these processes, particularly the PMA's substantial data requirements and review steps, can still present significant hurdles. Furthermore, the broader context of scientific evidence and its presentation is sometimes debated, with concerns raised about certain documents being perceived as advocacy rather than neutral descriptions. Forward-looking statements regarding development and commercialization also carry inherent risks that may affect actual outcomes.",
+    "bias_score": -0.5616,
+    "loaded_language_removed": [
+      "disturbing letter",
+      "improprieties"
+    ],
+    "key_agreements": [
+      "The FDA has established processes for medical device approval, including PMA, De Novo, and 510(k).",
+      "The 510(k) program has been modified to encourage new technology.",
+      "The PMA process for high-risk devices involves significant data requirements and review steps."
+    ],
+    "key_disagreements": [
+      "Agent B views the Reference Manual on Scientific Evidence as an advocacy document, while Agent A does not explicitly address this point but focuses on regulatory processes.",
+      "Agent B highlights risks associated with forward-looking statements, which Agent A does not directly counter but implies a focus on established processes."
+    ],
+    "source_citations": [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[4]",
+      "[5]",
+      "[6]",
+      "[7]",
+      "[8]"
+    ],
+    "hallucination_flags": [
+      "Regulatory constraints also extend to other health-related domains, including veterinary medicine",
+      "asserting that even with the removal of the chapter on climate change, the Reference Manual on Scientific Evidence, Fourth Edition is an advocacy document, not a neutral description of scientific practi",
+      "The PMA process for high-risk devices involves significant data requirements and review steps.",
+      "The 510(k) program, while modified, still involves a longer, more involved, and more expensive route (PMA) when safety and efficacy issues remain substantially.",
+      "The De Novo Process: Exploring the pathway for novel low- to moderate-risk devices that lack a predicate.",
+      "Actual results may differ materially from those indicated by forward-looking statements due to various factors, including financial condition, development work, and commercialization risks.",
+      "In-depth look at the PMA process for high-risk devices, including data requirements and review steps.",
+      "Regulatory constraints extend to other health-related domains, including veterinary medicine.",
+      "The Reference Manual on Scientific Evidence, Fourth Edition is an advocacy document, not a neutral description of scientific practice, even after the removal of the chapter on climate change.",
+      "rather than the longer, more involved and more expensive PMA route when safety and efficacy issues remain substantially",
+      "Diagnos Inc. has completed its annual registration for its medical device establishment with the U.S. Food and Drug Administration (FDA).",
+      "Diagnos Inc. ... is pleased to announce that the annual registration for its medical device establishment with the U.S. Food and Drug Administration (FDA) has be",
+      "Training courses are available that provide a clear understanding of different market access requirements for medical device software, including those for Digital Health (DH) solutions."
+    ],
+    "nlp_validation_note": "The manual NLP analysis indicates a predominantly positive sentiment distribution, aligning with the overall supportive tone of the provided source excerpts regarding AI regulation in the US medical device sector.",
+    "bias_vector": {
+      "ideological_bias": -0.4481,
+      "emotional_bias": 0.1728,
+      "informational_bias": 0.0,
+      "source_diversity": 0.9802,
+      "stance_entropy": 0.5446,
+      "composite_score": -0.5616,
+      "confidence": 0.922,
+      "interpretation": "Moderately Supportive",
+      "dimension_labels": {
+        "ideological": "Moderately Supportive",
+        "emotional": "Moderate Emotional Bias",
+        "informational": "Mostly Factual",
+        "diversity": "High Source Diversity"
+      }
+    },
+    "visual_context_used": false,
+    "nlp_context_used": true
+  }
+}

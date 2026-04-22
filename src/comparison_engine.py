@@ -183,8 +183,8 @@ def _build_comparison(
         "top_counters_b":    cnt_b,
 
         # Synthesis
-        "synthesis_a":       report_a.get("synthesis_report", "")[:500],
-        "synthesis_b":       report_b.get("synthesis_report", "")[:500],
+        "synthesis_a":       report_a.get("synthesis_report", ""),
+        "synthesis_b":       report_b.get("synthesis_report", ""),
 
         # Raw results for charts
         "result_a":          result_a,

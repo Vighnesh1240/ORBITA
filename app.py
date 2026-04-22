@@ -1769,42 +1769,52 @@ def main():
         )
  
     st.markdown("<br>", unsafe_allow_html=True)
- 
-    # Search row
-    col_in, col_coll, col_btn = st.columns([4, 2, 1])
-    with col_in:
-        user_input = st.text_input(
-            label            = "topic",
-            placeholder      = "Enter a news topic — e.g.  Farm Laws India",
-            label_visibility = "collapsed",
-            key              = "topic_input",
+
+    # ── Only show search when NOT in demo mode ─────────────
+    _demo_active = st.session_state.get("demo_mode", False)
+
+    if not _demo_active:
+        # ── 3-column search row (topic | session | button) ─
+        col_in, col_session, col_btn = st.columns([4, 2, 1])
+        with col_in:
+            user_input = st.text_input(
+                label            = "topic",
+                placeholder      = "Enter a news topic — e.g.  Farm Laws India",
+                label_visibility = "collapsed",
+                key              = "topic_input",
+            )
+        with col_session:
+            collection_name = st.text_input(
+                label            = "session",
+                placeholder      = "Session name (optional)",
+                label_visibility = "collapsed",
+                key              = "collection_input",
+            )
+        with col_btn:
+            clicked = st.button(
+                "Analyse →",
+                type                = "primary",
+                use_container_width = True,
+                disabled            = st.session_state.running,
+            )
+
+        # Chips — only shown when NOT in demo mode
+        st.markdown(
+            '<div class="orb-chips">'
+            '<div class="orb-chip">Farm Laws India</div>'
+            '<div class="orb-chip">Crypto Regulation</div>'
+            '<div class="orb-chip">AI Policy India</div>'
+            '<div class="orb-chip">UPI Digital Payments</div>'
+            '<div class="orb-chip">Electric Vehicles India</div>'
+            '</div>',
+            unsafe_allow_html=True,
         )
-    with col_coll:
-        collection_name = st.text_input(
-            label            = "collection",
-            placeholder      = "Session name (optional)",
-            label_visibility = "collapsed",
-            key              = "collection_input",
-        )
-    with col_btn:
-        clicked = st.button(
-            "Analyse →",
-            type                = "primary",
-            use_container_width = True,
-            disabled            = st.session_state.running,
-        )
- 
-    # Example chips (display only)
-    st.markdown(
-        '<div class="orb-chips">'
-        '<div class="orb-chip">Farm Laws India</div>'
-        '<div class="orb-chip">Crypto Regulation</div>'
-        '<div class="orb-chip">AI Policy India</div>'
-        '<div class="orb-chip">UPI Digital Payments</div>'
-        '<div class="orb-chip">Electric Vehicles India</div>'
-        '</div>',
-        unsafe_allow_html=True,
-    )
+    else:
+        # Demo mode active — no search, no chips
+        # Variables must still exist to avoid NameError below
+        user_input      = ""
+        collection_name = ""
+        clicked         = False
  
     # Run pipeline on click
     if clicked and user_input.strip():
