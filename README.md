@@ -13,7 +13,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-![ORBITA Banner](https://img.shields.io/badge/🔭_ORBITA-Bias_Detection_AI-0A1628?style=for-the-badge&labelColor=00C6D7&color=0A1628)
  
 </div>
 ---
@@ -420,7 +419,6 @@ python demo_cache/create_demo_cache.py --list    # see all cached topics
 | Hallucination check | ❌ | ❌ | ❌ | ✅ |
 | Open source | ❌ | ❌ | ❌ | ✅ |
  
----
  
 
 </div>
