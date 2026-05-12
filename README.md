@@ -1,21 +1,23 @@
 <div align="center">
-# 🔭 ORBITA
- 
-### **Objective Reasoning & Bias Interpretation Tool for Analysis**
- 
-*An autonomous multi-agent RAG framework for real-time ideological bias quantification in news media*
- 
+
+<h1>🔭 ORBITA</h1>
+
+<h3><b>Objective Reasoning & Bias Interpretation Tool for Analysis</b></h3>
+
+<p><i>An autonomous multi-agent RAG framework for real-time ideological bias quantification in news media</i></p>
+
 <br/>
+
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.44-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Google Gemini](https://img.shields.io/badge/Gemini-1.5_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-1.5.5-FF6B35?style=for-the-badge)](https://trychroma.com)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
 
- 
+<br/>
+
 </div>
----
  
 ## 📌 Table of Contents
  
