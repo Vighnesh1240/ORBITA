@@ -33,7 +33,6 @@
 - [⚙️ Installation & Setup](#️-installation--setup)
 - [🚀 Running ORBITA](#-running-orbita)
 - [📊 Dashboard Pages](#-dashboard-pages)
-- [📈 Results & Evaluation](#-results--evaluation)
 - [🔮 Future Scope](#-future-scope)
 ---
  
