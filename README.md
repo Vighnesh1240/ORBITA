@@ -34,7 +34,6 @@
 - [🚀 Running ORBITA](#-running-orbita)
 - [📊 Dashboard Pages](#-dashboard-pages)
 - [📈 Results & Evaluation](#-results--evaluation)
-- [👥 Team](#-team)
 - [🔮 Future Scope](#-future-scope)
 ---
  
